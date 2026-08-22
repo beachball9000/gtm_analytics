@@ -1,0 +1,901 @@
+account_id,account_name,segment,industry,billing_state,billing_region,employee_count,created_date
+ACC00001,Stonebridge Realty,Solo Agent,Luxury Residential,CA,West,1,2024-07-17
+ACC00002,Stonebridge & Co.,Solo Agent,Residential Real Estate,CO,Southwest,1,2026-05-17
+ACC00003,Ridgeline Properties,Small Team,Property Management,OR,West,2,2023-11-23
+ACC00004,Stonebridge Partners,Large Team,Commercial Real Estate,MO,Midwest,11,2026-05-21
+ACC00005,Summit & Co.,Large Team,Luxury Residential,OH,Midwest,16,2025-01-10
+ACC00006,Cornerstone & Co.,Solo Agent,Luxury Residential,NC,Southeast,1,2025-01-17
+ACC00007,Foxglove & Co.,Small Team,Property Management,PA,Northeast,7,2023-12-01
+ACC00008,Cornerstone Real Estate,Large Team,Property Management,NM,Southwest,24,2024-10-08
+ACC00009,Cypress Group,Solo Agent,Luxury Residential,SC,Southeast,1,2023-10-13
+ACC00010,Summit Realty,Brokerage,Property Management,AZ,Southwest,247,2023-10-11
+ACC00011,Cypress Realty,Solo Agent,Property Management,NY,Northeast,1,2025-02-20
+ACC00012,Stonebridge & Co.,Solo Agent,property management,OR,West,1,2023-11-20
+ACC00013,Ridgeline Real Estate,Large Team,Luxury Residential,MO,Midwest,19,2025-11-05
+ACC00014,Cornerstone Real Estate,Solo Agent,Commercial Real Estate,CA,West,1,2025-01-13
+ACC00015,Ridgeline Group,Large Team,Property Management,PA,Northeast,26,2023-09-20
+ACC00016,Cypress Partners,Small Team,Commercial Real Estate,TX,Southwest,3,2025-03-28
+ACC00017,Stonebridge & Co.,Small Team,luxury residential,CA,West,2,2024-04-16
+ACC00018,Ridgeline & Co.,Small Team,Property Management,NV,West,8,2024-07-24
+ACC00019,Beacon & Co.,Solo Agent,Commercial Real Estate,TX,Southwest,1,2025-06-01
+ACC00020,Ridgeline Group,Solo Agent,Property Management,NV,West,1,2024-01-25
+ACC00021,Cornerstone Properties,Solo Agent,Residential Real Estate,CT,Northeast,1,2026-01-12
+ACC00022,Beacon Group,Solo Agent,Property Management,NV,West,1,2023-01-05
+ACC00023,Summit Realty,Brokerage,Residential Real Estate,CO,Southwest,72,2026-04-01
+ACC00024,Meridian Properties,Solo Agent,Luxury Residential,TX,Southwest,1,2023-05-20
+ACC00025,Lakeshore Properties,Small Team,Luxury Residential,NJ,Northeast,3,2024-06-18
+ACC00026,Meridian Realty,Solo Agent,Residential Real Estate,IL,Midwest,1,2023-05-29
+ACC00027,Beacon Real Estate,Large Team,Commercial Real Estate,MI,Midwest,26,2024-05-15
+ACC00028,Harbor & Co.,Brokerage,Commercial Real Estate,WA,West,138,2023-10-03
+ACC00029,Summit Realty,Solo Agent,Property Management,MN,Midwest,1,2024-06-24
+ACC00030,Cypress & Co.,Small Team,Luxury Residential,CO,Southwest,2,2024-06-20
+ACC00031,Summit Group,Small Team,Luxury Residential,NM,Southwest,4,2025-01-26
+ACC00032,Stonebridge Properties,Small Team,Property Management,AZ,Southwest,8,2024-12-25
+ACC00033,Stonebridge Properties,Solo Agent,Property Management,OR,West,1,2024-11-11
+ACC00034,Beacon Group,Large Team,Luxury Residential,OR,West,9,2024-03-31
+ACC00035,Blackwood Group,Solo Agent,Residential Real Estate,CO,Southwest,1,2024-07-24
+ACC00036,Ironwood Group,Small Team,Residential Real Estate,NM,Southwest,6,2024-06-27
+ACC00037,Ironwood Realty,Large Team,commercial real estate,SC,Southeast,22,2024-01-25
+ACC00038,Foxglove Partners,Small Team,Commercial Real Estate,MI,Midwest,7,2023-09-13
+ACC00039,Blackwood Partners,Solo Agent,Luxury Residential,TX,Southwest,1,2025-02-15
+ACC00040,Foxglove Properties,Small Team,Property Management,PA,Northeast,8,2024-10-21
+ACC00041,Cornerstone & Co.,Solo Agent,Residential Real Estate,OR,West,1,2024-11-17
+ACC00042,Foxglove Real Estate,Solo Agent,Residential Real Estate,WA,West,1,2025-08-31
+ACC00043,Cornerstone Properties,Small Team,Residential Real Estate,CO,Southwest,6,2023-01-12
+ACC00044,Beacon Real Estate,Solo Agent,Commercial Real Estate,SC,Southeast,1,2025-08-09
+ACC00045,Cornerstone & Co.,Small Team,Property Management,NM,Southwest,7,2025-08-30
+ACC00046,Lakeshore Real Estate,Solo Agent,Luxury Residential,FL,Southeast,1,2024-08-08
+ACC00047,Cypress Partners,Small Team,Property Management,CO,Southwest,3,2023-05-12
+ACC00048,Lakeshore Group,Brokerage,Property Management,CT,Northeast,339,2023-02-10
+ACC00049,Ironwood Group,Small Team,Property Management,CO,Southwest,8,2024-07-12
+ACC00050,Ironwood Properties,Small Team,Residential Real Estate,CT,Northeast,2,2025-03-17
+ACC00051,Ironwood Group,Solo Agent,Commercial Real Estate,MN,Midwest,1,2024-10-31
+ACC00052,Harbor & Co.,Small Team,Commercial Real Estate,CA,West,3,2023-04-17
+ACC00053,Meridian Properties,Solo Agent,Property Management,CT,Northeast,1,2023-09-16
+ACC00054,Harbor Real Estate,Small Team,Luxury Residential,NY,Northeast,6,2023-08-23
+ACC00055,Foxglove Properties,Brokerage,Residential Real Estate,FL,Southeast,338,2024-02-11
+ACC00056,Ironwood & Co.,Large Team,Residential Real Estate,OR,West,29,2026-03-05
+ACC00057,Lakeshore & Co.,Large Team,Residential Real Estate,NV,West,14,2025-09-30
+ACC00058,Stonebridge Real Estate,Small Team,Property Management,MI,Midwest,8,2026-01-07
+ACC00059,Foxglove Partners,Large Team,Property Management,MI,Midwest,19,2024-05-14
+ACC00060,Meridian & Co.,Solo Agent,Commercial Real Estate,NC,Southeast,1,2024-06-13
+ACC00061,Foxglove & Co.,Small Team,Luxury Residential,CO,Southwest,8,2025-09-27
+ACC00062,Lakeshore Partners,Solo Agent,Commercial Real Estate,MO,Midwest,1,2024-05-13
+ACC00063,Harbor & Co.,Small Team,Commercial Real Estate,OH,Midwest,2,2024-07-08
+ACC00064,Cypress Real Estate,Solo Agent,Commercial Real Estate,NM,Southwest,1,2025-09-18
+ACC00065,Ridgeline Group,Solo Agent,Residential Real Estate,TX,Southwest,1,2024-09-11
+ACC00066,Meridian Group,Small Team,Residential Real Estate,CO,Southwest,5,2025-10-02
+ACC00067,Ironwood Partners,Solo Agent,Residential Real Estate,CA,West,1,2025-09-05
+ACC00068,Ironwood Real Estate,Solo Agent,Residential Real Estate,MO,Midwest,1,2024-05-23
+ACC00069,Meridian Realty,Large Team,Property Management,SC,Southeast,15,2024-08-31
+ACC00070,Cypress Realty,Solo Agent,Luxury Residential,AZ,Southwest,1,2023-06-16
+ACC00071,Blackwood & Co.,Small Team,Luxury Residential,CT,Northeast,7,2023-03-08
+ACC00072,Cornerstone & Co.,Small Team,Property Management,MA,Northeast,8,2024-02-10
+ACC00073,Beacon & Co.,Solo Agent,Commercial Real Estate,OR,West,1,2024-09-21
+ACC00074,Stonebridge Group,Solo Agent,Residential Real Estate,SC,Southeast,1,2026-05-09
+ACC00075,Ridgeline Partners,Small Team,Commercial Real Estate,PA,Northeast,4,2023-02-12
+ACC00076,Ironwood Group,Small Team,Residential Real Estate,NC,Southeast,8,2025-10-04
+ACC00077,Cypress Realty,Small Team,Property Management,TN,Southeast,4,2024-08-13
+ACC00078,Cypress Partners,Brokerage,Residential Real Estate,NV,West,216,2025-04-07
+ACC00079,Cypress Properties,Small Team,Residential Real Estate,NJ,Northeast,7,2025-06-24
+ACC00080,Blackwood Real Estate,Brokerage,Luxury Residential,CA,West,89,2026-05-31
+ACC00081,Blackwood Real Estate,Brokerage,Property Management,NC,Southeast,272,2023-11-12
+ACC00082,Meridian Real Estate,Solo Agent,Property Management,AZ,Southwest,1,2023-10-24
+ACC00083,Meridian Real Estate,Solo Agent,Commercial Real Estate,CT,Northeast,1,2023-01-06
+ACC00084,Lakeshore Properties,Solo Agent,Property Management,OH,Midwest,1,2026-01-17
+ACC00085,Foxglove Properties,Small Team,Property Management,MN,Midwest,3,2025-02-19
+ACC00086,Beacon Realty,Large Team,Residential Real Estate,OH,Midwest,29,2025-06-20
+ACC00087,Ironwood & Co.,Small Team,Commercial Real Estate,CA,West,8,2024-06-26
+ACC00088,Cornerstone & Co.,Brokerage,Residential Real Estate,NC,Southeast,253,2025-09-26
+ACC00089,Blackwood Realty,Large Team,Property Management,CA,West,10,2023-07-25
+ACC00090,Meridian & Co.,Solo Agent,Luxury Residential,OH,Midwest,1,2023-10-26
+ACC00091,Ridgeline Properties,Small Team,Property Management,TN,Southeast,5,2024-05-08
+ACC00092,Ridgeline Realty,Large Team,Commercial Real Estate,NV,West,18,2025-08-10
+ACC00093,Ironwood Partners,Small Team,Commercial Real Estate,FL,Southeast,5,2025-07-24
+ACC00094,Foxglove Partners,Solo Agent,Residential Real Estate,NJ,Northeast,1,2024-08-27
+ACC00095,Lakeshore Properties,Small Team,Luxury Residential,MA,Northeast,7,2024-08-09
+ACC00096,Summit Real Estate,Small Team,Commercial Real Estate,NM,Southwest,2,2023-03-22
+ACC00097,Blackwood Properties,Solo Agent,Commercial Real Estate,NC,Southeast,1,2023-09-28
+ACC00098,Cornerstone & Co.,Small Team,Luxury Residential,NV,West,2,2023-06-04
+ACC00099,Foxglove Group,Small Team,Commercial Real Estate,MO,Midwest,8,2025-07-20
+ACC00100,Cypress Group,Small Team,Residential Real Estate,WA,West,7,2025-08-23
+ACC00101,Summit Group,Small Team,luxury residential,MN,Midwest,2,2023-08-27
+ACC00102,Stonebridge Properties,Solo Agent,Property Management,CO,Southwest,1,2025-01-29
+ACC00103,Cornerstone Partners,Brokerage,Residential Real Estate,TN,Southeast,81,2024-07-26
+ACC00104,Cornerstone Realty,Small Team,Residential Real Estate,MN,Midwest,7,2025-01-04
+ACC00105,Ridgeline Real Estate,Brokerage,Commercial Real Estate,MA,Northeast,137,2023-04-14
+ACC00106,Meridian Realty,Solo Agent,Commercial Real Estate,NJ,Northeast,1,2024-04-22
+ACC00107,Cornerstone Real Estate,Solo Agent,luxury residential,NM,Southwest,1,2023-02-22
+ACC00108,Beacon Partners,Small Team,Residential Real Estate,NM,Southwest,5,2025-12-13
+ACC00109,Summit Realty,Solo Agent,Commercial Real Estate,CT,Northeast,1,2025-12-03
+ACC00110,Lakeshore Real Estate,Small Team,Residential Real Estate,GA,Southeast,3,2025-06-27
+ACC00111,Cypress Group,Small Team,Property Management,CT,Northeast,2,2024-10-27
+ACC00112,Cornerstone Partners,Small Team,Property Management,NJ,Northeast,5,2024-03-16
+ACC00113,Foxglove Partners,Solo Agent,Commercial Real Estate,IL,Midwest,1,2024-06-06
+ACC00114,Meridian Real Estate,Solo Agent,Luxury Residential,SC,Southeast,1,2025-02-02
+ACC00115,Meridian Group,Large Team,Residential Real Estate,MI,Midwest,25,2025-05-16
+ACC00116,Cypress Group,Small Team,Residential Real Estate,TX,Southwest,6,2024-04-04
+ACC00117,Foxglove & Co.,Brokerage,Residential Real Estate,NJ,Northeast,390,2026-02-14
+ACC00118,Ridgeline Real Estate,Brokerage,Residential Real Estate,MN,Midwest,46,2024-12-19
+ACC00119,Lakeshore Properties,Small Team,Property Management,OR,West,7,2024-03-16
+ACC00120,Meridian Realty,Solo Agent,Luxury Residential,NY,Northeast,1,2023-04-18
+ACC00121,Cypress Realty,Small Team,Commercial Real Estate,NC,Southeast,2,2025-04-28
+ACC00122,Meridian Realty,Small Team,Residential Real Estate,NY,Northeast,4,2024-09-23
+ACC00123,Ironwood Properties,Solo Agent,Residential Real Estate,OH,Midwest,1,2023-09-03
+ACC00124,Stonebridge Realty,Large Team,Residential Real Estate,CT,Northeast,11,2024-12-26
+ACC00125,Ironwood Realty,Solo Agent,Property Management,NJ,Northeast,1,2025-04-08
+ACC00126,Ironwood Real Estate,Solo Agent,Luxury Residential,IL,Midwest,1,2023-08-05
+ACC00127,Harbor Real Estate,Solo Agent,Residential Real Estate,AZ,Southwest,1,2023-12-11
+ACC00128,Ridgeline & Co.,Solo Agent,Luxury Residential,TX,Southwest,1,2024-06-08
+ACC00129,Meridian & Co.,Small Team,Property Management,SC,Southeast,8,2026-04-01
+ACC00130,Blackwood Real Estate,Solo Agent,Property Management,TX,Southwest,1,2025-08-18
+ACC00131,Harbor & Co.,Solo Agent,Commercial Real Estate,FL,Southeast,1,2023-04-27
+ACC00132,Beacon Real Estate,Solo Agent,Luxury Residential,WA,West,1,2026-03-16
+ACC00133,Beacon Partners,Small Team,Residential Real Estate,WA,West,4,2023-12-20
+ACC00134,Foxglove Group,Large Team,Residential Real Estate,FL,Southeast,26,2026-05-09
+ACC00135,Meridian & Co.,Solo Agent,Luxury Residential,GA,Southeast,1,2026-05-19
+ACC00136,Foxglove Group,Solo Agent,Commercial Real Estate,GA,Southeast,1,2023-06-23
+ACC00137,Cornerstone Group,Solo Agent,Commercial Real Estate,CT,Northeast,1,2025-01-12
+ACC00138,Meridian Properties,Solo Agent,Residential Real Estate,NV,West,1,2023-07-27
+ACC00139,Lakeshore & Co.,Large Team,property management,MA,Northeast,18,2023-12-06
+ACC00140,Cornerstone Group,Small Team,Property Management,CO,Southwest,8,2024-09-25
+ACC00141,Ridgeline Group,Small Team,Luxury Residential,NY,Northeast,8,2023-11-28
+ACC00142,Ridgeline Group,Small Team,Residential Real Estate,NV,West,8,2025-11-22
+ACC00143,Ironwood Real Estate,Large Team,Residential Real Estate,NM,Southwest,11,2024-12-16
+ACC00144,Ridgeline Realty,Solo Agent,Commercial Real Estate,NM,Southwest,1,2023-07-22
+ACC00145,Cornerstone Properties,Solo Agent,residential real estate,SC,Southeast,1,2023-01-11
+ACC00146,Meridian Partners,Solo Agent,Property Management,IL,Midwest,1,2024-05-03
+ACC00147,Blackwood Partners,Solo Agent,Luxury Residential,NY,Northeast,1,2025-11-21
+ACC00148,Cypress Real Estate,Small Team,Commercial Real Estate,TX,Southwest,8,2023-06-25
+ACC00149,Harbor Group,Brokerage,Residential Real Estate,GA,Southeast,201,2024-06-03
+ACC00150,Ridgeline & Co.,Solo Agent,Commercial Real Estate,CO,Southwest,1,2026-01-23
+ACC00151,Summit Properties,Small Team,Residential Real Estate,CA,West,4,2025-07-26
+ACC00152,Summit & Co.,Small Team,Luxury Residential,NJ,Northeast,2,2023-03-16
+ACC00153,Beacon & Co.,Small Team,Commercial Real Estate,TN,Southeast,8,2025-03-02
+ACC00154,Ridgeline Real Estate,Small Team,Property Management,OR,West,2,2023-06-11
+ACC00155,Beacon Group,Solo Agent,Property Management,MN,Midwest,1,2026-05-19
+ACC00156,Ironwood Group,Solo Agent,Residential Real Estate,SC,Southeast,1,2023-04-28
+ACC00157,Lakeshore Group,Solo Agent,Luxury Residential,TN,Southeast,1,2023-05-18
+ACC00158,Meridian Properties,Brokerage,Property Management,SC,Southeast,363,2025-01-31
+ACC00159,Beacon Real Estate,Solo Agent,Residential Real Estate,MN,Midwest,1,2023-08-21
+ACC00160,Ridgeline Realty,Solo Agent,Property Management,TN,Southeast,1,2024-08-07
+ACC00161,Ridgeline & Co.,Small Team,Commercial Real Estate,OH,Midwest,6,2023-05-13
+ACC00162,Cypress Real Estate,Large Team,property management,NM,Southwest,26,2024-04-29
+ACC00163,Stonebridge & Co.,Large Team,Commercial Real Estate,CT,Northeast,22,2023-05-15
+ACC00164,Foxglove Real Estate,Solo Agent,Residential Real Estate,OR,West,1,2024-10-11
+ACC00165,Summit Realty,Solo Agent,Property Management,PA,Northeast,1,2023-09-22
+ACC00166,Cypress Group,Brokerage,Commercial Real Estate,IL,Midwest,313,2024-04-06
+ACC00167,Ridgeline Real Estate,Solo Agent,Residential Real Estate,MO,Midwest,1,2024-09-12
+ACC00168,Summit Realty,Solo Agent,Residential Real Estate,NY,Northeast,1,2026-02-28
+ACC00169,Cypress Group,Small Team,Property Management,NC,Southeast,3,2023-03-04
+ACC00170,Beacon Partners,Solo Agent,Luxury Residential,OH,Midwest,1,2023-05-03
+ACC00171,Lakeshore Real Estate,Small Team,Property Management,MO,Midwest,4,2024-12-08
+ACC00172,Blackwood Partners,Solo Agent,Luxury Residential,NV,West,1,2024-05-22
+ACC00173,Cypress Partners,Small Team,Luxury Residential,CT,Northeast,5,2024-01-24
+ACC00174,Summit Realty,Small Team,Luxury Residential,NC,Southeast,6,2024-05-08
+ACC00175,Blackwood & Co.,Solo Agent,Residential Real Estate,NC,Southeast,1,2023-01-17
+ACC00176,Harbor Partners,Small Team,Commercial Real Estate,NV,West,8,2024-02-03
+ACC00177,Lakeshore Real Estate,Solo Agent,Property Management,NJ,Northeast,1,2023-07-18
+ACC00178,Lakeshore Partners,Small Team,Residential Real Estate,SC,Southeast,3,2023-04-03
+ACC00179,Meridian & Co.,Solo Agent,Luxury Residential,NM,Southwest,1,2024-10-14
+ACC00180,Lakeshore Group,Small Team,Property Management,FL,Southeast,6,2024-09-05
+ACC00181,Meridian Partners,Small Team,Luxury Residential,WA,West,3,2024-06-27
+ACC00182,Lakeshore Partners,Small Team,luxury residential,WA,West,7,2023-08-14
+ACC00183,Cypress Properties,Large Team,Residential Real Estate,PA,Northeast,24,2025-08-23
+ACC00184,Lakeshore Real Estate,Solo Agent,Property Management,NC,Southeast,1,2023-12-21
+ACC00185,Blackwood Group,Solo Agent,Luxury Residential,AZ,Southwest,1,2024-09-03
+ACC00186,Foxglove Real Estate,Brokerage,Commercial Real Estate,CT,Northeast,105,2024-07-14
+ACC00187,Foxglove Group,Solo Agent,Commercial Real Estate,MN,Midwest,1,2023-06-11
+ACC00188,Meridian Properties,Small Team,Residential Real Estate,MA,Northeast,7,2023-10-09
+ACC00189,Harbor & Co.,Solo Agent,Commercial Real Estate,AZ,Southwest,1,2025-04-26
+ACC00190,Foxglove Realty,Small Team,Commercial Real Estate,FL,Southeast,6,2024-02-13
+ACC00191,Ironwood Partners,Large Team,Residential Real Estate,GA,Southeast,9,2023-12-27
+ACC00192,Foxglove Real Estate,Small Team,Commercial Real Estate,PA,Northeast,3,2024-11-17
+ACC00193,Beacon & Co.,Solo Agent,Commercial Real Estate,MI,Midwest,1,2023-08-19
+ACC00194,Foxglove Partners,Small Team,Luxury Residential,CT,Northeast,2,2024-01-31
+ACC00195,Cornerstone Realty,Solo Agent,Property Management,OR,West,1,2023-10-15
+ACC00196,Lakeshore & Co.,Solo Agent,Residential Real Estate,OH,Midwest,1,2026-03-19
+ACC00197,Foxglove Group,Solo Agent,Commercial Real Estate,MI,Midwest,1,2025-10-26
+ACC00198,Cypress Partners,Solo Agent,Commercial Real Estate,AZ,Southwest,1,2026-05-25
+ACC00199,Harbor Realty,Solo Agent,Residential Real Estate,PA,Northeast,1,2025-01-10
+ACC00200,Cornerstone & Co.,Solo Agent,Property Management,CO,Southwest,1,2025-12-01
+ACC00201,Cypress Partners,Solo Agent,Property Management,NC,Southeast,1,2025-04-30
+ACC00202,Harbor Real Estate,Small Team,Property Management,TX,Southwest,5,2023-04-03
+ACC00203,Ironwood Partners,Solo Agent,Property Management,TN,Southeast,1,2023-10-05
+ACC00204,Cypress Partners,Solo Agent,Residential Real Estate,PA,Northeast,1,2024-12-13
+ACC00205,Cornerstone Properties,Brokerage,Property Management,NV,West,127,2025-08-06
+ACC00206,Harbor Realty,Solo Agent,Residential Real Estate,CA,West,1,2025-05-08
+ACC00207,Cypress Properties,Solo Agent,Property Management,CA,West,1,2023-04-01
+ACC00208,Ridgeline & Co.,Solo Agent,Commercial Real Estate,PA,Northeast,1,2026-05-09
+ACC00209,Ironwood Real Estate,Small Team,Luxury Residential,NV,West,4,2026-04-26
+ACC00210,Blackwood Partners,Large Team,Property Management,GA,Southeast,16,2024-10-14
+ACC00211,Cypress Real Estate,Large Team,Property Management,AZ,Southwest,17,2023-04-29
+ACC00212,Stonebridge Properties,Small Team,Commercial Real Estate,IL,Midwest,5,2025-07-10
+ACC00213,Meridian & Co.,Solo Agent,Luxury Residential,PA,Northeast,1,2023-05-30
+ACC00214,Stonebridge Realty,Brokerage,Luxury Residential,MN,Midwest,391,2023-02-01
+ACC00215,Ironwood Partners,Solo Agent,Commercial Real Estate,NM,Southwest,1,2024-05-05
+ACC00216,Lakeshore Group,Small Team,Commercial Real Estate,TN,Southeast,6,2025-08-19
+ACC00217,Cornerstone Group,Solo Agent,Property Management,WA,West,1,2026-04-11
+ACC00218,Beacon & Co.,Small Team,Commercial Real Estate,CT,Northeast,3,2024-11-22
+ACC00219,Cypress & Co.,Small Team,Luxury Residential,TX,Southwest,8,2025-09-27
+ACC00220,Cornerstone Realty,Large Team,Luxury Residential,WA,West,25,2025-04-24
+ACC00221,Cypress Real Estate,Solo Agent,property management,MN,Midwest,1,2025-09-16
+ACC00222,Stonebridge & Co.,Small Team,Residential Real Estate,MN,Midwest,2,2024-08-10
+ACC00223,Blackwood Partners,Solo Agent,Commercial Real Estate,TX,Southwest,1,2025-12-14
+ACC00224,Harbor & Co.,Brokerage,Commercial Real Estate,TX,Southwest,224,2024-04-07
+ACC00225,Ironwood & Co.,Small Team,Luxury Residential,NJ,Northeast,6,2023-01-20
+ACC00226,Harbor & Co.,Large Team,Property Management,NM,Southwest,19,2026-03-06
+ACC00227,Meridian Properties,Small Team,Residential Real Estate,CO,Southwest,5,2025-03-26
+ACC00228,Cornerstone Realty,Small Team,Residential Real Estate,OR,West,8,2024-12-09
+ACC00229,Cypress Partners,Large Team,Property Management,MN,Midwest,27,2025-07-11
+ACC00230,Harbor Group,Solo Agent,Luxury Residential,GA,Southeast,1,2024-08-27
+ACC00231,Blackwood Partners,Solo Agent,residential real estate,NC,Southeast,1,2023-08-07
+ACC00232,Harbor Group,Solo Agent,Property Management,TX,Southwest,1,2026-02-14
+ACC00233,Ridgeline & Co.,Solo Agent,Luxury Residential,MN,Midwest,1,2023-06-23
+ACC00234,Ironwood Group,Small Team,Luxury Residential,MN,Midwest,4,2023-05-10
+ACC00235,Blackwood Realty,Small Team,Property Management,TN,Southeast,8,2024-02-05
+ACC00236,Meridian & Co.,Solo Agent,Luxury Residential,OH,Midwest,1,2025-05-31
+ACC00237,Blackwood Partners,Solo Agent,Luxury Residential,MI,Midwest,1,2025-10-02
+ACC00238,Beacon & Co.,Solo Agent,Residential Real Estate,MA,Northeast,1,2026-01-31
+ACC00239,Blackwood Properties,Large Team,Property Management,OR,West,22,2025-04-17
+ACC00240,Cypress Real Estate,Solo Agent,Property Management,NV,West,1,2026-05-09
+ACC00241,Foxglove & Co.,Small Team,Residential Real Estate,NJ,Northeast,7,2023-06-24
+ACC00242,Ironwood Realty,Brokerage,Commercial Real Estate,NY,Northeast,292,2025-03-29
+ACC00243,Ironwood Partners,Small Team,Luxury Residential,PA,Northeast,4,2026-03-24
+ACC00244,Stonebridge Properties,Solo Agent,Residential Real Estate,OR,West,1,2023-06-25
+ACC00245,Stonebridge Partners,Small Team,Residential Real Estate,NJ,Northeast,4,2025-09-02
+ACC00246,Ridgeline & Co.,Solo Agent,Residential Real Estate,WA,West,1,2024-12-03
+ACC00247,Foxglove Properties,Solo Agent,Luxury Residential,MA,Northeast,1,2025-08-04
+ACC00248,Cornerstone Properties,Solo Agent,property management,NM,Southwest,1,2025-05-29
+ACC00249,Foxglove Partners,Solo Agent,Property Management,NM,Southwest,1,2024-02-08
+ACC00250,Stonebridge Group,Solo Agent,Luxury Residential,CA,West,1,2025-07-26
+ACC00251,Ironwood Real Estate,Solo Agent,Luxury Residential,OH,Midwest,1,2025-02-03
+ACC00252,Ridgeline Properties,Small Team,Luxury Residential,NJ,Northeast,6,2023-12-21
+ACC00253,Cypress & Co.,Small Team,Property Management,NV,West,7,2024-02-04
+ACC00254,Cornerstone Group,Small Team,Residential Real Estate,FL,Southeast,3,2023-06-19
+ACC00255,Harbor Real Estate,Large Team,Property Management,TX,Southwest,26,2026-03-04
+ACC00256,Ironwood Realty,Large Team,Property Management,MA,Northeast,10,2023-03-27
+ACC00257,Harbor Properties,Solo Agent,Property Management,OH,Midwest,1,2023-06-28
+ACC00258,Summit Real Estate,Solo Agent,Luxury Residential,NC,Southeast,1,2023-10-13
+ACC00259,Cypress & Co.,Brokerage,Commercial Real Estate,IL,Midwest,61,2024-08-22
+ACC00260,Stonebridge Group,Large Team,Luxury Residential,OH,Midwest,13,2023-09-17
+ACC00261,Harbor Partners,Small Team,Property Management,MO,Midwest,7,2025-02-07
+ACC00262,Beacon & Co.,Solo Agent,Residential Real Estate,NC,Southeast,1,2023-01-06
+ACC00263,Blackwood Group,Brokerage,Property Management,AZ,Southwest,380,2024-03-09
+ACC00264,Ridgeline Partners,Solo Agent,Residential Real Estate,NV,West,1,2025-07-30
+ACC00265,Blackwood Realty,Large Team,Luxury Residential,NM,Southwest,20,2024-09-10
+ACC00266,Harbor & Co.,Solo Agent,Luxury Residential,TX,Southwest,1,2024-09-17
+ACC00267,Stonebridge Group,Small Team,property management,TX,Southwest,7,2025-11-29
+ACC00268,Lakeshore Group,Solo Agent,Residential Real Estate,WA,West,1,2023-07-02
+ACC00269,Ridgeline Partners,Solo Agent,Residential Real Estate,NM,Southwest,1,2026-02-27
+ACC00270,Ridgeline Realty,Small Team,Residential Real Estate,PA,Northeast,4,2024-03-20
+ACC00271,Meridian & Co.,Solo Agent,Luxury Residential,NM,Southwest,1,2023-06-22
+ACC00272,Blackwood & Co.,Small Team,Luxury Residential,TX,Southwest,5,2025-11-09
+ACC00273,Summit Group,Small Team,Residential Real Estate,NM,Southwest,5,2026-05-01
+ACC00274,Harbor Realty,Small Team,Property Management,MO,Midwest,2,2023-12-20
+ACC00275,Cypress Partners,Brokerage,Commercial Real Estate,NV,West,305,2025-03-26
+ACC00276,Cypress Properties,Small Team,Residential Real Estate,MA,Northeast,5,2024-07-22
+ACC00277,Harbor Partners,Solo Agent,Luxury Residential,CA,West,1,2025-06-14
+ACC00278,Ridgeline & Co.,Small Team,residential real estate,IL,Midwest,5,2023-12-26
+ACC00279,Stonebridge Group,Large Team,Luxury Residential,NY,Northeast,22,2024-06-14
+ACC00280,Cypress Group,Solo Agent,Residential Real Estate,NY,Northeast,1,2026-03-26
+ACC00281,Cypress Realty,Solo Agent,Residential Real Estate,IL,Midwest,1,2023-07-30
+ACC00282,Summit Real Estate,Solo Agent,Luxury Residential,MN,Midwest,1,2023-11-04
+ACC00283,Foxglove Realty,Solo Agent,Commercial Real Estate,OH,Midwest,1,2023-06-09
+ACC00284,Blackwood Group,Solo Agent,Commercial Real Estate,FL,Southeast,1,2025-08-10
+ACC00285,Meridian Partners,Small Team,Luxury Residential,OH,Midwest,3,2024-09-14
+ACC00286,Summit & Co.,Solo Agent,Residential Real Estate,NV,West,1,2024-12-10
+ACC00287,Harbor Realty,Solo Agent,Luxury Residential,AZ,Southwest,1,2023-05-03
+ACC00288,Ironwood Realty,Small Team,Luxury Residential,CA,West,7,2025-11-01
+ACC00289,Stonebridge Group,Solo Agent,Property Management,MI,Midwest,1,2024-10-07
+ACC00290,Ridgeline Partners,Solo Agent,Residential Real Estate,CO,Southwest,1,2026-04-12
+ACC00291,Blackwood Realty,Brokerage,Property Management,IL,Midwest,186,2024-03-01
+ACC00292,Cornerstone Group,Solo Agent,Luxury Residential,CT,Northeast,1,2024-11-02
+ACC00293,Cypress Properties,Solo Agent,Property Management,TX,Southwest,1,2025-04-08
+ACC00294,Ironwood Group,Solo Agent,Luxury Residential,CA,West,1,2024-03-31
+ACC00295,Lakeshore Realty,Solo Agent,Luxury Residential,CA,West,1,2025-06-27
+ACC00296,Foxglove Partners,Large Team,property management,GA,Southeast,14,2025-03-19
+ACC00297,Meridian Properties,Solo Agent,Residential Real Estate,MI,Midwest,1,2023-11-01
+ACC00298,Foxglove Real Estate,Solo Agent,Luxury Residential,WA,West,1,2025-02-23
+ACC00299,Ridgeline Realty,Large Team,Commercial Real Estate,NJ,Northeast,17,2024-12-05
+ACC00300,Harbor Properties,Small Team,Luxury Residential,GA,Southeast,6,2026-04-11
+ACC00301,Ridgeline Properties,Large Team,Commercial Real Estate,MA,Northeast,20,2025-03-06
+ACC00302,Cornerstone Partners,Small Team,Luxury Residential,OR,West,5,2024-12-21
+ACC00303,Summit Group,Solo Agent,Residential Real Estate,WA,West,1,2024-03-24
+ACC00304,Cypress Group,Solo Agent,Luxury Residential,CA,West,1,2026-04-16
+ACC00305,Ridgeline & Co.,Solo Agent,Commercial Real Estate,CT,Northeast,1,2024-09-10
+ACC00306,Ridgeline Partners,Small Team,Luxury Residential,NJ,Northeast,3,2024-12-31
+ACC00307,Lakeshore Real Estate,Solo Agent,Residential Real Estate,MA,Northeast,1,2026-03-08
+ACC00308,Harbor & Co.,Solo Agent,Luxury Residential,OR,West,1,2024-10-16
+ACC00309,Stonebridge Realty,Small Team,Commercial Real Estate,TX,Southwest,5,2024-12-18
+ACC00310,Harbor Partners,Small Team,Commercial Real Estate,SC,Southeast,3,2025-02-14
+ACC00311,Harbor Group,Solo Agent,Commercial Real Estate,WA,West,1,2024-10-14
+ACC00312,Foxglove Properties,Solo Agent,Residential Real Estate,NV,West,1,2025-09-15
+ACC00313,Blackwood Properties,Brokerage,Commercial Real Estate,TX,Southwest,312,2025-04-18
+ACC00314,Blackwood & Co.,Solo Agent,Residential Real Estate,SC,Southeast,1,2025-01-08
+ACC00315,Harbor Group,Solo Agent,Residential Real Estate,CO,Southwest,1,2024-08-20
+ACC00316,Ironwood Group,Small Team,Luxury Residential,WA,West,2,2025-03-04
+ACC00317,Stonebridge & Co.,Solo Agent,Residential Real Estate,FL,Southeast,1,2024-07-04
+ACC00318,Ironwood Real Estate,Brokerage,Luxury Residential,TN,Southeast,274,2026-04-22
+ACC00319,Beacon Properties,Solo Agent,Luxury Residential,OH,Midwest,1,2023-03-13
+ACC00320,Foxglove Properties,Solo Agent,Luxury Residential,OR,West,1,2025-06-10
+ACC00321,Cypress Partners,Small Team,Commercial Real Estate,FL,Southeast,2,2026-02-04
+ACC00322,Meridian Realty,Small Team,Residential Real Estate,NM,Southwest,5,2026-04-08
+ACC00323,Ironwood Properties,Small Team,Residential Real Estate,SC,Southeast,2,2025-08-26
+ACC00324,Summit Group,Solo Agent,Commercial Real Estate,NM,Southwest,1,2025-08-31
+ACC00325,Stonebridge Partners,Brokerage,Luxury Residential,OR,West,340,2024-04-11
+ACC00326,Cypress Group,Solo Agent,Property Management,CA,West,1,2024-03-08
+ACC00327,Cornerstone Realty,Solo Agent,Residential Real Estate,MA,Northeast,1,2025-12-09
+ACC00328,Harbor & Co.,Solo Agent,Property Management,TX,Southwest,1,2025-08-08
+ACC00329,Blackwood & Co.,Solo Agent,Commercial Real Estate,FL,Southeast,1,2025-08-29
+ACC00330,Foxglove Properties,Large Team,Luxury Residential,NM,Southwest,9,2024-03-14
+ACC00331,Summit Properties,Small Team,Luxury Residential,OR,West,7,2023-09-28
+ACC00332,Beacon Group,Large Team,Property Management,SC,Southeast,12,2024-12-15
+ACC00333,Harbor Partners,Brokerage,Commercial Real Estate,NY,Northeast,197,2025-02-05
+ACC00334,Cornerstone Realty,Solo Agent,Luxury Residential,MO,Midwest,1,2024-09-03
+ACC00335,Ironwood Partners,Small Team,Commercial Real Estate,CO,Southwest,6,2025-10-15
+ACC00336,Foxglove Group,Small Team,Property Management,MO,Midwest,8,2024-03-31
+ACC00337,Blackwood & Co.,Solo Agent,Property Management,PA,Northeast,1,2023-07-19
+ACC00338,Lakeshore Group,Solo Agent,Commercial Real Estate,OR,West,1,2024-04-02
+ACC00339,Cornerstone Real Estate,Large Team,Residential Real Estate,CA,West,18,2026-04-10
+ACC00340,Lakeshore Partners,Large Team,Luxury Residential,NV,West,14,2023-11-05
+ACC00341,Summit Partners,Solo Agent,Commercial Real Estate,NC,Southeast,1,2023-12-29
+ACC00342,Foxglove Partners,Small Team,Luxury Residential,CO,Southwest,5,2023-06-30
+ACC00343,Cypress Properties,Small Team,Residential Real Estate,CA,West,7,2025-02-03
+ACC00344,Blackwood Properties,Solo Agent,Property Management,IL,Midwest,1,2023-07-30
+ACC00345,Ridgeline Group,Small Team,Property Management,CT,Northeast,8,2024-11-22
+ACC00346,Summit Real Estate,Solo Agent,Luxury Residential,SC,Southeast,1,2024-04-04
+ACC00347,Summit & Co.,Solo Agent,Residential Real Estate,CA,West,1,2024-06-07
+ACC00348,Ridgeline Properties,Solo Agent,Commercial Real Estate,FL,Southeast,1,2026-01-25
+ACC00349,Harbor Real Estate,Solo Agent,Luxury Residential,PA,Northeast,1,2026-05-25
+ACC00350,Cornerstone Group,Solo Agent,Commercial Real Estate,TN,Southeast,1,2024-02-14
+ACC00351,Summit & Co.,Large Team,Commercial Real Estate,FL,Southeast,27,2025-09-11
+ACC00352,Harbor Group,Solo Agent,Residential Real Estate,GA,Southeast,1,2023-07-04
+ACC00353,Lakeshore & Co.,Solo Agent,Residential Real Estate,OR,West,1,2023-12-24
+ACC00354,Beacon Real Estate,Solo Agent,Luxury Residential,OR,West,1,2023-10-11
+ACC00355,Stonebridge Partners,Solo Agent,Commercial Real Estate,NV,West,1,2025-07-23
+ACC00356,Meridian Partners,Brokerage,Residential Real Estate,NV,West,214,2023-11-23
+ACC00357,Harbor Partners,Solo Agent,Property Management,CT,Northeast,1,2023-09-25
+ACC00358,Foxglove Group,Solo Agent,Luxury Residential,MO,Midwest,1,2025-12-10
+ACC00359,Cypress Real Estate,Solo Agent,Luxury Residential,FL,Southeast,1,2025-02-27
+ACC00360,Lakeshore Properties,Large Team,Residential Real Estate,NC,Southeast,25,2023-12-05
+ACC00361,Beacon Real Estate,Small Team,Luxury Residential,CT,Northeast,8,2025-04-05
+ACC00362,Ironwood Realty,Solo Agent,Residential Real Estate,MO,Midwest,1,2025-10-15
+ACC00363,Beacon Group,Small Team,Luxury Residential,NJ,Northeast,8,2025-11-07
+ACC00364,Lakeshore & Co.,Small Team,Property Management,MN,Midwest,2,2026-05-13
+ACC00365,Summit Properties,Solo Agent,Commercial Real Estate,NV,West,1,2024-08-20
+ACC00366,Ironwood Properties,Small Team,Residential Real Estate,MN,Midwest,7,2024-01-20
+ACC00367,Beacon Partners,Solo Agent,Residential Real Estate,SC,Southeast,1,2026-04-20
+ACC00368,Ridgeline & Co.,Small Team,Property Management,WA,West,2,2025-06-05
+ACC00369,Meridian & Co.,Small Team,Property Management,MA,Northeast,5,2024-10-21
+ACC00370,Stonebridge Real Estate,Large Team,Property Management,NC,Southeast,26,2023-10-10
+ACC00371,Ridgeline & Co.,Solo Agent,Commercial Real Estate,AZ,Southwest,1,2024-08-18
+ACC00372,Cypress Group,Small Team,Property Management,CT,Northeast,6,2026-03-14
+ACC00373,Ridgeline Group,Solo Agent,Luxury Residential,NC,Southeast,1,2023-04-26
+ACC00374,Beacon Realty,Solo Agent,Residential Real Estate,MO,Midwest,1,2026-01-13
+ACC00375,Ironwood Partners,Solo Agent,Residential Real Estate,NC,Southeast,1,2024-08-12
+ACC00376,Stonebridge & Co.,Large Team,Luxury Residential,NJ,Northeast,15,2025-06-26
+ACC00377,Stonebridge Real Estate,Solo Agent,Luxury Residential,FL,Southeast,1,2023-06-02
+ACC00378,Beacon & Co.,Solo Agent,commercial real estate,MA,Northeast,1,2023-11-26
+ACC00379,Cypress Group,Large Team,Property Management,CA,West,16,2024-09-08
+ACC00380,Cypress Partners,Solo Agent,Luxury Residential,NY,Northeast,1,2025-10-31
+ACC00381,Meridian Real Estate,Solo Agent,Luxury Residential,MN,Midwest,1,2024-08-24
+ACC00382,Lakeshore Partners,Solo Agent,Residential Real Estate,FL,Southeast,1,2024-05-14
+ACC00383,Blackwood & Co.,Large Team,Property Management,WA,West,11,2025-02-06
+ACC00384,Cornerstone & Co.,Brokerage,Residential Real Estate,AZ,Southwest,136,2026-01-06
+ACC00385,Ridgeline Realty,Large Team,Residential Real Estate,CT,Northeast,11,2025-06-10
+ACC00386,Cornerstone Group,Solo Agent,Residential Real Estate,NV,West,1,2024-05-30
+ACC00387,Foxglove & Co.,Solo Agent,Residential Real Estate,SC,Southeast,1,2025-03-08
+ACC00388,Foxglove Group,Solo Agent,Residential Real Estate,CA,West,1,2025-10-26
+ACC00389,Cornerstone Properties,Large Team,Property Management,TN,Southeast,13,2023-03-05
+ACC00390,Summit Real Estate,Brokerage,Luxury Residential,MO,Midwest,74,2023-01-23
+ACC00391,Foxglove Real Estate,Solo Agent,Luxury Residential,OH,Midwest,1,2024-12-05
+ACC00392,Cypress Partners,Solo Agent,Residential Real Estate,MO,Midwest,1,2024-01-07
+ACC00393,Lakeshore Properties,Solo Agent,Property Management,OH,Midwest,1,2026-04-04
+ACC00394,Blackwood & Co.,Solo Agent,Commercial Real Estate,AZ,Southwest,1,2025-07-11
+ACC00395,Foxglove Partners,Solo Agent,Luxury Residential,NM,Southwest,1,2024-05-19
+ACC00396,Harbor Properties,Small Team,Commercial Real Estate,SC,Southeast,8,2025-01-04
+ACC00397,Cypress & Co.,Solo Agent,Residential Real Estate,NY,Northeast,1,2023-06-06
+ACC00398,Ridgeline Group,Small Team,Property Management,NV,West,8,2026-01-18
+ACC00399,Cypress Realty,Small Team,Residential Real Estate,AZ,Southwest,8,2025-11-11
+ACC00400,Beacon Group,Solo Agent,Luxury Residential,FL,Southeast,1,2026-03-05
+ACC00401,Cypress Group,Solo Agent,Residential Real Estate,NV,West,1,2024-04-24
+ACC00402,Blackwood Real Estate,Solo Agent,Commercial Real Estate,MO,Midwest,1,2025-12-03
+ACC00403,Cornerstone Real Estate,Small Team,Commercial Real Estate,MN,Midwest,8,2023-06-09
+ACC00404,Cornerstone Realty,Large Team,Luxury Residential,SC,Southeast,13,2023-01-14
+ACC00405,Lakeshore & Co.,Solo Agent,Luxury Residential,TX,Southwest,1,2023-08-31
+ACC00406,Ridgeline Real Estate,Small Team,Residential Real Estate,AZ,Southwest,7,2025-04-21
+ACC00407,Cypress Partners,Solo Agent,Commercial Real Estate,PA,Northeast,1,2023-12-07
+ACC00408,Ridgeline Properties,Solo Agent,Property Management,NV,West,1,2026-05-27
+ACC00409,Lakeshore Partners,Small Team,Luxury Residential,PA,Northeast,3,2024-06-25
+ACC00410,Meridian Realty,Solo Agent,Property Management,AZ,Southwest,1,2024-02-19
+ACC00411,Ridgeline Real Estate,Small Team,Residential Real Estate,PA,Northeast,8,2023-08-29
+ACC00412,Ironwood Properties,Small Team,Residential Real Estate,TN,Southeast,4,2025-01-28
+ACC00413,Cornerstone Realty,Solo Agent,Commercial Real Estate,NJ,Northeast,1,2023-10-02
+ACC00414,Cornerstone & Co.,Small Team,Residential Real Estate,OR,West,4,2023-08-30
+ACC00415,Ironwood Real Estate,Small Team,Commercial Real Estate,NC,Southeast,7,2024-06-03
+ACC00416,Cypress Real Estate,Small Team,Property Management,TN,Southeast,4,2026-02-15
+ACC00417,Stonebridge Properties,Small Team,Luxury Residential,FL,Southeast,6,2023-09-01
+ACC00418,Foxglove Realty,Small Team,Luxury Residential,NY,Northeast,5,2023-04-17
+ACC00419,Summit & Co.,Solo Agent,Commercial Real Estate,NV,West,1,2024-03-30
+ACC00420,Ridgeline & Co.,Small Team,Residential Real Estate,MN,Midwest,2,2026-05-08
+ACC00421,Foxglove Realty,Solo Agent,Luxury Residential,NJ,Northeast,1,2023-03-10
+ACC00422,Ironwood Real Estate,Brokerage,Commercial Real Estate,WA,West,77,2025-03-29
+ACC00423,Blackwood Properties,Solo Agent,Commercial Real Estate,PA,Northeast,1,2026-02-19
+ACC00424,Cypress Group,Solo Agent,Residential Real Estate,OR,West,1,2025-04-13
+ACC00425,Ironwood Real Estate,Large Team,Commercial Real Estate,CT,Northeast,19,2026-03-23
+ACC00426,Harbor Partners,Large Team,Property Management,GA,Southeast,19,2023-02-26
+ACC00427,Harbor Partners,Small Team,Commercial Real Estate,MI,Midwest,6,2023-01-20
+ACC00428,Stonebridge & Co.,Solo Agent,Commercial Real Estate,OH,Midwest,1,2026-03-20
+ACC00429,Cornerstone Real Estate,Large Team,Luxury Residential,NM,Southwest,12,2024-02-28
+ACC00430,Cypress Realty,Small Team,Residential Real Estate,NV,West,6,2025-10-05
+ACC00431,Cypress Group,Large Team,Luxury Residential,CT,Northeast,27,2025-10-02
+ACC00432,Summit Real Estate,Small Team,Property Management,OR,West,8,2025-05-16
+ACC00433,Summit Realty,Brokerage,Property Management,GA,Southeast,197,2025-11-27
+ACC00434,Cornerstone Group,Small Team,Luxury Residential,MN,Midwest,4,2024-06-15
+ACC00435,Blackwood Partners,Solo Agent,Commercial Real Estate,GA,Southeast,1,2025-02-01
+ACC00436,Cornerstone Properties,Small Team,Property Management,WA,West,8,2024-04-27
+ACC00437,Blackwood Group,Small Team,Commercial Real Estate,SC,Southeast,5,2025-11-24
+ACC00438,Harbor Partners,Solo Agent,Property Management,NM,Southwest,1,2024-06-04
+ACC00439,Harbor Group,Brokerage,commercial real estate,PA,Northeast,363,2024-06-11
+ACC00440,Cypress Partners,Solo Agent,Commercial Real Estate,CT,Northeast,1,2024-08-05
+ACC00441,Lakeshore Partners,Small Team,Luxury Residential,SC,Southeast,8,2023-10-24
+ACC00442,Stonebridge Group,Solo Agent,Commercial Real Estate,CO,Southwest,1,2024-10-04
+ACC00443,Summit Properties,Brokerage,Luxury Residential,MA,Northeast,138,2025-04-27
+ACC00444,Beacon Real Estate,Solo Agent,Residential Real Estate,TX,Southwest,1,2023-07-15
+ACC00445,Ironwood Group,Solo Agent,Residential Real Estate,WA,West,1,2023-11-15
+ACC00446,Lakeshore Group,Solo Agent,residential real estate,CO,Southwest,1,2023-12-16
+ACC00447,Beacon & Co.,Solo Agent,Luxury Residential,PA,Northeast,1,2026-01-09
+ACC00448,Harbor Partners,Solo Agent,Property Management,NJ,Northeast,1,2024-12-12
+ACC00449,Beacon Real Estate,Solo Agent,Luxury Residential,IL,Midwest,1,2025-12-07
+ACC00450,Cypress Group,Large Team,Luxury Residential,WA,West,22,2024-08-22
+ACC00451,Harbor Partners,Solo Agent,Property Management,AZ,Southwest,1,2025-03-09
+ACC00452,Harbor & Co.,Solo Agent,Luxury Residential,MN,Midwest,1,2023-05-21
+ACC00453,Summit Properties,Solo Agent,Residential Real Estate,TX,Southwest,1,2023-11-08
+ACC00454,Beacon Properties,Small Team,Residential Real Estate,NC,Southeast,4,2024-04-21
+ACC00455,Ridgeline Realty,Small Team,Commercial Real Estate,NC,Southeast,2,2023-03-06
+ACC00456,Harbor & Co.,Solo Agent,Property Management,AZ,Southwest,1,2024-05-27
+ACC00457,Foxglove Group,Solo Agent,Luxury Residential,OR,West,1,2023-07-12
+ACC00458,Summit & Co.,Solo Agent,Commercial Real Estate,MA,Northeast,1,2025-09-12
+ACC00459,Cornerstone Realty,Solo Agent,Residential Real Estate,IL,Midwest,1,2024-07-19
+ACC00460,Foxglove Real Estate,Large Team,Luxury Residential,MI,Midwest,20,2024-05-24
+ACC00461,Lakeshore Real Estate,Small Team,Luxury Residential,NM,Southwest,7,2023-08-08
+ACC00462,Beacon & Co.,Solo Agent,Commercial Real Estate,TN,Southeast,1,2023-10-03
+ACC00463,Blackwood Real Estate,Solo Agent,Commercial Real Estate,PA,Northeast,1,2024-12-13
+ACC00464,Foxglove Real Estate,Solo Agent,Commercial Real Estate,TN,Southeast,1,2024-06-23
+ACC00465,Foxglove Partners,Solo Agent,Property Management,PA,Northeast,1,2023-05-10
+ACC00466,Harbor Realty,Small Team,Residential Real Estate,GA,Southeast,8,2023-08-15
+ACC00467,Ironwood & Co.,Small Team,Residential Real Estate,NV,West,2,2023-07-22
+ACC00468,Harbor Partners,Small Team,Luxury Residential,NY,Northeast,6,2023-01-27
+ACC00469,Blackwood Realty,Large Team,Residential Real Estate,WA,West,16,2024-06-28
+ACC00470,Ridgeline Real Estate,Solo Agent,Luxury Residential,SC,Southeast,1,2025-12-13
+ACC00471,Ridgeline Properties,Solo Agent,Property Management,PA,Northeast,1,2025-07-28
+ACC00472,Lakeshore Real Estate,Small Team,Property Management,NM,Southwest,5,2026-05-13
+ACC00473,Cypress & Co.,Small Team,Luxury Residential,MI,Midwest,5,2026-02-27
+ACC00474,Blackwood Realty,Small Team,Residential Real Estate,OR,West,3,2024-08-05
+ACC00475,Beacon Group,Large Team,Luxury Residential,OH,Midwest,20,2025-11-13
+ACC00476,Meridian Properties,Solo Agent,Residential Real Estate,TX,Southwest,1,2024-09-07
+ACC00477,Blackwood Realty,Large Team,Residential Real Estate,SC,Southeast,10,2026-03-26
+ACC00478,Harbor Properties,Large Team,Property Management,MO,Midwest,29,2025-06-08
+ACC00479,Ridgeline Group,Solo Agent,Commercial Real Estate,WA,West,1,2023-03-26
+ACC00480,Blackwood Partners,Small Team,Residential Real Estate,GA,Southeast,4,2026-03-24
+ACC00481,Ironwood Real Estate,Small Team,Property Management,CT,Northeast,8,2026-01-27
+ACC00482,Stonebridge Real Estate,Solo Agent,Luxury Residential,MA,Northeast,1,2025-03-20
+ACC00483,Ironwood Partners,Small Team,Residential Real Estate,MI,Midwest,3,2026-03-25
+ACC00484,Meridian Partners,Small Team,Luxury Residential,PA,Northeast,5,2024-09-16
+ACC00485,Summit Properties,Small Team,Residential Real Estate,AZ,Southwest,2,2023-11-16
+ACC00486,Stonebridge Real Estate,Solo Agent,Residential Real Estate,WA,West,1,2025-08-22
+ACC00487,Foxglove Real Estate,Small Team,Residential Real Estate,NY,Northeast,3,2023-10-17
+ACC00488,Summit Realty,Large Team,Residential Real Estate,CO,Southwest,30,2024-07-09
+ACC00489,Cypress & Co.,Solo Agent,Luxury Residential,CA,West,1,2025-03-02
+ACC00490,Stonebridge Realty,Solo Agent,Property Management,CA,West,1,2025-10-22
+ACC00491,Lakeshore Group,Solo Agent,Residential Real Estate,NC,Southeast,1,2023-11-18
+ACC00492,Lakeshore Partners,Large Team,Commercial Real Estate,OH,Midwest,21,2023-03-02
+ACC00493,Ridgeline Partners,Large Team,Property Management,NJ,Northeast,26,2024-04-10
+ACC00494,Blackwood & Co.,Small Team,Luxury Residential,AZ,Southwest,8,2026-04-04
+ACC00495,Stonebridge Realty,Large Team,Residential Real Estate,MA,Northeast,13,2024-10-12
+ACC00496,Stonebridge & Co.,Large Team,Property Management,MI,Midwest,15,2025-04-27
+ACC00497,Cornerstone & Co.,Solo Agent,Luxury Residential,TX,Southwest,1,2024-06-30
+ACC00498,Ironwood Partners,Large Team,Commercial Real Estate,CT,Northeast,15,2025-08-18
+ACC00499,Cornerstone & Co.,Solo Agent,Commercial Real Estate,WA,West,1,2023-01-31
+ACC00500,Ironwood Partners,Small Team,Property Management,NY,Northeast,7,2024-10-27
+ACC00501,Beacon Partners,Brokerage,Residential Real Estate,NY,Northeast,233,2026-03-17
+ACC00502,Beacon Partners,Small Team,Residential Real Estate,OR,West,5,2025-11-23
+ACC00503,Foxglove Partners,Small Team,Luxury Residential,IL,Midwest,3,2023-04-22
+ACC00504,Ridgeline Partners,Solo Agent,Commercial Real Estate,PA,Northeast,1,2025-04-26
+ACC00505,Stonebridge Partners,Small Team,Residential Real Estate,MI,Midwest,6,2023-12-02
+ACC00506,Ridgeline Group,Brokerage,property management,PA,Northeast,122,2025-02-14
+ACC00507,Ridgeline Realty,Solo Agent,Property Management,WA,West,1,2024-09-25
+ACC00508,Beacon Properties,Solo Agent,Residential Real Estate,WA,West,1,2025-10-18
+ACC00509,Blackwood Real Estate,Small Team,Luxury Residential,WA,West,3,2023-01-14
+ACC00510,Harbor Realty,Solo Agent,Commercial Real Estate,IL,Midwest,1,2023-03-08
+ACC00511,Stonebridge Real Estate,Small Team,Luxury Residential,MI,Midwest,2,2026-05-03
+ACC00512,Harbor Group,Large Team,Property Management,MN,Midwest,17,2023-05-19
+ACC00513,Harbor Real Estate,Solo Agent,Luxury Residential,PA,Northeast,1,2024-03-05
+ACC00514,Meridian Group,Solo Agent,Commercial Real Estate,OH,Midwest,1,2024-10-10
+ACC00515,Summit Realty,Large Team,Commercial Real Estate,FL,Southeast,12,2024-04-21
+ACC00516,Cypress & Co.,Brokerage,Residential Real Estate,MA,Northeast,384,2025-04-27
+ACC00517,Cypress Group,Solo Agent,Commercial Real Estate,IL,Midwest,1,2023-05-19
+ACC00518,Lakeshore & Co.,Small Team,Luxury Residential,TN,Southeast,8,2023-03-01
+ACC00519,Ironwood & Co.,Small Team,Commercial Real Estate,TX,Southwest,6,2025-08-01
+ACC00520,Lakeshore Realty,Small Team,Commercial Real Estate,MA,Northeast,8,2024-03-02
+ACC00521,Harbor Group,Small Team,Property Management,NC,Southeast,4,2023-12-06
+ACC00522,Blackwood Properties,Large Team,Property Management,SC,Southeast,12,2025-01-31
+ACC00523,Beacon Real Estate,Large Team,Property Management,WA,West,24,2023-07-09
+ACC00524,Cypress & Co.,Large Team,Residential Real Estate,OH,Midwest,10,2023-10-21
+ACC00525,Summit & Co.,Small Team,residential real estate,SC,Southeast,4,2025-12-05
+ACC00526,Blackwood & Co.,Small Team,Residential Real Estate,WA,West,3,2024-10-01
+ACC00527,Ridgeline Group,Small Team,Residential Real Estate,IL,Midwest,6,2025-06-22
+ACC00528,Stonebridge Group,Solo Agent,Commercial Real Estate,WA,West,1,2024-12-18
+ACC00529,Foxglove Realty,Small Team,luxury residential,IL,Midwest,2,2023-04-14
+ACC00530,Blackwood Group,Solo Agent,Property Management,GA,Southeast,1,2026-05-05
+ACC00531,Foxglove & Co.,Solo Agent,Residential Real Estate,CO,Southwest,1,2025-08-17
+ACC00532,Foxglove Group,Solo Agent,Property Management,NJ,Northeast,1,2025-01-14
+ACC00533,Blackwood Group,Solo Agent,Property Management,SC,Southeast,1,2025-09-07
+ACC00534,Ironwood Real Estate,Solo Agent,Commercial Real Estate,NV,West,1,2023-05-26
+ACC00535,Stonebridge Real Estate,Brokerage,Residential Real Estate,CO,Southwest,309,2025-02-25
+ACC00536,Meridian Partners,Solo Agent,Property Management,NM,Southwest,1,2023-06-09
+ACC00537,Meridian Partners,Brokerage,Residential Real Estate,MI,Midwest,62,2023-05-23
+ACC00538,Foxglove Properties,Solo Agent,Residential Real Estate,NV,West,1,2023-10-12
+ACC00539,Foxglove Group,Solo Agent,Commercial Real Estate,TN,Southeast,1,2024-10-10
+ACC00540,Summit Group,Brokerage,Luxury Residential,PA,Northeast,214,2025-04-07
+ACC00541,Meridian Partners,Large Team,Luxury Residential,OR,West,21,2023-03-05
+ACC00542,Cypress Partners,Solo Agent,Property Management,NJ,Northeast,1,2023-12-22
+ACC00543,Beacon & Co.,Solo Agent,Residential Real Estate,CO,Southwest,1,2023-05-27
+ACC00544,Beacon Real Estate,Large Team,Property Management,TN,Southeast,20,2026-05-22
+ACC00545,Cornerstone & Co.,Solo Agent,Property Management,NM,Southwest,1,2023-01-16
+ACC00546,Harbor Real Estate,Brokerage,Property Management,NV,West,174,2026-03-09
+ACC00547,Foxglove & Co.,Small Team,Residential Real Estate,FL,Southeast,6,2025-12-07
+ACC00548,Beacon Real Estate,Large Team,Property Management,NJ,Northeast,18,2025-08-18
+ACC00549,Meridian Group,Solo Agent,Commercial Real Estate,TX,Southwest,1,2026-05-08
+ACC00550,Harbor Properties,Small Team,Residential Real Estate,CA,West,4,2024-08-20
+ACC00551,Meridian Properties,Solo Agent,Residential Real Estate,MO,Midwest,1,2024-06-10
+ACC00552,Cypress Realty,Solo Agent,Property Management,NM,Southwest,1,2024-04-28
+ACC00553,Beacon & Co.,Small Team,Property Management,GA,Southeast,6,2025-04-25
+ACC00554,Ironwood Partners,Small Team,Residential Real Estate,MI,Midwest,7,2023-08-26
+ACC00555,Cypress Partners,Small Team,Property Management,FL,Southeast,8,2025-03-09
+ACC00556,Foxglove Group,Brokerage,Residential Real Estate,MN,Midwest,167,2023-03-26
+ACC00557,Foxglove & Co.,Solo Agent,Property Management,WA,West,1,2026-04-11
+ACC00558,Summit Partners,Solo Agent,Residential Real Estate,TX,Southwest,1,2023-01-22
+ACC00559,Meridian Realty,Small Team,luxury residential,TX,Southwest,6,2024-05-30
+ACC00560,Foxglove Real Estate,Solo Agent,Luxury Residential,WA,West,1,2026-05-23
+ACC00561,Blackwood Partners,Small Team,Property Management,MI,Midwest,3,2023-06-05
+ACC00562,Blackwood Properties,Solo Agent,Residential Real Estate,NV,West,1,2024-11-12
+ACC00563,Ironwood Properties,Solo Agent,Residential Real Estate,SC,Southeast,1,2025-10-04
+ACC00564,Summit Partners,Solo Agent,Commercial Real Estate,WA,West,1,2026-03-16
+ACC00565,Cypress & Co.,Solo Agent,Property Management,MN,Midwest,1,2024-11-06
+ACC00566,Cypress Group,Solo Agent,Property Management,NJ,Northeast,1,2025-02-26
+ACC00567,Blackwood & Co.,Solo Agent,Residential Real Estate,WA,West,1,2024-11-27
+ACC00568,Lakeshore Partners,Solo Agent,Residential Real Estate,TX,Southwest,1,2025-03-09
+ACC00569,Harbor Real Estate,Solo Agent,Luxury Residential,OR,West,1,2026-04-29
+ACC00570,Cornerstone & Co.,Solo Agent,Residential Real Estate,NV,West,1,2024-11-22
+ACC00571,Beacon Real Estate,Solo Agent,Property Management,CA,West,1,2023-10-17
+ACC00572,Harbor Partners,Solo Agent,Commercial Real Estate,WA,West,1,2023-04-13
+ACC00573,Ironwood Group,Small Team,Residential Real Estate,TN,Southeast,2,2024-03-27
+ACC00574,Lakeshore Realty,Solo Agent,Residential Real Estate,NY,Northeast,1,2024-03-12
+ACC00575,Summit Properties,Small Team,Luxury Residential,IL,Midwest,8,2025-06-17
+ACC00576,Stonebridge & Co.,Solo Agent,Luxury Residential,SC,Southeast,1,2023-01-15
+ACC00577,Ridgeline Real Estate,Solo Agent,Property Management,TX,Southwest,1,2024-07-08
+ACC00578,Cypress Properties,Small Team,Commercial Real Estate,WA,West,6,2024-09-08
+ACC00579,Foxglove & Co.,Large Team,Luxury Residential,OH,Midwest,15,2026-01-10
+ACC00580,Foxglove Realty,Small Team,Property Management,TX,Southwest,4,2025-08-29
+ACC00581,Summit Real Estate,Solo Agent,Residential Real Estate,OH,Midwest,1,2025-07-17
+ACC00582,Lakeshore Partners,Solo Agent,Property Management,MA,Northeast,1,2024-04-26
+ACC00583,Cornerstone Realty,Solo Agent,Luxury Residential,CO,Southwest,1,2025-04-24
+ACC00584,Ridgeline Partners,Brokerage,Luxury Residential,AZ,Southwest,202,2025-07-20
+ACC00585,Harbor Partners,Solo Agent,Residential Real Estate,CO,Southwest,1,2026-03-10
+ACC00586,Cypress Partners,Small Team,Luxury Residential,OH,Midwest,8,2023-12-15
+ACC00587,Meridian Properties,Small Team,Luxury Residential,WA,West,5,2024-05-20
+ACC00588,Ironwood Partners,Small Team,Residential Real Estate,FL,Southeast,5,2025-10-29
+ACC00589,Blackwood Properties,Small Team,Luxury Residential,NY,Northeast,5,2025-04-12
+ACC00590,Beacon Properties,Small Team,Residential Real Estate,CO,Southwest,8,2026-03-14
+ACC00591,Stonebridge Group,Small Team,Residential Real Estate,SC,Southeast,4,2023-01-03
+ACC00592,Lakeshore & Co.,Small Team,Residential Real Estate,NY,Northeast,2,2024-02-29
+ACC00593,Foxglove Real Estate,Small Team,Commercial Real Estate,IL,Midwest,3,2023-03-25
+ACC00594,Cornerstone Group,Solo Agent,Luxury Residential,NJ,Northeast,1,2025-09-06
+ACC00595,Cypress Real Estate,Solo Agent,Commercial Real Estate,IL,Midwest,1,2025-02-02
+ACC00596,Stonebridge Realty,Large Team,Commercial Real Estate,MA,Northeast,11,2025-07-14
+ACC00597,Harbor & Co.,Solo Agent,Residential Real Estate,AZ,Southwest,1,2023-06-07
+ACC00598,Ironwood Partners,Solo Agent,Luxury Residential,CA,West,1,2026-01-13
+ACC00599,Lakeshore & Co.,Large Team,Commercial Real Estate,NM,Southwest,30,2025-11-30
+ACC00600,Ridgeline Group,Large Team,Property Management,MA,Northeast,24,2025-06-30
+ACC00601,Beacon Properties,Large Team,Luxury Residential,MO,Midwest,26,2023-04-07
+ACC00602,Summit Group,Brokerage,Luxury Residential,AZ,Southwest,125,2023-11-11
+ACC00603,Ridgeline Group,Small Team,Commercial Real Estate,CO,Southwest,6,2023-03-13
+ACC00604,Lakeshore Properties,Solo Agent,Luxury Residential,CA,West,1,2025-10-19
+ACC00605,Stonebridge Partners,Brokerage,Luxury Residential,MI,Midwest,51,2026-03-20
+ACC00606,Meridian Properties,Small Team,commercial real estate,CO,Southwest,2,2023-08-28
+ACC00607,Blackwood Properties,Small Team,Luxury Residential,NY,Northeast,6,2026-04-09
+ACC00608,Meridian Real Estate,Brokerage,Luxury Residential,CA,West,397,2025-03-18
+ACC00609,Lakeshore Group,Solo Agent,Residential Real Estate,TN,Southeast,1,2025-02-02
+ACC00610,Meridian Real Estate,Solo Agent,Property Management,FL,Southeast,1,2025-05-18
+ACC00611,Ironwood & Co.,Brokerage,Property Management,NJ,Northeast,267,2023-05-16
+ACC00612,Ironwood Group,Small Team,Luxury Residential,PA,Northeast,2,2023-10-08
+ACC00613,Summit Properties,Small Team,luxury residential,MI,Midwest,7,2025-08-07
+ACC00614,Stonebridge & Co.,Small Team,Property Management,WA,West,2,2024-08-12
+ACC00615,Blackwood & Co.,Small Team,Property Management,NV,West,4,2025-01-10
+ACC00616,Beacon & Co.,Large Team,Residential Real Estate,WA,West,10,2023-11-30
+ACC00617,Cypress & Co.,Solo Agent,Residential Real Estate,IL,Midwest,1,2024-12-30
+ACC00618,Foxglove Group,Small Team,Commercial Real Estate,OR,West,2,2023-12-09
+ACC00619,Lakeshore Partners,Large Team,Luxury Residential,MN,Midwest,12,2023-01-27
+ACC00620,Harbor Realty,Small Team,Residential Real Estate,AZ,Southwest,5,2024-01-21
+ACC00621,Blackwood Realty,Solo Agent,Commercial Real Estate,IL,Midwest,1,2025-06-24
+ACC00622,Ironwood & Co.,Solo Agent,Luxury Residential,TX,Southwest,1,2024-03-05
+ACC00623,Blackwood Realty,Solo Agent,Residential Real Estate,CA,West,1,2023-03-09
+ACC00624,Lakeshore Realty,Brokerage,Luxury Residential,CA,West,327,2024-02-25
+ACC00625,Harbor Realty,Solo Agent,Luxury Residential,MO,Midwest,1,2025-10-22
+ACC00626,Harbor Properties,Brokerage,Residential Real Estate,CO,Southwest,125,2023-12-18
+ACC00627,Ironwood Partners,Small Team,Luxury Residential,GA,Southeast,5,2023-08-08
+ACC00628,Lakeshore & Co.,Small Team,Luxury Residential,OR,West,2,2025-11-30
+ACC00629,Beacon Properties,Solo Agent,Commercial Real Estate,NV,West,1,2025-07-24
+ACC00630,Foxglove Partners,Large Team,Commercial Real Estate,CA,West,25,2025-09-01
+ACC00631,Harbor & Co.,Solo Agent,Property Management,WA,West,1,2025-03-19
+ACC00632,Ironwood & Co.,Small Team,Residential Real Estate,CO,Southwest,8,2025-04-07
+ACC00633,Meridian Partners,Small Team,Commercial Real Estate,MN,Midwest,3,2025-03-30
+ACC00634,Ridgeline Realty,Solo Agent,Luxury Residential,CA,West,1,2025-10-15
+ACC00635,Meridian Real Estate,Brokerage,Commercial Real Estate,CA,West,283,2025-02-22
+ACC00636,Cypress Group,Solo Agent,Property Management,SC,Southeast,1,2025-10-16
+ACC00637,Summit Realty,Solo Agent,Property Management,WA,West,1,2024-10-06
+ACC00638,Meridian & Co.,Solo Agent,Property Management,TN,Southeast,1,2025-03-07
+ACC00639,Ironwood Real Estate,Solo Agent,Property Management,NJ,Northeast,1,2024-06-23
+ACC00640,Meridian Realty,Solo Agent,Commercial Real Estate,NJ,Northeast,1,2025-01-20
+ACC00641,Foxglove Group,Solo Agent,Luxury Residential,MO,Midwest,1,2023-04-26
+ACC00642,Foxglove Partners,Solo Agent,commercial real estate,NV,West,1,2023-02-10
+ACC00643,Harbor Partners,Brokerage,Property Management,CA,West,288,2025-02-12
+ACC00644,Cornerstone Partners,Solo Agent,Commercial Real Estate,IL,Midwest,1,2024-09-05
+ACC00645,Harbor & Co.,Brokerage,Luxury Residential,MO,Midwest,170,2025-04-03
+ACC00646,Lakeshore Realty,Small Team,Property Management,OR,West,5,2025-12-23
+ACC00647,Beacon & Co.,Solo Agent,Commercial Real Estate,MO,Midwest,1,2025-04-03
+ACC00648,Stonebridge Partners,Large Team,Property Management,NJ,Northeast,29,2026-03-27
+ACC00649,Stonebridge & Co.,Solo Agent,Luxury Residential,NJ,Northeast,1,2025-08-05
+ACC00650,Blackwood & Co.,Large Team,Commercial Real Estate,AZ,Southwest,12,2024-06-30
+ACC00651,Ironwood Partners,Solo Agent,Property Management,TX,Southwest,1,2024-09-27
+ACC00652,Summit & Co.,Solo Agent,Luxury Residential,NV,West,1,2024-07-22
+ACC00653,Foxglove & Co.,Solo Agent,Property Management,NY,Northeast,1,2023-05-11
+ACC00654,Meridian Real Estate,Small Team,Residential Real Estate,OR,West,2,2025-10-21
+ACC00655,Stonebridge Partners,Large Team,Commercial Real Estate,WA,West,13,2024-10-03
+ACC00656,Meridian Realty,Solo Agent,Property Management,CO,Southwest,1,2024-07-16
+ACC00657,Ridgeline Group,Solo Agent,Commercial Real Estate,CT,Northeast,1,2024-05-19
+ACC00658,Ironwood Group,Solo Agent,Luxury Residential,NJ,Northeast,1,2023-04-22
+ACC00659,Cornerstone Group,Solo Agent,Commercial Real Estate,GA,Southeast,1,2025-03-15
+ACC00660,Beacon Partners,Large Team,Residential Real Estate,TN,Southeast,22,2024-07-15
+ACC00661,Meridian & Co.,Small Team,Residential Real Estate,NM,Southwest,7,2025-11-02
+ACC00662,Foxglove Group,Small Team,Residential Real Estate,NM,Southwest,2,2023-10-06
+ACC00663,Lakeshore Partners,Small Team,Property Management,CT,Northeast,4,2023-09-24
+ACC00664,Lakeshore Properties,Large Team,Luxury Residential,CT,Northeast,27,2024-07-31
+ACC00665,Beacon Properties,Brokerage,Luxury Residential,OR,West,347,2026-02-17
+ACC00666,Ridgeline Real Estate,Small Team,Residential Real Estate,FL,Southeast,7,2023-11-02
+ACC00667,Cornerstone Properties,Large Team,Residential Real Estate,NC,Southeast,24,2025-10-09
+ACC00668,Blackwood & Co.,Solo Agent,Luxury Residential,AZ,Southwest,1,2024-02-28
+ACC00669,Cornerstone Group,Solo Agent,Luxury Residential,NV,West,1,2024-06-20
+ACC00670,Stonebridge Partners,Brokerage,Luxury Residential,MO,Midwest,316,2025-03-25
+ACC00671,Meridian & Co.,Solo Agent,Property Management,CA,West,1,2024-04-25
+ACC00672,Cypress Realty,Solo Agent,Commercial Real Estate,SC,Southeast,1,2025-03-19
+ACC00673,Stonebridge Real Estate,Brokerage,Luxury Residential,TN,Southeast,191,2025-08-16
+ACC00674,Ironwood Group,Brokerage,Commercial Real Estate,OR,West,254,2025-10-19
+ACC00675,Foxglove & Co.,Solo Agent,Luxury Residential,CO,Southwest,1,2025-10-03
+ACC00676,Beacon Partners,Solo Agent,Commercial Real Estate,TX,Southwest,1,2025-08-21
+ACC00677,Ridgeline Realty,Small Team,Residential Real Estate,NJ,Northeast,3,2025-10-06
+ACC00678,Summit Real Estate,Small Team,Luxury Residential,AZ,Southwest,2,2024-07-12
+ACC00679,Foxglove Realty,Large Team,Commercial Real Estate,NV,West,12,2023-02-23
+ACC00680,Blackwood Real Estate,Solo Agent,Property Management,TX,Southwest,1,2025-07-31
+ACC00681,Summit & Co.,Solo Agent,Luxury Residential,NC,Southeast,1,2026-03-11
+ACC00682,Ridgeline Properties,Brokerage,Residential Real Estate,CT,Northeast,114,2025-02-20
+ACC00683,Beacon Partners,Large Team,Luxury Residential,NC,Southeast,30,2024-08-06
+ACC00684,Beacon Group,Small Team,Property Management,MO,Midwest,2,2025-09-29
+ACC00685,Lakeshore Partners,Solo Agent,residential real estate,MA,Northeast,1,2025-05-22
+ACC00686,Beacon Group,Solo Agent,Property Management,MA,Northeast,1,2025-08-16
+ACC00687,Summit Real Estate,Solo Agent,Residential Real Estate,NY,Northeast,1,2026-03-10
+ACC00688,Cypress Realty,Large Team,Commercial Real Estate,NY,Northeast,14,2024-12-28
+ACC00689,Beacon & Co.,Solo Agent,Commercial Real Estate,NV,West,1,2024-09-01
+ACC00690,Harbor Partners,Solo Agent,Commercial Real Estate,TX,Southwest,1,2026-05-22
+ACC00691,Stonebridge Real Estate,Small Team,Property Management,CO,Southwest,6,2025-07-31
+ACC00692,Cornerstone Realty,Large Team,Luxury Residential,FL,Southeast,9,2023-06-29
+ACC00693,Cypress Properties,Small Team,Property Management,FL,Southeast,8,2024-05-10
+ACC00694,Stonebridge & Co.,Solo Agent,Luxury Residential,TN,Southeast,1,2023-08-27
+ACC00695,Summit Realty,Solo Agent,Property Management,CT,Northeast,1,2024-08-26
+ACC00696,Beacon Real Estate,Small Team,Residential Real Estate,PA,Northeast,3,2024-08-18
+ACC00697,Foxglove Partners,Solo Agent,Residential Real Estate,NV,West,1,2024-10-08
+ACC00698,Stonebridge Properties,Solo Agent,Residential Real Estate,MN,Midwest,1,2025-06-12
+ACC00699,Blackwood & Co.,Small Team,Property Management,CO,Southwest,8,2024-11-25
+ACC00700,Stonebridge Realty,Large Team,Luxury Residential,MN,Midwest,15,2023-11-28
+ACC00701,Cornerstone Real Estate,Small Team,Property Management,NY,Northeast,4,2025-05-01
+ACC00702,Lakeshore Partners,Solo Agent,Residential Real Estate,TX,Southwest,1,2025-10-28
+ACC00703,Cypress Group,Solo Agent,Commercial Real Estate,GA,Southeast,1,2024-11-27
+ACC00704,Meridian Realty,Brokerage,Residential Real Estate,SC,Southeast,116,2023-08-16
+ACC00705,Stonebridge Partners,Large Team,Luxury Residential,NV,West,29,2025-01-10
+ACC00706,Ironwood Realty,Large Team,Luxury Residential,OH,Midwest,18,2023-09-09
+ACC00707,Foxglove Properties,Solo Agent,Property Management,AZ,Southwest,1,2025-02-01
+ACC00708,Cypress & Co.,Solo Agent,Property Management,NC,Southeast,1,2025-04-18
+ACC00709,Ridgeline Partners,Brokerage,Commercial Real Estate,NY,Northeast,369,2023-06-23
+ACC00710,Foxglove & Co.,Large Team,Commercial Real Estate,NM,Southwest,9,2023-04-29
+ACC00711,Cornerstone Real Estate,Small Team,Property Management,PA,Northeast,7,2023-10-28
+ACC00712,Lakeshore Partners,Large Team,residential real estate,GA,Southeast,11,2024-09-09
+ACC00713,Cypress Real Estate,Solo Agent,luxury residential,NJ,Northeast,1,2024-11-28
+ACC00714,Cypress Group,Solo Agent,Commercial Real Estate,NY,Northeast,1,2023-05-03
+ACC00715,Cornerstone & Co.,Solo Agent,Property Management,SC,Southeast,1,2023-01-11
+ACC00716,Cypress Real Estate,Small Team,Luxury Residential,MA,Northeast,5,2025-02-12
+ACC00717,Ridgeline Partners,Large Team,Residential Real Estate,GA,Southeast,20,2023-06-17
+ACC00718,Meridian Partners,Solo Agent,Property Management,CT,Northeast,1,2026-02-18
+ACC00719,Ridgeline & Co.,Solo Agent,Property Management,TX,Southwest,1,2023-09-18
+ACC00720,Ironwood Realty,Brokerage,Residential Real Estate,TX,Southwest,51,2025-01-26
+ACC00721,Blackwood Group,Solo Agent,Commercial Real Estate,CT,Northeast,1,2025-01-30
+ACC00722,Stonebridge Partners,Solo Agent,Commercial Real Estate,NY,Northeast,1,2024-09-16
+ACC00723,Lakeshore Partners,Solo Agent,Commercial Real Estate,NV,West,1,2026-03-19
+ACC00724,Lakeshore Realty,Large Team,Luxury Residential,SC,Southeast,16,2025-07-08
+ACC00725,Ridgeline & Co.,Small Team,Commercial Real Estate,IL,Midwest,6,2025-06-26
+ACC00726,Cypress Properties,Solo Agent,Residential Real Estate,CT,Northeast,1,2026-01-14
+ACC00727,Stonebridge Real Estate,Brokerage,Luxury Residential,CO,Southwest,341,2024-07-17
+ACC00728,Summit Group,Solo Agent,Property Management,MN,Midwest,1,2023-04-03
+ACC00729,Cypress Properties,Solo Agent,Residential Real Estate,MI,Midwest,1,2023-07-06
+ACC00730,Lakeshore Properties,Solo Agent,Luxury Residential,TX,Southwest,1,2025-04-14
+ACC00731,Harbor Realty,Solo Agent,Commercial Real Estate,OH,Midwest,1,2024-10-25
+ACC00732,Blackwood Realty,Small Team,Property Management,NM,Southwest,6,2025-10-30
+ACC00733,Meridian & Co.,Solo Agent,Residential Real Estate,FL,Southeast,1,2024-04-23
+ACC00734,Foxglove Real Estate,Solo Agent,Property Management,AZ,Southwest,1,2025-04-13
+ACC00735,Beacon Real Estate,Small Team,property management,NM,Southwest,2,2025-05-17
+ACC00736,Cornerstone Real Estate,Small Team,Commercial Real Estate,MO,Midwest,2,2025-02-17
+ACC00737,Ridgeline & Co.,Solo Agent,Property Management,PA,Northeast,1,2023-07-03
+ACC00738,Stonebridge Partners,Brokerage,Commercial Real Estate,NJ,Northeast,205,2024-10-13
+ACC00739,Stonebridge Properties,Solo Agent,commercial real estate,TX,Southwest,1,2026-05-12
+ACC00740,Foxglove & Co.,Solo Agent,Property Management,TX,Southwest,1,2025-09-28
+ACC00741,Stonebridge Realty,Solo Agent,Commercial Real Estate,CA,West,1,2025-02-09
+ACC00742,Stonebridge Group,Solo Agent,Commercial Real Estate,WA,West,1,2023-02-10
+ACC00743,Lakeshore Realty,Large Team,Luxury Residential,MI,Midwest,28,2024-03-28
+ACC00744,Meridian Real Estate,Solo Agent,Residential Real Estate,NV,West,1,2025-03-22
+ACC00745,Ridgeline & Co.,Small Team,Luxury Residential,NY,Northeast,4,2026-05-19
+ACC00746,Summit & Co.,Small Team,Luxury Residential,PA,Northeast,7,2024-07-15
+ACC00747,Ironwood Group,Brokerage,Commercial Real Estate,CA,West,295,2023-04-17
+ACC00748,Ironwood Real Estate,Large Team,Residential Real Estate,NV,West,21,2024-04-04
+ACC00749,Cornerstone & Co.,Solo Agent,Residential Real Estate,MN,Midwest,1,2026-03-17
+ACC00750,Summit Real Estate,Solo Agent,Residential Real Estate,MI,Midwest,1,2023-07-18
+ACC00751,Cornerstone Realty,Brokerage,Commercial Real Estate,CO,Southwest,327,2023-04-22
+ACC00752,Stonebridge Realty,Solo Agent,Residential Real Estate,WA,West,1,2023-05-05
+ACC00753,Summit Real Estate,Small Team,Residential Real Estate,IL,Midwest,8,2025-06-03
+ACC00754,Foxglove Real Estate,Small Team,Luxury Residential,CA,West,5,2025-04-21
+ACC00755,Lakeshore Real Estate,Small Team,Residential Real Estate,MA,Northeast,2,2024-11-26
+ACC00756,Blackwood Group,Small Team,Luxury Residential,NV,West,7,2024-02-01
+ACC00757,Meridian Partners,Solo Agent,Residential Real Estate,NM,Southwest,1,2023-04-01
+ACC00758,Summit Real Estate,Small Team,Commercial Real Estate,AZ,Southwest,3,2026-05-20
+ACC00759,Cornerstone Realty,Solo Agent,Luxury Residential,OR,West,1,2024-02-05
+ACC00760,Ironwood Group,Small Team,Commercial Real Estate,GA,Southeast,5,2024-11-09
+ACC00761,Cornerstone Properties,Large Team,Luxury Residential,CO,Southwest,21,2024-04-01
+ACC00762,Lakeshore Realty,Solo Agent,commercial real estate,SC,Southeast,1,2023-01-14
+ACC00763,Cornerstone Properties,Small Team,Residential Real Estate,NM,Southwest,3,2025-01-07
+ACC00764,Summit Properties,Solo Agent,Luxury Residential,NM,Southwest,1,2026-02-09
+ACC00765,Blackwood Partners,Small Team,Commercial Real Estate,GA,Southeast,8,2023-08-16
+ACC00766,Ridgeline Properties,Brokerage,Residential Real Estate,AZ,Southwest,193,2025-06-07
+ACC00767,Meridian Properties,Solo Agent,Residential Real Estate,PA,Northeast,1,2024-05-15
+ACC00768,Meridian Partners,Solo Agent,Luxury Residential,AZ,Southwest,1,2024-07-27
+ACC00769,Foxglove Real Estate,Solo Agent,Property Management,NJ,Northeast,1,2025-11-07
+ACC00770,Beacon Partners,Small Team,Property Management,MI,Midwest,7,2025-12-12
+ACC00771,Ironwood Properties,Solo Agent,Property Management,OR,West,1,2024-02-20
+ACC00772,Blackwood Partners,Solo Agent,Luxury Residential,MO,Midwest,1,2023-06-23
+ACC00773,Ironwood Partners,Small Team,Property Management,NC,Southeast,4,2024-11-19
+ACC00774,Lakeshore Realty,Solo Agent,Commercial Real Estate,OR,West,1,2024-04-23
+ACC00775,Lakeshore Properties,Solo Agent,Residential Real Estate,OR,West,1,2025-01-07
+ACC00776,Blackwood Group,Small Team,commercial real estate,NM,Southwest,5,2023-10-10
+ACC00777,Cornerstone Properties,Small Team,Luxury Residential,WA,West,3,2025-11-15
+ACC00778,Lakeshore Properties,Small Team,Commercial Real Estate,CT,Northeast,3,2025-08-02
+ACC00779,Stonebridge Realty,Solo Agent,Luxury Residential,CT,Northeast,1,2023-10-12
+ACC00780,Summit Real Estate,Small Team,Commercial Real Estate,FL,Southeast,3,2025-04-06
+ACC00781,Cornerstone Partners,Large Team,Property Management,NY,Northeast,24,2026-03-21
+ACC00782,Harbor & Co.,Small Team,Commercial Real Estate,MO,Midwest,2,2025-07-13
+ACC00783,Cornerstone Group,Solo Agent,Property Management,CA,West,1,2023-05-23
+ACC00784,Harbor Properties,Solo Agent,Property Management,NV,West,1,2025-04-21
+ACC00785,Stonebridge & Co.,Solo Agent,Commercial Real Estate,CO,Southwest,1,2024-02-26
+ACC00786,Ridgeline Partners,Solo Agent,Commercial Real Estate,NY,Northeast,1,2025-07-28
+ACC00787,Summit & Co.,Large Team,Property Management,IL,Midwest,23,2025-10-02
+ACC00788,Meridian & Co.,Solo Agent,Property Management,MN,Midwest,1,2023-12-25
+ACC00789,Ridgeline Group,Solo Agent,Luxury Residential,PA,Northeast,1,2023-03-31
+ACC00790,Harbor Realty,Large Team,Residential Real Estate,NM,Southwest,14,2025-04-22
+ACC00791,Stonebridge & Co.,Small Team,Residential Real Estate,CO,Southwest,4,2025-08-04
+ACC00792,Ridgeline Group,Solo Agent,Residential Real Estate,TN,Southeast,1,2024-05-28
+ACC00793,Blackwood Properties,Small Team,Luxury Residential,MA,Northeast,6,2025-06-15
+ACC00794,Summit & Co.,Solo Agent,Luxury Residential,MI,Midwest,1,2025-03-11
+ACC00795,Summit & Co.,Small Team,Luxury Residential,TX,Southwest,7,2025-12-26
+ACC00796,Cornerstone Group,Small Team,Property Management,WA,West,2,2023-04-10
+ACC00797,Harbor Properties,Brokerage,Luxury Residential,CA,West,53,2024-11-21
+ACC00798,Cornerstone Real Estate,Small Team,Commercial Real Estate,GA,Southeast,5,2024-10-31
+ACC00799,Foxglove Group,Solo Agent,luxury residential,TX,Southwest,1,2024-10-24
+ACC00800,Cornerstone Partners,Small Team,commercial real estate,OR,West,2,2024-07-24
+ACC00801,Stonebridge Partners,Solo Agent,Commercial Real Estate,AZ,Southwest,1,2023-07-14
+ACC00802,Meridian Real Estate,Brokerage,Residential Real Estate,MN,Midwest,150,2025-09-14
+ACC00803,Harbor Group,Small Team,luxury residential,MA,Northeast,8,2023-01-28
+ACC00804,Ridgeline Partners,Solo Agent,Property Management,WA,West,1,2025-02-06
+ACC00805,Ironwood & Co.,Solo Agent,Residential Real Estate,MI,Midwest,1,2024-10-12
+ACC00806,Stonebridge & Co.,Solo Agent,Luxury Residential,AZ,Southwest,1,2023-04-21
+ACC00807,Cornerstone Realty,Small Team,Property Management,GA,Southeast,3,2023-05-13
+ACC00808,Ironwood & Co.,Small Team,Luxury Residential,CT,Northeast,3,2024-02-23
+ACC00809,Beacon & Co.,Solo Agent,Commercial Real Estate,GA,Southeast,1,2024-05-24
+ACC00810,Cypress Real Estate,Solo Agent,Property Management,MN,Midwest,1,2023-12-10
+ACC00811,Ridgeline Real Estate,Solo Agent,Commercial Real Estate,GA,Southeast,1,2023-06-20
+ACC00812,Ridgeline & Co.,Solo Agent,Property Management,TN,Southeast,1,2026-02-25
+ACC00813,Ironwood Partners,Large Team,Property Management,OR,West,18,2025-02-05
+ACC00814,Meridian Properties,Solo Agent,Residential Real Estate,MA,Northeast,1,2023-03-21
+ACC00815,Ironwood & Co.,Small Team,Residential Real Estate,GA,Southeast,5,2025-01-24
+ACC00816,Foxglove Properties,Small Team,Commercial Real Estate,OR,West,6,2023-10-30
+ACC00817,Meridian Realty,Solo Agent,Property Management,AZ,Southwest,1,2023-07-09
+ACC00818,Stonebridge Partners,Small Team,Property Management,IL,Midwest,7,2025-12-27
+ACC00819,Summit Properties,Solo Agent,Property Management,CO,Southwest,1,2024-03-05
+ACC00820,Lakeshore Properties,Small Team,Property Management,GA,Southeast,5,2024-08-13
+ACC00821,Stonebridge Properties,Solo Agent,Luxury Residential,WA,West,1,2024-03-11
+ACC00822,Ironwood Realty,Solo Agent,Residential Real Estate,NJ,Northeast,1,2023-12-07
+ACC00823,Summit & Co.,Small Team,Residential Real Estate,TX,Southwest,3,2023-07-26
+ACC00824,Lakeshore Real Estate,Small Team,Property Management,TN,Southeast,4,2024-06-28
+ACC00825,Summit Group,Large Team,Property Management,MI,Midwest,23,2025-01-09
+ACC00826,Cypress Group,Small Team,Residential Real Estate,GA,Southeast,5,2023-10-12
+ACC00827,Lakeshore Realty,Small Team,Residential Real Estate,NC,Southeast,8,2024-01-20
+ACC00828,Harbor Group,Solo Agent,Property Management,TN,Southeast,1,2025-09-19
+ACC00829,Harbor Group,Small Team,Residential Real Estate,MO,Midwest,3,2023-10-21
+ACC00830,Foxglove & Co.,Small Team,Luxury Residential,FL,Southeast,5,2024-05-08
+ACC00831,Foxglove Partners,Large Team,Luxury Residential,IL,Midwest,29,2024-07-28
+ACC00832,Meridian Realty,Large Team,Luxury Residential,OR,West,21,2024-11-12
+ACC00833,Harbor Group,Brokerage,Luxury Residential,NY,Northeast,334,2025-06-13
+ACC00834,Lakeshore Partners,Small Team,Commercial Real Estate,TX,Southwest,2,2023-08-26
+ACC00835,Foxglove Properties,Large Team,Commercial Real Estate,AZ,Southwest,9,2025-05-17
+ACC00836,Beacon Properties,Solo Agent,Luxury Residential,SC,Southeast,1,2024-08-30
+ACC00837,Stonebridge Real Estate,Small Team,Residential Real Estate,NV,West,5,2024-09-24
+ACC00838,Cornerstone & Co.,Solo Agent,Luxury Residential,GA,Southeast,1,2024-11-13
+ACC00839,Lakeshore Partners,Solo Agent,Residential Real Estate,TN,Southeast,1,2023-11-23
+ACC00840,Cornerstone & Co.,Small Team,Commercial Real Estate,NV,West,3,2024-08-02
+ACC00841,Meridian Properties,Large Team,Property Management,NV,West,13,2024-09-14
+ACC00842,Meridian Realty,Large Team,Residential Real Estate,AZ,Southwest,30,2024-02-05
+ACC00843,Harbor Real Estate,Solo Agent,Luxury Residential,OR,West,1,2025-08-28
+ACC00844,Blackwood & Co.,Solo Agent,Luxury Residential,SC,Southeast,1,2023-09-01
+ACC00845,Beacon Group,Large Team,Commercial Real Estate,CA,West,11,2025-02-21
+ACC00846,Meridian Real Estate,Small Team,luxury residential,TN,Southeast,7,2025-11-09
+ACC00847,Harbor Group,Solo Agent,Commercial Real Estate,TX,Southwest,1,2025-06-07
+ACC00848,Meridian Real Estate,Large Team,Property Management,NY,Northeast,12,2025-12-21
+ACC00849,Harbor Realty,Small Team,Property Management,MA,Northeast,7,2023-01-11
+ACC00850,Cypress Group,Solo Agent,Residential Real Estate,NJ,Northeast,1,2023-03-13
+ACC00851,Beacon Properties,Solo Agent,Commercial Real Estate,CO,Southwest,1,2025-11-29
+ACC00852,Cornerstone Properties,Small Team,Residential Real Estate,NJ,Northeast,3,2023-07-22
+ACC00853,Ironwood Realty,Small Team,Luxury Residential,NM,Southwest,5,2024-07-22
+ACC00854,Ridgeline Real Estate,Solo Agent,Property Management,GA,Southeast,1,2024-06-04
+ACC00855,Ridgeline Group,Small Team,Luxury Residential,CO,Southwest,2,2026-02-28
+ACC00856,Ironwood Realty,Solo Agent,Residential Real Estate,OR,West,1,2025-12-24
+ACC00857,Ironwood Properties,Large Team,commercial real estate,CO,Southwest,12,2024-04-07
+ACC00858,Lakeshore & Co.,Small Team,Property Management,PA,Northeast,6,2024-09-19
+ACC00859,Ironwood Properties,Large Team,Commercial Real Estate,OR,West,27,2023-12-16
+ACC00860,Ridgeline Partners,Solo Agent,Luxury Residential,MO,Midwest,1,2025-11-17
+ACC00861,Lakeshore Partners,Small Team,Property Management,NM,Southwest,5,2025-05-06
+ACC00862,Lakeshore Realty,Solo Agent,Commercial Real Estate,TX,Southwest,1,2023-06-28
+ACC00863,Beacon Realty,Small Team,Commercial Real Estate,CO,Southwest,5,2023-06-23
+ACC00864,Stonebridge Realty,Small Team,Residential Real Estate,CT,Northeast,3,2025-04-10
+ACC00865,Cypress Properties,Solo Agent,Luxury Residential,MA,Northeast,1,2025-07-07
+ACC00866,Lakeshore Realty,Brokerage,Property Management,MI,Midwest,91,2025-05-15
+ACC00867,Stonebridge & Co.,Solo Agent,Commercial Real Estate,MO,Midwest,1,2024-08-24
+ACC00868,Beacon Realty,Large Team,Property Management,NJ,Northeast,23,2023-03-14
+ACC00869,Ridgeline Partners,Solo Agent,Commercial Real Estate,MI,Midwest,1,2023-01-11
+ACC00870,Beacon Realty,Solo Agent,Luxury Residential,AZ,Southwest,1,2025-11-19
+ACC00871,Blackwood Realty,Solo Agent,Luxury Residential,MN,Midwest,1,2025-05-27
+ACC00872,Summit Properties,Solo Agent,Residential Real Estate,TN,Southeast,1,2024-02-11
+ACC00873,Beacon Real Estate,Small Team,Commercial Real Estate,CO,Southwest,4,2025-09-08
+ACC00874,Lakeshore Real Estate,Solo Agent,Residential Real Estate,FL,Southeast,1,2023-08-09
+ACC00875,Blackwood Partners,Brokerage,Property Management,FL,Southeast,109,2023-01-17
+ACC00876,Stonebridge Properties,Solo Agent,Residential Real Estate,CT,Northeast,1,2024-07-29
+ACC00877,Ridgeline Partners,Small Team,Luxury Residential,NY,Northeast,3,2024-01-22
+ACC00878,Cypress Group,Small Team,Residential Real Estate,WA,West,4,2023-07-06
+ACC00879,Lakeshore Group,Small Team,Commercial Real Estate,OR,West,3,2023-04-16
+ACC00880,Beacon Group,Solo Agent,Commercial Real Estate,TX,Southwest,1,2023-04-17
+ACC00881,Foxglove Real Estate,Solo Agent,Residential Real Estate,OH,Midwest,1,2023-08-17
+ACC00882,Ironwood Realty,Small Team,Commercial Real Estate,NY,Northeast,7,2024-05-02
+ACC00883,Harbor Realty,Small Team,Luxury Residential,OR,West,7,2024-01-26
+ACC00884,Cypress & Co.,Small Team,Luxury Residential,NJ,Northeast,4,2023-03-31
+ACC00885,Cypress Realty,Large Team,Property Management,WA,West,13,2023-05-19
+ACC00886,Ironwood Partners,Brokerage,Luxury Residential,CA,West,227,2023-05-05
+ACC00887,Summit Properties,Large Team,Commercial Real Estate,PA,Northeast,9,2025-03-31
+ACC00888,Cornerstone Group,Small Team,Commercial Real Estate,NC,Southeast,3,2025-12-11
+ACC00889,Blackwood Properties,Solo Agent,Luxury Residential,NJ,Northeast,1,2023-03-22
+ACC00890,Stonebridge Real Estate,Solo Agent,Commercial Real Estate,NJ,Northeast,1,2024-12-12
+ACC00891,Blackwood Properties,Brokerage,Commercial Real Estate,MI,Midwest,329,2023-01-22
+ACC00892,Foxglove Real Estate,Small Team,Commercial Real Estate,WA,West,3,2025-02-21
+ACC00893,Stonebridge & Co.,Small Team,Luxury Residential,CO,Southwest,3,2025-03-20
+ACC00894,Beacon & Co.,Solo Agent,Luxury Residential,GA,Southeast,1,2024-01-14
+ACC00895,Harbor Partners,Large Team,Luxury Residential,AZ,Southwest,21,2026-05-29
+ACC00896,Summit Realty,Solo Agent,Residential Real Estate,NY,Northeast,1,2023-01-25
+ACC00897,Summit Realty,Solo Agent,Residential Real Estate,MO,Midwest,1,2026-05-13
+ACC00898,Blackwood Group,Small Team,Property Management,CO,Southwest,3,2026-02-26
+ACC00899,Harbor Real Estate,Small Team,Residential Real Estate,MI,Midwest,6,2023-09-10
+ACC00900,Ridgeline Group,Large Team,Luxury Residential,OR,West,21,2023-02-19

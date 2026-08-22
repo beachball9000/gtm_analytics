@@ -1,0 +1,1108 @@
+opportunity_id,account_id,source_lead_id,opportunity_name,opportunity_type,plan_tier,amount,stage_name,is_closed,is_won,created_date,close_date,owner_region
+OPP000001,ACC00001,LEAD002024,Stonebridge Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-08-13,2024-10-30,West
+OPP000002,ACC00001,,Stonebridge Realty - Scale (Expansion),Expansion,Scale,10154,Closed Lost,true,false,2025-03-24,2025-07-17,West
+OPP000003,ACC00002,LEAD000474,Stonebridge & Co. - Launch (New Business),New Business,Launch,6000,Demo,false,false,2026-06-27,2026-10-22,Southwest
+OPP000004,ACC00003,LEAD000089,Ridgeline Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-12-16,2024-01-14,West
+OPP000005,ACC00003,,Ridgeline Properties - Launch (Expansion),Expansion,Launch,3567,Closed Won,true,true,2024-07-22,2024-09-21,West
+OPP000006,ACC00004,LEAD003434,Stonebridge Partners - Launch (New Business),New Business,Launch,6000,Demo,false,false,2026-06-22,2026-07-28,Midwest
+OPP000007,ACC00005,LEAD002230,Summit & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-02-23,2025-05-02,Midwest
+OPP000008,ACC00006,LEAD001499,Cornerstone & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-01-20,2025-02-15,Southeast
+OPP000009,ACC00007,LEAD000414,Foxglove & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-01-05,2024-03-18,Northeast
+OPP000010,ACC00008,LEAD000667,Cornerstone Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-10-12,2024-11-20,Southwest
+OPP000011,ACC00008,,Cornerstone Real Estate - All In (Expansion),Expansion,All In,19697,Closed Lost,true,false,2025-07-17,2025-09-13,Southwest
+OPP000012,ACC00009,LEAD002388,Cypress Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-10-29,2023-11-12,Southeast
+OPP000013,ACC00010,,Summit Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-10-17,2024-01-29,Southwest
+OPP000014,ACC00011,LEAD003268,Cypress Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-02-25,2025-04-18,Northeast
+OPP000015,ACC00012,,Stonebridge & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-12-26,2024-03-29,West
+OPP000016,ACC00013,,Ridgeline Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-11-24,2026-03-14,Midwest
+OPP000017,ACC00014,LEAD000872,Cornerstone Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-02-15,2025-05-17,West
+OPP000018,ACC00015,LEAD000701,Ridgeline Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-10-29,2024-02-05,Northeast
+OPP000019,ACC00015,,Ridgeline Group - Scale (Expansion),Expansion,Scale,12221,Closed Won,true,true,2024-06-14,2024-07-07,Northeast
+OPP000020,ACC00016,,Cypress Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-04-22,2025-06-09,Southwest
+OPP000021,ACC00017,LEAD001130,Stonebridge & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-04-24,2024-05-11,West
+OPP000022,ACC00018,LEAD003135,Ridgeline & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-08-26,2024-09-18,West
+OPP000023,ACC00019,LEAD001892,Beacon & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-06-15,2025-07-31,Southwest
+OPP000024,ACC00020,LEAD000473,Ridgeline Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-02-13,2024-04-26,West
+OPP000025,ACC00020,,Ridgeline Group - Scale (Expansion),Expansion,Scale,10417,Closed Won,true,true,2024-10-17,2024-12-21,West
+OPP000026,ACC00021,LEAD002782,Cornerstone Properties - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2026-02-23,2026-05-22,Northeast
+OPP000027,ACC00022,LEAD002918,Beacon Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-01-15,2023-02-06,West
+OPP000028,ACC00023,LEAD002796,Summit Realty - Brand (New Business),New Business,Brand,10800,Proposal,false,false,2026-04-25,2026-06-25,Southwest
+OPP000029,ACC00024,LEAD003175,Meridian Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-07-03,2023-09-01,Southwest
+OPP000030,ACC00024,,Meridian Properties - All In (Expansion),Expansion,All In,19386,Closed Lost,true,false,2024-02-16,2024-06-05,Southwest
+OPP000031,ACC00025,LEAD002802,Lakeshore Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-07-11,2024-08-05,Northeast
+OPP000032,ACC00025,,Lakeshore Properties - Brand (Expansion),Expansion,Brand,4383,Closed Won,true,true,2025-03-05,2025-06-15,Northeast
+OPP000033,ACC00026,LEAD002632,Meridian Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-06-27,2023-09-07,Midwest
+OPP000034,ACC00027,LEAD002465,Beacon Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-05-23,2024-08-08,Midwest
+OPP000035,ACC00028,LEAD001612,Harbor & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-11-12,2024-02-06,West
+OPP000036,ACC00029,,Summit Realty - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-07-05,2024-09-09,Midwest
+OPP000037,ACC00030,LEAD002179,Cypress & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-07-16,2024-08-02,Southwest
+OPP000038,ACC00031,LEAD001468,Summit Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-02-17,2025-05-19,Southwest
+OPP000039,ACC00031,,Summit Group - Scale (Expansion),Expansion,Scale,8409,Closed Won,true,true,2025-09-26,2025-12-13,Southwest
+OPP000040,ACC00032,,Stonebridge Properties - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-01-06,2025-05-04,Southwest
+OPP000041,ACC00033,LEAD000022,Stonebridge Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-12-23,2025-03-16,West
+OPP000042,ACC00034,LEAD000142,Beacon Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-03-31,2024-05-14,West
+OPP000043,ACC00035,LEAD002492,Blackwood Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-08-29,2024-09-12,Southwest
+OPP000044,ACC00035,,Blackwood Group - Brand (Expansion),Expansion,Brand,4203,Closed Lost,true,false,2025-04-16,2025-08-02,Southwest
+OPP000045,ACC00036,,Ironwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-07-16,2024-09-11,Southwest
+OPP000046,ACC00036,,Ironwood Group - Brand (Expansion),Expansion,Brand,5073,Closed Lost,true,false,2025-03-16,2025-06-24,Southwest
+OPP000047,ACC00037,LEAD000151,Ironwood Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-01-28,2024-04-10,Southeast
+OPP000048,ACC00038,LEAD002696,Foxglove Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-10-21,2024-02-11,Midwest
+OPP000049,ACC00038,,Foxglove Partners - Scale (Expansion),Expansion,Scale,8428,Closed Lost,true,false,2024-05-22,2024-07-09,Midwest
+OPP000050,ACC00039,LEAD001170,Blackwood Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-03-13,2025-06-24,Southwest
+OPP000051,ACC00040,LEAD002359,Foxglove Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-25,2025-02-06,Northeast
+OPP000052,ACC00041,,Cornerstone & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-12-23,2025-04-02,West
+OPP000053,ACC00042,LEAD001127,Foxglove Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-09-17,2025-12-20,West
+OPP000054,ACC00043,LEAD003312,Cornerstone Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-02-21,2023-06-03,Southwest
+OPP000055,ACC00043,,Cornerstone Properties - Scale (Expansion),Expansion,Scale,8880,Closed Won,true,true,2023-10-07,2023-12-06,Southwest
+OPP000056,ACC00044,,Beacon Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-08-30,2025-11-07,Southeast
+OPP000057,ACC00045,LEAD000125,Cornerstone & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-10-03,2026-01-30,Southwest
+OPP000058,ACC00045,,Cornerstone & Co. - Brand (Expansion),Expansion,Brand,2821,Prospecting,false,false,2026-06-11,2026-11-05,Southwest
+OPP000059,ACC00046,LEAD000302,Lakeshore Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-08-11,2024-09-29,Southeast
+OPP000060,ACC00047,LEAD000338,Cypress Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-05-27,2023-08-28,Southwest
+OPP000061,ACC00047,,Cypress Partners - Brand (Expansion),Expansion,Brand,7012,Closed Lost,true,false,2024-01-20,2024-02-25,Southwest
+OPP000062,ACC00048,LEAD002651,Lakeshore Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-02-11,2023-03-19,Northeast
+OPP000063,ACC00049,LEAD000533,Ironwood Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-08-03,2024-11-21,Southwest
+OPP000064,ACC00049,,Ironwood Group - Launch (Expansion),Expansion,Launch,2854,Closed Won,true,true,2025-03-23,2025-06-18,Southwest
+OPP000065,ACC00050,LEAD002686,Ironwood Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-04-27,2025-08-21,Northeast
+OPP000066,ACC00051,LEAD000173,Ironwood Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-11-02,2025-01-31,Midwest
+OPP000067,ACC00051,,Ironwood Group - Launch (Expansion),Expansion,Launch,2743,Closed Lost,true,false,2025-07-24,2025-11-06,Midwest
+OPP000068,ACC00052,LEAD002344,Harbor & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-04-17,2023-05-10,West
+OPP000069,ACC00053,LEAD003388,Meridian Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-10-26,2024-02-21,Northeast
+OPP000070,ACC00054,LEAD001143,Harbor Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-09-20,2023-12-02,Northeast
+OPP000071,ACC00054,,Harbor Real Estate - Launch (Expansion),Expansion,Launch,3767,Closed Lost,true,false,2024-04-21,2024-06-25,Northeast
+OPP000072,ACC00055,LEAD000599,Foxglove Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-02-15,2024-05-31,Southeast
+OPP000073,ACC00056,LEAD003313,Ironwood & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2026-04-11,2026-06-07,West
+OPP000074,ACC00057,LEAD002081,Lakeshore & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-10-17,2025-12-24,West
+OPP000075,ACC00057,,Lakeshore & Co. - Launch (Expansion),Expansion,Launch,3950,Discovery,false,false,2026-06-12,2026-09-13,West
+OPP000076,ACC00058,LEAD000911,Stonebridge Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-01-18,2026-02-15,Midwest
+OPP000077,ACC00059,,Foxglove Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-06-27,2024-08-04,Midwest
+OPP000078,ACC00059,,Foxglove Partners - Scale (Expansion),Expansion,Scale,10868,Closed Lost,true,false,2025-02-08,2025-02-25,Midwest
+OPP000079,ACC00060,LEAD001851,Meridian & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-06-26,2024-10-11,Southeast
+OPP000080,ACC00061,LEAD000624,Foxglove & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-10-11,2025-12-25,Southwest
+OPP000081,ACC00062,,Lakeshore Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-06-06,2024-08-28,Midwest
+OPP000082,ACC00063,LEAD000921,Harbor & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-07-26,2024-08-28,Midwest
+OPP000083,ACC00064,LEAD002312,Cypress Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-09-20,2025-11-29,Southwest
+OPP000084,ACC00065,LEAD003793,Ridgeline Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-03,2025-01-11,Southwest
+OPP000085,ACC00066,LEAD001153,Meridian Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-10-07,2026-01-03,Southwest
+OPP000086,ACC00067,LEAD002800,Ironwood Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-10-09,2026-01-14,West
+OPP000087,ACC00067,,Ironwood Partners - Brand (Expansion),Expansion,Brand,3592,Discovery,false,false,2026-05-28,2026-08-07,West
+OPP000088,ACC00068,,Ironwood Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-06-22,2024-08-05,Midwest
+OPP000089,ACC00069,LEAD003432,Meridian Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-09-30,2024-12-09,Southeast
+OPP000090,ACC00070,,Cypress Realty - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-07-28,2023-08-13,Southwest
+OPP000091,ACC00071,,Blackwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-03-19,2023-06-13,Northeast
+OPP000092,ACC00072,LEAD003298,Cornerstone & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-03-13,2024-06-20,Northeast
+OPP000093,ACC00073,,Beacon & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-10-02,2024-11-27,West
+OPP000094,ACC00074,LEAD003465,Stonebridge Group - All In (New Business),New Business,All In,33600,Prospecting,false,false,2026-06-12,2026-09-01,Southeast
+OPP000095,ACC00075,,Ridgeline Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-03-05,2023-06-19,Northeast
+OPP000096,ACC00076,LEAD001765,Ironwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-10-12,2025-11-04,Southeast
+OPP000097,ACC00077,,Cypress Realty - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-09-23,2024-12-25,Southeast
+OPP000098,ACC00078,LEAD001225,Cypress Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-05-04,2025-05-31,West
+OPP000099,ACC00079,LEAD002264,Cypress Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-06-30,2025-10-24,Northeast
+OPP000100,ACC00080,LEAD002890,Blackwood Real Estate - Launch (New Business),New Business,Launch,6000,Demo,false,false,2026-06-02,2026-09-28,West
+OPP000101,ACC00081,LEAD000707,Blackwood Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-12-01,2024-01-01,Southeast
+OPP000102,ACC00081,,Blackwood Real Estate - Launch (Expansion),Expansion,Launch,3276,Closed Lost,true,false,2024-07-30,2024-11-15,Southeast
+OPP000103,ACC00082,,Meridian Real Estate - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-11-05,2023-12-03,Southwest
+OPP000104,ACC00083,LEAD002061,Meridian Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-01-16,2023-03-30,Northeast
+OPP000105,ACC00084,LEAD002982,Lakeshore Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2026-01-20,2026-05-09,Midwest
+OPP000106,ACC00085,LEAD001500,Foxglove Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-03-25,2025-07-04,Midwest
+OPP000107,ACC00086,LEAD002498,Beacon Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-07-05,2025-10-09,Midwest
+OPP000108,ACC00087,,Ironwood & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-07-08,2024-10-14,West
+OPP000109,ACC00088,LEAD002211,Cornerstone & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-10-22,2026-02-16,Southeast
+OPP000110,ACC00089,LEAD000069,Blackwood Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-08-26,2023-11-15,West
+OPP000111,ACC00090,LEAD002084,Meridian & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-11-03,2024-02-25,Midwest
+OPP000112,ACC00091,LEAD002431,Ridgeline Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-05-17,2024-08-21,Southeast
+OPP000113,ACC00092,LEAD002769,Ridgeline Realty - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-09-04,2025-11-24,West
+OPP000114,ACC00093,LEAD002667,Ironwood Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-08-31,2025-11-04,Southeast
+OPP000115,ACC00094,LEAD003824,Foxglove Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-08-30,2024-10-01,Northeast
+OPP000116,ACC00095,LEAD000662,Lakeshore Properties - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-09-10,2024-12-05,Northeast
+OPP000117,ACC00096,LEAD002521,Summit Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-04-10,2023-05-25,Southwest
+OPP000118,ACC00096,,Summit Real Estate - Scale (Expansion),Expansion,Scale,5170,Closed Won,true,true,2023-11-25,2023-12-31,Southwest
+OPP000119,ACC00097,,Blackwood Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-11-04,2024-02-13,Southeast
+OPP000120,ACC00098,LEAD003098,Cornerstone & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-06-25,2023-07-26,West
+OPP000121,ACC00099,LEAD003282,Foxglove Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-08-06,2025-09-26,Midwest
+OPP000122,ACC00100,LEAD001517,Cypress Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-09-06,2025-09-20,West
+OPP000123,ACC00100,,Cypress Group - Brand (Expansion),Expansion,Brand,5686,Discovery,false,false,2026-05-20,2026-07-09,West
+OPP000124,ACC00101,LEAD002373,Summit Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-09-26,2024-01-15,Midwest
+OPP000125,ACC00102,,Stonebridge Properties - All In (New Business),New Business,All In,33600,Closed Won,true,true,2025-02-27,2025-05-20,Southwest
+OPP000126,ACC00102,,Stonebridge Properties - Scale (Expansion),Expansion,Scale,11859,Closed Won,true,true,2025-09-30,2025-11-09,Southwest
+OPP000127,ACC00103,LEAD002986,Cornerstone Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-08-17,2024-10-01,Southeast
+OPP000128,ACC00104,LEAD000877,Cornerstone Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-01-26,2025-04-18,Midwest
+OPP000129,ACC00104,,Cornerstone Realty - Scale (Expansion),Expansion,Scale,10005,Closed Won,true,true,2025-09-18,2025-12-19,Midwest
+OPP000130,ACC00105,LEAD001667,Ridgeline Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-04-22,2023-05-16,Northeast
+OPP000131,ACC00105,,Ridgeline Real Estate - Brand (Expansion),Expansion,Brand,5225,Closed Lost,true,false,2024-01-11,2024-04-28,Northeast
+OPP000132,ACC00106,LEAD001879,Meridian Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-05-09,2024-08-30,Northeast
+OPP000133,ACC00107,LEAD001199,Cornerstone Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-02-25,2023-06-25,Southwest
+OPP000134,ACC00108,LEAD001205,Beacon Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2026-01-23,2026-03-16,Southwest
+OPP000135,ACC00109,,Summit Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-01-02,2026-04-03,Northeast
+OPP000136,ACC00110,LEAD003040,Lakeshore Real Estate - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-08-10,2025-12-04,Southeast
+OPP000137,ACC00110,,Lakeshore Real Estate - Launch (Expansion),Expansion,Launch,1924,Closed Won,true,true,2026-02-24,2026-06-20,Southeast
+OPP000138,ACC00111,LEAD003351,Cypress Group - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-12-02,2025-02-08,Northeast
+OPP000139,ACC00112,LEAD001441,Cornerstone Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-03-16,2024-03-31,Northeast
+OPP000140,ACC00112,,Cornerstone Partners - Scale (Expansion),Expansion,Scale,5968,Closed Lost,true,false,2024-12-13,2025-01-20,Northeast
+OPP000141,ACC00113,LEAD001258,Foxglove Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-06-17,2024-07-10,Midwest
+OPP000142,ACC00113,,Foxglove Partners - Launch (Expansion),Expansion,Launch,2984,Closed Lost,true,false,2025-02-01,2025-04-12,Midwest
+OPP000143,ACC00114,LEAD000136,Meridian Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-02-03,2025-04-13,Southeast
+OPP000144,ACC00115,LEAD003263,Meridian Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-06-04,2025-08-20,Midwest
+OPP000145,ACC00116,,Cypress Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-05-13,2024-08-28,Southwest
+OPP000146,ACC00117,LEAD001704,Foxglove & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-03-03,2026-06-09,Northeast
+OPP000147,ACC00118,LEAD002512,Ridgeline Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-01-09,2025-02-14,Midwest
+OPP000148,ACC00118,,Ridgeline Real Estate - Brand (Expansion),Expansion,Brand,6036,Closed Won,true,true,2025-09-17,2025-10-01,Midwest
+OPP000149,ACC00119,LEAD002489,Lakeshore Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-04-07,2024-07-25,West
+OPP000150,ACC00120,LEAD001092,Meridian Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-05-12,2023-06-01,Northeast
+OPP000151,ACC00121,LEAD003557,Cypress Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-05-26,2025-06-10,Southeast
+OPP000152,ACC00122,LEAD000669,Meridian Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-10-22,2025-01-16,Northeast
+OPP000153,ACC00122,,Meridian Realty - Launch (Expansion),Expansion,Launch,1618,Closed Won,true,true,2025-06-21,2025-08-24,Northeast
+OPP000154,ACC00123,LEAD003336,Ironwood Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-10-05,2024-01-18,Midwest
+OPP000155,ACC00124,LEAD002133,Stonebridge Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-01-02,2025-02-15,Northeast
+OPP000156,ACC00125,LEAD000622,Ironwood Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-04-29,2025-08-26,Northeast
+OPP000157,ACC00126,LEAD003319,Ironwood Real Estate - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-08-08,2023-11-18,Midwest
+OPP000158,ACC00127,LEAD001087,Harbor Real Estate - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-01-22,2024-03-30,Southwest
+OPP000159,ACC00128,LEAD003459,Ridgeline & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-07-05,2024-09-05,Southwest
+OPP000160,ACC00129,LEAD002625,Meridian & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2026-05-13,2026-06-28,Southeast
+OPP000161,ACC00130,LEAD001694,Blackwood Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-09-19,2025-10-05,Southwest
+OPP000162,ACC00130,,Blackwood Real Estate - Launch (Expansion),Expansion,Launch,3552,Proposal,false,false,2026-05-29,2026-09-01,Southwest
+OPP000163,ACC00131,,Harbor & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-04-28,2023-06-11,Southeast
+OPP000164,ACC00132,LEAD000167,Beacon Real Estate - Scale (New Business),New Business,Scale,19200,Proposal,false,false,2026-04-27,2026-07-20,West
+OPP000165,ACC00133,LEAD000290,Beacon Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-12-29,2024-02-07,West
+OPP000166,ACC00134,LEAD000935,Foxglove Group - Brand (New Business),New Business,Brand,10800,Negotiation,false,false,2026-05-16,2026-08-07,Southeast
+OPP000167,ACC00135,LEAD000966,Meridian & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2026-05-21,2026-06-10,Southeast
+OPP000168,ACC00136,LEAD000429,Foxglove Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-06-30,2023-08-31,Southeast
+OPP000169,ACC00137,,Cornerstone Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-02-20,2025-04-01,Northeast
+OPP000170,ACC00138,LEAD002339,Meridian Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-08-04,2023-11-01,West
+OPP000171,ACC00139,LEAD001475,Lakeshore & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-12-26,2024-02-22,Northeast
+OPP000172,ACC00139,,Lakeshore & Co. - Brand (Expansion),Expansion,Brand,4500,Closed Won,true,true,2024-08-03,2024-11-23,Northeast
+OPP000173,ACC00140,LEAD002198,Cornerstone Group - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-10-27,2024-12-08,Southwest
+OPP000174,ACC00140,,Cornerstone Group - Launch (Expansion),Expansion,Launch,3503,Closed Won,true,true,2025-06-23,2025-08-11,Southwest
+OPP000175,ACC00141,,Ridgeline Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-12-04,2024-03-07,Northeast
+OPP000176,ACC00142,LEAD001263,Ridgeline Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-01-04,2026-01-31,West
+OPP000177,ACC00143,LEAD003635,Ironwood Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-01-10,2025-03-06,Southwest
+OPP000178,ACC00143,,Ironwood Real Estate - Launch (Expansion),Expansion,Launch,3770,Closed Lost,true,false,2025-09-10,2025-11-25,Southwest
+OPP000179,ACC00144,LEAD003322,Ridgeline Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-07-24,2023-11-16,Southwest
+OPP000180,ACC00144,,Ridgeline Realty - Brand (Expansion),Expansion,Brand,3084,Closed Lost,true,false,2024-04-17,2024-05-05,Southwest
+OPP000181,ACC00145,LEAD000295,Cornerstone Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-02-09,2023-06-02,Southeast
+OPP000182,ACC00146,LEAD001388,Meridian Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-05-30,2024-07-21,Midwest
+OPP000183,ACC00147,LEAD000498,Blackwood Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-12-14,2026-01-09,Northeast
+OPP000184,ACC00148,LEAD002894,Cypress Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-06-30,2023-09-13,Southwest
+OPP000185,ACC00149,,Harbor Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-06-18,2024-09-03,Southeast
+OPP000186,ACC00150,,Ridgeline & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-02-08,2026-03-11,Southwest
+OPP000187,ACC00151,,Summit Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-08-20,2025-11-02,West
+OPP000188,ACC00152,LEAD001616,Summit & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-04-05,2023-07-30,Northeast
+OPP000189,ACC00152,,Summit & Co. - Launch (Expansion),Expansion,Launch,1577,Closed Lost,true,false,2023-12-24,2024-04-19,Northeast
+OPP000190,ACC00153,LEAD001859,Beacon & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-03-23,2025-06-12,Southeast
+OPP000191,ACC00154,LEAD002965,Ridgeline Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-07-15,2023-10-26,West
+OPP000192,ACC00155,LEAD001724,Beacon Group - Launch (New Business),New Business,Launch,6000,Prospecting,false,false,2026-06-03,2026-09-05,Midwest
+OPP000193,ACC00156,LEAD003182,Ironwood Group - All In (New Business),New Business,All In,33600,Closed Won,true,true,2023-05-16,2023-08-07,Southeast
+OPP000194,ACC00157,LEAD000001,Lakeshore Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-05-29,2023-07-02,Southeast
+OPP000195,ACC00158,LEAD001051,Meridian Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-02-13,2025-05-01,Southeast
+OPP000196,ACC00159,LEAD001511,Beacon Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-09-22,2023-12-16,Midwest
+OPP000197,ACC00159,,Beacon Real Estate - Brand (Expansion),Expansion,Brand,3155,Closed Won,true,true,2024-05-18,2024-06-01,Midwest
+OPP000198,ACC00160,LEAD002503,Ridgeline Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-08-21,2024-11-06,Southeast
+OPP000199,ACC00161,LEAD000067,Ridgeline & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-06-22,2023-09-08,Midwest
+OPP000200,ACC00161,,Ridgeline & Co. - Launch (Expansion),Expansion,Launch,1541,Closed Won,true,true,2024-01-11,2024-05-09,Midwest
+OPP000201,ACC00162,,Cypress Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-05-09,2024-06-27,Southwest
+OPP000202,ACC00163,LEAD002664,Stonebridge & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-05-20,2023-07-04,Northeast
+OPP000203,ACC00163,,Stonebridge & Co. - Brand (Expansion),Expansion,Brand,5792,Closed Lost,true,false,2024-01-16,2024-05-01,Northeast
+OPP000204,ACC00164,LEAD000245,Foxglove Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-10-20,2024-12-04,West
+OPP000205,ACC00165,LEAD003128,Summit Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-09-26,2024-01-12,Northeast
+OPP000206,ACC00166,,Cypress Group - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-04-29,2024-08-02,Midwest
+OPP000207,ACC00167,LEAD002225,Ridgeline Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-10-03,2024-12-12,Midwest
+OPP000208,ACC00168,LEAD001396,Summit Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-04-06,2026-06-24,Northeast
+OPP000209,ACC00169,,Cypress Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-04-16,2023-05-01,Southeast
+OPP000210,ACC00169,,Cypress Group - Scale (Expansion),Expansion,Scale,12081,Closed Won,true,true,2023-12-02,2024-02-02,Southeast
+OPP000211,ACC00170,LEAD003053,Beacon Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-06-09,2023-07-02,Midwest
+OPP000212,ACC00171,LEAD000971,Lakeshore Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-01-01,2025-03-29,Midwest
+OPP000213,ACC00172,LEAD001409,Blackwood Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-06-19,2024-09-27,West
+OPP000214,ACC00173,LEAD002876,Cypress Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-02-15,2024-06-09,Northeast
+OPP000215,ACC00174,,Summit Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-06-05,2024-07-29,Southeast
+OPP000216,ACC00175,LEAD000952,Blackwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-03-02,2023-06-27,Southeast
+OPP000217,ACC00176,LEAD003142,Harbor Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-02-29,2024-04-07,West
+OPP000218,ACC00177,,Lakeshore Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-08-01,2023-09-19,Northeast
+OPP000219,ACC00178,LEAD003563,Lakeshore Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-04-14,2023-07-08,Southeast
+OPP000220,ACC00179,LEAD000729,Meridian & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-11-24,2025-01-24,Southwest
+OPP000221,ACC00180,LEAD001611,Lakeshore Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-09-14,2024-11-25,Southeast
+OPP000222,ACC00181,LEAD001530,Meridian Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-06-27,2024-09-14,West
+OPP000223,ACC00181,,Meridian Partners - Brand (Expansion),Expansion,Brand,7012,Closed Lost,true,false,2025-04-03,2025-05-08,West
+OPP000224,ACC00182,LEAD001941,Lakeshore Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-09-05,2023-12-24,West
+OPP000225,ACC00183,,Cypress Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-09-24,2025-11-04,Northeast
+OPP000226,ACC00183,,Cypress Properties - Scale (Expansion),Expansion,Scale,11993,Prospecting,false,false,2026-05-27,2026-08-18,Northeast
+OPP000227,ACC00184,LEAD000945,Lakeshore Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-01-31,2024-05-18,Southeast
+OPP000228,ACC00185,LEAD000262,Blackwood Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-10-04,2024-12-15,Southwest
+OPP000229,ACC00185,,Blackwood Group - Scale (Expansion),Expansion,Scale,9016,Closed Lost,true,false,2025-06-04,2025-07-02,Southwest
+OPP000230,ACC00186,LEAD003320,Foxglove Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-08-23,2024-11-19,Northeast
+OPP000231,ACC00187,LEAD001118,Foxglove Group - All In (New Business),New Business,All In,33600,Closed Won,true,true,2023-06-14,2023-07-30,Midwest
+OPP000232,ACC00188,LEAD003537,Meridian Properties - All In (New Business),New Business,All In,33600,Closed Won,true,true,2023-11-03,2023-12-09,Northeast
+OPP000233,ACC00189,LEAD002285,Harbor & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-05-27,2025-09-09,Southwest
+OPP000234,ACC00190,LEAD000987,Foxglove Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-03-11,2024-04-02,Southeast
+OPP000235,ACC00191,LEAD001669,Ironwood Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-01-03,2024-04-26,Southeast
+OPP000236,ACC00191,,Ironwood Partners - Scale (Expansion),Expansion,Scale,5189,Closed Won,true,true,2024-09-02,2024-12-28,Southeast
+OPP000237,ACC00192,LEAD001807,Foxglove Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-11-18,2024-12-12,Northeast
+OPP000238,ACC00193,LEAD003654,Beacon & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-09-08,2023-10-31,Midwest
+OPP000239,ACC00194,,Foxglove Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-02-18,2024-05-03,Northeast
+OPP000240,ACC00195,LEAD003620,Cornerstone Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-11-06,2023-12-31,West
+OPP000241,ACC00196,LEAD003747,Lakeshore & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-04-09,2026-05-02,Midwest
+OPP000242,ACC00197,LEAD003728,Foxglove Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-11-17,2026-01-21,Midwest
+OPP000243,ACC00198,,Cypress Partners - Scale (New Business),New Business,Scale,19200,Prospecting,false,false,2026-06-20,2026-07-26,Southwest
+OPP000244,ACC00199,LEAD000934,Harbor Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-01-30,2025-05-26,Northeast
+OPP000245,ACC00199,,Harbor Realty - Launch (Expansion),Expansion,Launch,2487,Closed Won,true,true,2025-10-13,2025-12-16,Northeast
+OPP000246,ACC00200,,Cornerstone & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-12-28,2026-04-01,Southwest
+OPP000247,ACC00201,LEAD002700,Cypress Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-05-13,2025-07-05,Southeast
+OPP000248,ACC00201,,Cypress Partners - Brand (Expansion),Expansion,Brand,4805,Closed Lost,true,false,2026-01-12,2026-05-04,Southeast
+OPP000249,ACC00202,LEAD002172,Harbor Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-04-04,2023-07-12,Southwest
+OPP000250,ACC00203,LEAD001997,Ironwood Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-11-07,2024-01-08,Southeast
+OPP000251,ACC00203,,Ironwood Partners - Brand (Expansion),Expansion,Brand,4663,Closed Lost,true,false,2024-06-17,2024-07-13,Southeast
+OPP000252,ACC00204,LEAD003392,Cypress Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-12-15,2025-03-22,Northeast
+OPP000253,ACC00204,,Cypress Partners - All In (Expansion),Expansion,All In,11961,Closed Won,true,true,2025-08-27,2025-11-15,Northeast
+OPP000254,ACC00205,LEAD001692,Cornerstone Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-08-12,2025-09-15,West
+OPP000255,ACC00206,LEAD000894,Harbor Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-06-01,2025-07-15,West
+OPP000256,ACC00206,,Harbor Realty - Scale (Expansion),Expansion,Scale,11718,Closed Won,true,true,2026-01-18,2026-02-17,West
+OPP000257,ACC00207,LEAD001964,Cypress Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-04-24,2023-08-16,West
+OPP000258,ACC00208,,Ridgeline & Co. - Launch (New Business),New Business,Launch,6000,Discovery,false,false,2026-06-23,2026-09-26,Northeast
+OPP000259,ACC00209,LEAD003138,Ironwood Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-05-09,2026-05-26,West
+OPP000260,ACC00210,LEAD003585,Blackwood Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-10-27,2025-02-01,Southeast
+OPP000261,ACC00210,,Blackwood Partners - Brand (Expansion),Expansion,Brand,5098,Closed Won,true,true,2025-07-12,2025-09-15,Southeast
+OPP000262,ACC00211,LEAD003550,Cypress Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-05-04,2023-06-05,Southwest
+OPP000263,ACC00212,LEAD001830,Stonebridge Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-08-24,2025-09-22,Midwest
+OPP000264,ACC00212,,Stonebridge Properties - Launch (Expansion),Expansion,Launch,2665,Proposal,false,false,2026-03-30,2026-07-30,Midwest
+OPP000265,ACC00213,LEAD002859,Meridian & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-06-21,2023-09-24,Northeast
+OPP000266,ACC00214,LEAD000472,Stonebridge Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-02-02,2023-03-01,Midwest
+OPP000267,ACC00215,LEAD000569,Ironwood Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-06-01,2024-08-22,Southwest
+OPP000268,ACC00216,LEAD000315,Lakeshore Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-09-06,2025-11-29,Southeast
+OPP000269,ACC00217,LEAD002408,Cornerstone Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-05-19,2026-06-29,West
+OPP000270,ACC00218,,Beacon & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-01-03,2025-03-14,Northeast
+OPP000271,ACC00219,,Cypress & Co. - All In (New Business),New Business,All In,33600,Closed Won,true,true,2025-10-05,2025-11-20,Southwest
+OPP000272,ACC00219,,Cypress & Co. - Scale (Expansion),Expansion,Scale,8193,Demo,false,false,2026-06-29,2026-08-30,Southwest
+OPP000273,ACC00220,,Cornerstone Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-05-02,2025-08-23,West
+OPP000274,ACC00221,,Cypress Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-09-16,2025-11-28,Midwest
+OPP000275,ACC00222,LEAD001584,Stonebridge & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-08-27,2024-10-24,Midwest
+OPP000276,ACC00222,,Stonebridge & Co. - Scale (Expansion),Expansion,Scale,6376,Closed Won,true,true,2025-05-01,2025-06-28,Midwest
+OPP000277,ACC00223,LEAD001771,Blackwood Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-12-31,2026-04-20,Southwest
+OPP000278,ACC00224,LEAD002857,Harbor & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-04-07,2024-07-13,Southwest
+OPP000279,ACC00225,LEAD002710,Ironwood & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-02-20,2023-05-14,Northeast
+OPP000280,ACC00226,LEAD003224,Harbor & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-04-02,2026-03-19,Southwest
+OPP000281,ACC00227,LEAD003067,Meridian Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-04-07,2025-06-17,Southwest
+OPP000282,ACC00227,,Meridian Properties - Brand (Expansion),Expansion,Brand,5012,Closed Won,true,true,2025-12-09,2026-01-28,Southwest
+OPP000283,ACC00228,LEAD000030,Cornerstone Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-12-20,2025-04-09,West
+OPP000284,ACC00228,,Cornerstone Realty - Brand (Expansion),Expansion,Brand,6238,Closed Lost,true,false,2025-09-02,2025-11-26,West
+OPP000285,ACC00229,LEAD000896,Cypress Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-08-12,2025-11-10,Midwest
+OPP000286,ACC00230,LEAD001424,Harbor Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-09-04,2024-12-07,Southeast
+OPP000287,ACC00230,,Harbor Group - Scale (Expansion),Expansion,Scale,6489,Closed Lost,true,false,2025-05-11,2025-07-08,Southeast
+OPP000288,ACC00231,,Blackwood Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-08-17,2023-12-08,Southeast
+OPP000289,ACC00231,,Blackwood Partners - Launch (Expansion),Expansion,Launch,1734,Closed Lost,true,false,2024-04-03,2024-04-18,Southeast
+OPP000290,ACC00232,LEAD002585,Harbor Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2026-02-22,2026-05-06,Southwest
+OPP000291,ACC00233,LEAD002087,Ridgeline & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-07-08,2023-10-08,Midwest
+OPP000292,ACC00234,LEAD003767,Ironwood Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-06-06,2023-07-19,Midwest
+OPP000293,ACC00234,,Ironwood Group - Scale (Expansion),Expansion,Scale,8841,Closed Won,true,true,2024-01-05,2024-04-10,Midwest
+OPP000294,ACC00235,LEAD002756,Blackwood Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-02-11,2024-03-02,Southeast
+OPP000295,ACC00235,,Blackwood Realty - Launch (Expansion),Expansion,Launch,2877,Closed Lost,true,false,2024-10-26,2025-01-19,Southeast
+OPP000296,ACC00236,LEAD002019,Meridian & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-06-03,2025-07-01,Midwest
+OPP000297,ACC00237,LEAD003226,Blackwood Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-11-03,2026-01-05,Midwest
+OPP000298,ACC00238,,Beacon & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2026-03-01,2026-04-21,Northeast
+OPP000299,ACC00239,LEAD001954,Blackwood Properties - All In (New Business),New Business,All In,33600,Closed Won,true,true,2025-05-10,2025-05-31,West
+OPP000300,ACC00240,LEAD000734,Cypress Real Estate - Brand (New Business),New Business,Brand,10800,Prospecting,false,false,2026-05-24,2026-09-27,West
+OPP000301,ACC00241,LEAD002410,Foxglove & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-07-30,2023-09-17,Northeast
+OPP000302,ACC00242,LEAD000530,Ironwood Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-05-04,2025-08-14,Northeast
+OPP000303,ACC00243,LEAD003183,Ironwood Partners - Launch (New Business),New Business,Launch,6000,Negotiation,false,false,2026-04-14,2026-08-10,Northeast
+OPP000304,ACC00244,LEAD000708,Stonebridge Properties - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-08-03,2023-11-01,West
+OPP000305,ACC00245,LEAD003038,Stonebridge Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-09-21,2025-12-27,Northeast
+OPP000306,ACC00246,LEAD003755,Ridgeline & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-12-08,2025-03-22,West
+OPP000307,ACC00247,LEAD003237,Foxglove Properties - All In (New Business),New Business,All In,33600,Closed Won,true,true,2025-08-18,2025-11-19,Northeast
+OPP000308,ACC00247,,Foxglove Properties - Launch (Expansion),Expansion,Launch,4085,Demo,false,false,2026-04-13,2026-06-23,Northeast
+OPP000309,ACC00248,,Cornerstone Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-07-02,2025-09-09,Southwest
+OPP000310,ACC00249,LEAD001154,Foxglove Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-02-25,2024-05-18,Southwest
+OPP000311,ACC00250,,Stonebridge Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-08-02,2025-11-13,West
+OPP000312,ACC00251,LEAD002016,Ironwood Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-03-13,2025-04-10,Midwest
+OPP000313,ACC00252,LEAD003517,Ridgeline Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-01-11,2024-02-20,Northeast
+OPP000314,ACC00253,,Cypress & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-02-21,2024-04-02,West
+OPP000315,ACC00254,,Cornerstone Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-06-19,2023-09-13,Southeast
+OPP000316,ACC00255,LEAD002825,Harbor Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2026-03-30,2026-05-04,Southwest
+OPP000317,ACC00256,LEAD001896,Ironwood Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-04-12,2023-07-07,Northeast
+OPP000318,ACC00257,LEAD002185,Harbor Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-08-09,2023-11-13,Midwest
+OPP000319,ACC00258,LEAD003792,Summit Real Estate - All In (New Business),New Business,All In,33600,Closed Won,true,true,2023-10-17,2024-01-15,Southeast
+OPP000320,ACC00259,LEAD003460,Cypress & Co. - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-08-24,2024-10-04,Midwest
+OPP000321,ACC00260,LEAD001505,Stonebridge Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-09-30,2023-11-19,Midwest
+OPP000322,ACC00261,LEAD003475,Harbor Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-02-09,2025-04-17,Midwest
+OPP000323,ACC00262,LEAD002761,Beacon & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-02-19,2023-03-29,Southeast
+OPP000324,ACC00263,LEAD002196,Blackwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-04-02,2024-07-22,Southwest
+OPP000325,ACC00263,,Blackwood Group - Brand (Expansion),Expansion,Brand,4336,Closed Lost,true,false,2024-12-02,2025-03-30,Southwest
+OPP000326,ACC00264,LEAD001347,Ridgeline Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-09-01,2025-11-02,West
+OPP000327,ACC00264,,Ridgeline Partners - Brand (Expansion),Expansion,Brand,3176,Demo,false,false,2026-05-05,2026-08-20,West
+OPP000328,ACC00265,LEAD001371,Blackwood Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-14,2024-11-24,Southwest
+OPP000329,ACC00266,LEAD000458,Harbor & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-11-01,2025-01-30,Southwest
+OPP000330,ACC00267,LEAD002743,Stonebridge Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-12-23,2026-02-17,Southwest
+OPP000331,ACC00268,LEAD000686,Lakeshore Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-08-03,2023-09-04,West
+OPP000332,ACC00269,,Ridgeline Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-02-27,2026-06-23,Southwest
+OPP000333,ACC00270,LEAD000637,Ridgeline Realty - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-04-29,2024-06-04,Northeast
+OPP000334,ACC00271,LEAD003678,Meridian & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-06-23,2023-10-14,Southwest
+OPP000335,ACC00272,LEAD000209,Blackwood & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-12-24,2026-02-18,Southwest
+OPP000336,ACC00273,,Summit Group - Launch (New Business),New Business,Launch,6000,Proposal,false,false,2026-06-11,2026-07-23,Southwest
+OPP000337,ACC00274,LEAD003207,Harbor Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-01-23,2024-04-10,Midwest
+OPP000338,ACC00275,LEAD003786,Cypress Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-05-09,2025-05-25,West
+OPP000339,ACC00276,LEAD002750,Cypress Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-08-13,2024-10-18,Northeast
+OPP000340,ACC00277,LEAD003122,Harbor Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-07-06,2025-10-30,West
+OPP000341,ACC00278,LEAD003784,Ridgeline & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-02-02,2024-03-19,Midwest
+OPP000342,ACC00279,LEAD002953,Stonebridge Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-07-26,2024-08-12,Northeast
+OPP000343,ACC00280,,Cypress Group - Launch (New Business),New Business,Launch,6000,Demo,false,false,2026-05-06,2026-06-23,Northeast
+OPP000344,ACC00281,LEAD002827,Cypress Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-08-14,2023-12-11,Midwest
+OPP000345,ACC00282,LEAD001990,Summit Real Estate - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-12-11,2024-04-04,Midwest
+OPP000346,ACC00283,LEAD001548,Foxglove Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-07-04,2023-10-15,Midwest
+OPP000347,ACC00284,LEAD003412,Blackwood Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-08-25,2025-12-15,Southeast
+OPP000348,ACC00284,,Blackwood Group - All In (Expansion),Expansion,All In,13649,Discovery,false,false,2026-05-02,2026-07-06,Southeast
+OPP000349,ACC00285,,Meridian Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-14,2024-11-26,Midwest
+OPP000350,ACC00285,,Meridian Partners - Brand (Expansion),Expansion,Brand,5186,Closed Lost,true,false,2025-06-20,2025-07-17,Midwest
+OPP000351,ACC00286,LEAD003684,Summit & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-01-05,2025-02-14,West
+OPP000352,ACC00287,LEAD003049,Harbor Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-05-29,2023-08-10,Southwest
+OPP000353,ACC00287,,Harbor Realty - Brand (Expansion),Expansion,Brand,5153,Closed Won,true,true,2024-01-24,2024-03-04,Southwest
+OPP000354,ACC00288,LEAD003994,Ironwood Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-11-17,2026-03-16,West
+OPP000355,ACC00289,LEAD000509,Stonebridge Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-11-11,2024-12-20,Midwest
+OPP000356,ACC00290,LEAD000834,Ridgeline Partners - Launch (New Business),New Business,Launch,6000,Demo,false,false,2026-04-15,2026-08-29,Southwest
+OPP000357,ACC00291,LEAD000832,Blackwood Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-03-31,2024-04-16,Midwest
+OPP000358,ACC00292,LEAD003241,Cornerstone Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-11-25,2024-12-23,Northeast
+OPP000359,ACC00293,LEAD000595,Cypress Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-04-28,2025-06-03,Southwest
+OPP000360,ACC00294,LEAD002461,Ironwood Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-04-12,2024-08-03,West
+OPP000361,ACC00295,,Lakeshore Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-07-21,2025-08-23,West
+OPP000362,ACC00295,,Lakeshore Realty - Brand (Expansion),Expansion,Brand,4468,Closed Won,true,true,2026-03-31,2026-06-19,West
+OPP000363,ACC00296,LEAD003782,Foxglove Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-04-01,2025-05-11,Southeast
+OPP000364,ACC00297,LEAD001048,Meridian Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-12-16,2024-01-04,Midwest
+OPP000365,ACC00298,LEAD002822,Foxglove Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-04-08,2025-08-06,West
+OPP000366,ACC00299,LEAD003555,Ridgeline Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-12-10,2025-04-06,Northeast
+OPP000367,ACC00300,LEAD000904,Harbor Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-05-25,2026-06-09,Southeast
+OPP000368,ACC00301,LEAD000985,Ridgeline Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-03-25,2025-07-06,Northeast
+OPP000369,ACC00301,,Ridgeline Properties - Scale (Expansion),Expansion,Scale,12817,Closed Lost,true,false,2025-11-28,2026-03-18,Northeast
+OPP000370,ACC00302,LEAD001336,Cornerstone Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-12-27,2025-01-25,West
+OPP000371,ACC00303,LEAD003631,Summit Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-04-23,2024-05-22,West
+OPP000372,ACC00304,,Cypress Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2026-05-25,2026-05-20,West
+OPP000373,ACC00305,LEAD001323,Ridgeline & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-09-18,2024-11-28,Northeast
+OPP000374,ACC00306,LEAD000163,Ridgeline Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-02-11,2025-05-30,Northeast
+OPP000375,ACC00307,LEAD001568,Lakeshore Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-04-15,2026-06-25,Northeast
+OPP000376,ACC00308,,Harbor & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-11-24,2025-03-14,West
+OPP000377,ACC00309,LEAD002371,Stonebridge Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-01-24,2025-02-14,Southwest
+OPP000378,ACC00310,LEAD001847,Harbor Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-03-26,2025-07-07,Southeast
+OPP000379,ACC00310,,Harbor Partners - Scale (Expansion),Expansion,Scale,6921,Closed Won,true,true,2025-11-25,2025-12-14,Southeast
+OPP000380,ACC00311,,Harbor Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-30,2024-11-19,West
+OPP000381,ACC00312,LEAD002124,Foxglove Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-10-06,2025-12-12,West
+OPP000382,ACC00313,LEAD000696,Blackwood Properties - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-05-23,2025-07-21,Southwest
+OPP000383,ACC00313,,Blackwood Properties - Scale (Expansion),Expansion,Scale,11529,Closed Lost,true,false,2026-01-12,2026-02-24,Southwest
+OPP000384,ACC00314,LEAD003736,Blackwood & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-01-29,2025-03-07,Southeast
+OPP000385,ACC00314,,Blackwood & Co. - Brand (Expansion),Expansion,Brand,7547,Closed Lost,true,false,2025-09-06,2025-12-05,Southeast
+OPP000386,ACC00315,LEAD001334,Harbor Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-09-14,2024-10-25,Southwest
+OPP000387,ACC00316,LEAD003942,Ironwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-03-10,2025-04-23,West
+OPP000388,ACC00317,LEAD001358,Stonebridge & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-08-16,2024-10-27,Southeast
+OPP000389,ACC00318,LEAD002466,Ironwood Real Estate - Brand (New Business),New Business,Brand,10800,Proposal,false,false,2026-04-26,2026-08-03,Southeast
+OPP000390,ACC00319,LEAD000856,Beacon Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-03-23,2023-05-03,Midwest
+OPP000391,ACC00319,,Beacon Properties - Scale (Expansion),Expansion,Scale,7205,Closed Lost,true,false,2023-12-14,2024-04-06,Midwest
+OPP000392,ACC00320,LEAD000148,Foxglove Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-07-22,2025-10-23,West
+OPP000393,ACC00321,LEAD003763,Cypress Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-03-20,2026-04-18,Southeast
+OPP000394,ACC00322,LEAD002839,Meridian Realty - Launch (New Business),New Business,Launch,6000,Prospecting,false,false,2026-04-24,2026-06-21,Southwest
+OPP000395,ACC00323,LEAD000861,Ironwood Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-09-12,2025-12-03,Southeast
+OPP000396,ACC00324,LEAD001494,Summit Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-09-08,2025-12-07,Southwest
+OPP000397,ACC00325,LEAD003151,Stonebridge Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-04-20,2024-08-04,West
+OPP000398,ACC00326,LEAD000618,Cypress Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-03-08,2024-07-01,West
+OPP000399,ACC00326,,Cypress Group - All In (Expansion),Expansion,All In,22953,Closed Lost,true,false,2024-11-06,2025-01-17,West
+OPP000400,ACC00327,LEAD001769,Cornerstone Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-12-25,2026-02-27,Northeast
+OPP000401,ACC00328,,Harbor & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-08-21,2025-12-17,Southwest
+OPP000402,ACC00329,,Blackwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-09-10,2025-10-14,Southeast
+OPP000403,ACC00330,LEAD002920,Foxglove Properties - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-03-27,2024-07-11,Southwest
+OPP000404,ACC00331,LEAD000051,Summit Properties - All In (New Business),New Business,All In,33600,Closed Won,true,true,2023-11-07,2024-01-03,West
+OPP000405,ACC00332,LEAD003756,Beacon Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-01-27,2025-04-04,Southeast
+OPP000406,ACC00333,LEAD001731,Harbor Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-03-17,2025-04-09,Northeast
+OPP000407,ACC00334,LEAD001672,Cornerstone Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-10-16,2025-01-29,Midwest
+OPP000408,ACC00335,LEAD003968,Ironwood Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-11-03,2026-01-02,Southwest
+OPP000409,ACC00336,LEAD002459,Foxglove Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-04-17,2024-06-27,Midwest
+OPP000410,ACC00337,LEAD000751,Blackwood & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-08-01,2023-09-17,Northeast
+OPP000411,ACC00337,,Blackwood & Co. - Launch (Expansion),Expansion,Launch,1884,Closed Lost,true,false,2024-03-20,2024-04-12,Northeast
+OPP000412,ACC00338,LEAD001366,Lakeshore Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-05-04,2024-05-30,West
+OPP000413,ACC00339,LEAD000416,Cornerstone Real Estate - Launch (New Business),New Business,Launch,6000,Negotiation,false,false,2026-05-18,2026-09-16,West
+OPP000414,ACC00340,LEAD000147,Lakeshore Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-12-19,2024-01-25,West
+OPP000415,ACC00341,LEAD001313,Summit Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-01-02,2024-03-10,Southeast
+OPP000416,ACC00342,LEAD001633,Foxglove Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-08-12,2023-11-01,Southwest
+OPP000417,ACC00343,LEAD000554,Cypress Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-03-01,2025-03-22,West
+OPP000418,ACC00344,LEAD003724,Blackwood Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-09-10,2023-10-22,Midwest
+OPP000419,ACC00345,LEAD001597,Ridgeline Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-12-15,2025-03-15,Northeast
+OPP000420,ACC00346,LEAD003830,Summit Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-04-27,2024-06-04,Southeast
+OPP000421,ACC00346,,Summit Real Estate - All In (Expansion),Expansion,All In,14926,Closed Won,true,true,2025-01-12,2025-02-28,Southeast
+OPP000422,ACC00347,LEAD002002,Summit & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-07-17,2024-09-24,West
+OPP000423,ACC00348,LEAD000156,Ridgeline Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-02-05,2026-02-28,Southeast
+OPP000424,ACC00349,LEAD000544,Harbor Real Estate - Scale (New Business),New Business,Scale,19200,Discovery,false,false,2026-05-26,2026-07-15,Northeast
+OPP000425,ACC00350,LEAD003980,Cornerstone Group - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-03-26,2024-07-17,Southeast
+OPP000426,ACC00351,LEAD003810,Summit & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-09-11,2026-01-08,Southeast
+OPP000427,ACC00352,LEAD000687,Harbor Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-08-06,2023-11-21,Southeast
+OPP000428,ACC00353,LEAD001706,Lakeshore & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-01-11,2024-04-07,West
+OPP000429,ACC00354,LEAD002792,Beacon Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-11-14,2024-02-07,West
+OPP000430,ACC00355,LEAD001693,Stonebridge Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-08-25,2025-09-11,West
+OPP000431,ACC00356,LEAD000984,Meridian Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-12-04,2024-01-23,West
+OPP000432,ACC00357,LEAD003745,Harbor Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-10-08,2023-12-15,Northeast
+OPP000433,ACC00357,,Harbor Partners - Brand (Expansion),Expansion,Brand,6526,Closed Lost,true,false,2024-05-28,2024-07-10,Northeast
+OPP000434,ACC00358,LEAD001614,Foxglove Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-12-26,2026-01-12,Midwest
+OPP000435,ACC00359,,Cypress Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-03-21,2025-06-26,Southeast
+OPP000436,ACC00360,LEAD000129,Lakeshore Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-01-10,2024-02-22,Southeast
+OPP000437,ACC00361,LEAD000381,Beacon Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-04-10,2025-05-27,Northeast
+OPP000438,ACC00362,LEAD002838,Ironwood Realty - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-10-16,2025-12-02,Midwest
+OPP000439,ACC00363,LEAD003189,Beacon Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-11-25,2026-01-17,Northeast
+OPP000440,ACC00364,LEAD002082,Lakeshore & Co. - Brand (New Business),New Business,Brand,10800,Negotiation,false,false,2026-06-25,2026-09-22,Midwest
+OPP000441,ACC00365,LEAD002360,Summit Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-08-24,2024-10-28,West
+OPP000442,ACC00366,LEAD002077,Ironwood Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-03-01,2024-06-03,Midwest
+OPP000443,ACC00366,,Ironwood Properties - Brand (Expansion),Expansion,Brand,5977,Closed Lost,true,false,2024-10-21,2024-12-13,Midwest
+OPP000444,ACC00367,,Beacon Partners - Scale (New Business),New Business,Scale,19200,Negotiation,false,false,2026-05-29,2026-07-10,Southeast
+OPP000445,ACC00368,LEAD001932,Ridgeline & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-07-11,2025-09-27,West
+OPP000446,ACC00369,LEAD002787,Meridian & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-11-19,2025-01-27,Northeast
+OPP000447,ACC00370,LEAD001346,Stonebridge Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-11-03,2024-01-12,Southeast
+OPP000448,ACC00371,,Ridgeline & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-09-11,2024-11-14,Southwest
+OPP000449,ACC00372,LEAD001965,Cypress Group - Brand (New Business),New Business,Brand,10800,Discovery,false,false,2026-04-16,2026-06-24,Northeast
+OPP000450,ACC00373,LEAD000272,Ridgeline Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-05-23,2023-07-14,Southeast
+OPP000451,ACC00374,LEAD002690,Beacon Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2026-01-26,2026-02-20,Midwest
+OPP000452,ACC00375,LEAD000843,Ironwood Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-09-16,2024-12-27,Southeast
+OPP000453,ACC00376,LEAD002746,Stonebridge & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-06-30,2025-07-25,Northeast
+OPP000454,ACC00376,,Stonebridge & Co. - Scale (Expansion),Expansion,Scale,8838,Demo,false,false,2026-03-22,2026-07-17,Northeast
+OPP000455,ACC00377,,Stonebridge Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-07-09,2023-08-27,Southeast
+OPP000456,ACC00378,LEAD001074,Beacon & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-11-30,2024-01-24,Northeast
+OPP000457,ACC00378,,Beacon & Co. - Scale (Expansion),Expansion,Scale,9197,Closed Lost,true,false,2024-08-22,2024-09-08,Northeast
+OPP000458,ACC00379,,Cypress Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-10-01,2025-01-16,West
+OPP000459,ACC00380,LEAD002440,Cypress Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-12-13,2026-02-24,Northeast
+OPP000460,ACC00381,,Meridian Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-10-05,2024-12-09,Midwest
+OPP000461,ACC00382,LEAD002897,Lakeshore Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-06-27,2024-09-07,Southeast
+OPP000462,ACC00382,,Lakeshore Partners - Launch (Expansion),Expansion,Launch,4016,Closed Won,true,true,2025-02-22,2025-05-29,Southeast
+OPP000463,ACC00383,,Blackwood & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-02-21,2025-04-14,West
+OPP000464,ACC00384,LEAD003526,Cornerstone & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2026-01-29,2026-02-17,Southwest
+OPP000465,ACC00385,LEAD001683,Ridgeline Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-07-12,2025-09-05,Northeast
+OPP000466,ACC00386,LEAD003452,Cornerstone Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-07-04,2024-07-18,West
+OPP000467,ACC00387,LEAD002881,Foxglove & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-03-16,2025-06-08,Southeast
+OPP000468,ACC00388,LEAD000358,Foxglove Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-11-01,2026-02-09,West
+OPP000469,ACC00389,LEAD002809,Cornerstone Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-03-23,2023-04-16,Southeast
+OPP000470,ACC00389,,Cornerstone Properties - Brand (Expansion),Expansion,Brand,5800,Closed Won,true,true,2023-11-10,2024-02-29,Southeast
+OPP000471,ACC00390,LEAD002959,Summit Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-02-07,2023-03-11,Midwest
+OPP000472,ACC00391,LEAD002784,Foxglove Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-01-12,2025-01-27,Midwest
+OPP000473,ACC00392,LEAD001414,Cypress Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-01-24,2024-01-19,Midwest
+OPP000474,ACC00392,,Cypress Partners - Launch (Expansion),Expansion,Launch,2887,Closed Won,true,true,2024-09-13,2024-10-10,Midwest
+OPP000475,ACC00393,LEAD003140,Lakeshore Properties - Scale (New Business),New Business,Scale,19200,Discovery,false,false,2026-05-08,2026-09-06,Midwest
+OPP000476,ACC00394,LEAD002962,Blackwood & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-08-11,2025-10-03,Southwest
+OPP000477,ACC00394,,Blackwood & Co. - Scale (Expansion),Expansion,Scale,9256,Closed Lost,true,false,2026-04-02,2026-06-26,Southwest
+OPP000478,ACC00395,LEAD001209,Foxglove Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-06-25,2024-08-12,Southwest
+OPP000479,ACC00396,LEAD003912,Harbor Properties - All In (New Business),New Business,All In,33600,Closed Won,true,true,2025-02-16,2025-03-18,Southeast
+OPP000480,ACC00396,,Harbor Properties - Launch (Expansion),Expansion,Launch,3075,Closed Won,true,true,2025-09-26,2025-12-05,Southeast
+OPP000481,ACC00397,LEAD003348,Cypress & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-06-18,2023-07-16,Northeast
+OPP000482,ACC00398,,Ridgeline Group - All In (New Business),New Business,All In,33600,Closed Won,true,true,2026-03-04,2026-04-09,West
+OPP000483,ACC00399,LEAD002793,Cypress Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-11-27,2025-12-30,Southwest
+OPP000484,ACC00400,LEAD001327,Beacon Group - All In (New Business),New Business,All In,33600,Proposal,false,false,2026-04-13,2026-08-23,Southeast
+OPP000485,ACC00401,,Cypress Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-05-05,2024-08-05,West
+OPP000486,ACC00401,,Cypress Group - Launch (Expansion),Expansion,Launch,3821,Closed Lost,true,false,2025-01-20,2025-03-21,West
+OPP000487,ACC00402,LEAD003513,Blackwood Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-12-20,2026-01-21,Midwest
+OPP000488,ACC00403,,Cornerstone Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-07-04,2023-11-01,Midwest
+OPP000489,ACC00404,LEAD001940,Cornerstone Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-02-14,2023-04-24,Southeast
+OPP000490,ACC00405,,Lakeshore & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-09-22,2023-12-01,Southwest
+OPP000491,ACC00406,LEAD000422,Ridgeline Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-05-11,2025-06-23,Southwest
+OPP000492,ACC00407,LEAD000883,Cypress Partners - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-01-13,2024-02-19,Northeast
+OPP000493,ACC00407,,Cypress Partners - All In (Expansion),Expansion,All In,12800,Closed Won,true,true,2024-09-09,2024-12-18,Northeast
+OPP000494,ACC00408,LEAD001387,Ridgeline Properties - Brand (New Business),New Business,Brand,10800,Discovery,false,false,2026-06-25,2026-09-22,West
+OPP000495,ACC00409,LEAD001100,Lakeshore Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-07-02,2024-10-10,Northeast
+OPP000496,ACC00410,LEAD000146,Meridian Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-03-24,2024-06-19,Southwest
+OPP000497,ACC00410,,Meridian Realty - Launch (Expansion),Expansion,Launch,2727,Closed Won,true,true,2024-11-27,2025-02-03,Southwest
+OPP000498,ACC00411,LEAD000428,Ridgeline Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-09-07,2023-11-20,Northeast
+OPP000499,ACC00412,LEAD000725,Ironwood Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-02-25,2025-04-22,Southeast
+OPP000500,ACC00412,,Ironwood Properties - Brand (Expansion),Expansion,Brand,4490,Closed Lost,true,false,2025-10-13,2025-11-01,Southeast
+OPP000501,ACC00413,LEAD001712,Cornerstone Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-11-15,2024-02-14,Northeast
+OPP000502,ACC00414,LEAD002866,Cornerstone & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-09-06,2023-11-21,West
+OPP000503,ACC00415,LEAD002837,Ironwood Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-06-06,2024-10-01,Southeast
+OPP000504,ACC00416,LEAD001535,Cypress Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2026-03-01,2026-06-16,Southeast
+OPP000505,ACC00417,,Stonebridge Properties - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-09-08,2023-11-22,Southeast
+OPP000506,ACC00417,,Stonebridge Properties - Scale (Expansion),Expansion,Scale,4957,Closed Won,true,true,2024-05-18,2024-09-12,Southeast
+OPP000507,ACC00418,LEAD001866,Foxglove Realty - All In (New Business),New Business,All In,33600,Closed Won,true,true,2023-05-19,2023-06-03,Northeast
+OPP000508,ACC00419,LEAD002979,Summit & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-04-14,2024-05-26,West
+OPP000509,ACC00420,LEAD001117,Ridgeline & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2026-05-09,2026-06-26,Midwest
+OPP000510,ACC00421,LEAD001120,Foxglove Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-04-13,2023-07-14,Northeast
+OPP000511,ACC00422,LEAD003685,Ironwood Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-04-27,2025-08-07,West
+OPP000512,ACC00423,LEAD000996,Blackwood Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-02-21,2026-03-25,Northeast
+OPP000513,ACC00424,,Cypress Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-05-17,2025-08-12,West
+OPP000514,ACC00425,LEAD001904,Ironwood Real Estate - Scale (New Business),New Business,Scale,19200,Discovery,false,false,2026-04-19,2026-09-12,Northeast
+OPP000515,ACC00426,LEAD002028,Harbor Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-03-22,2023-06-17,Southeast
+OPP000516,ACC00427,LEAD001261,Harbor Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-02-13,2023-05-06,Midwest
+OPP000517,ACC00428,,Stonebridge & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-04-06,2026-05-05,Midwest
+OPP000518,ACC00429,LEAD001116,Cornerstone Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-03-27,2024-05-02,Southwest
+OPP000519,ACC00430,LEAD000264,Cypress Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-11-06,2026-01-26,West
+OPP000520,ACC00431,LEAD003399,Cypress Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-10-03,2026-01-07,Northeast
+OPP000521,ACC00432,LEAD001425,Summit Real Estate - All In (New Business),New Business,All In,33600,Closed Won,true,true,2025-06-29,2025-08-29,West
+OPP000522,ACC00432,,Summit Real Estate - Brand (Expansion),Expansion,Brand,7364,Closed Won,true,true,2026-01-21,2026-04-30,West
+OPP000523,ACC00433,LEAD001554,Summit Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-12-15,2026-02-16,Southeast
+OPP000524,ACC00434,LEAD003281,Cornerstone Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-07-08,2024-09-16,Midwest
+OPP000525,ACC00435,LEAD003672,Blackwood Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-03-17,2025-04-03,Southeast
+OPP000526,ACC00436,LEAD001057,Cornerstone Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-05-18,2024-07-27,West
+OPP000527,ACC00437,LEAD000319,Blackwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-12-28,2026-04-09,Southeast
+OPP000528,ACC00438,LEAD003386,Harbor Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-07-05,2024-10-15,Southwest
+OPP000529,ACC00439,LEAD002001,Harbor Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-07-17,2024-10-02,Northeast
+OPP000530,ACC00440,LEAD002549,Cypress Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-09-12,2024-12-04,Northeast
+OPP000531,ACC00441,LEAD003240,Lakeshore Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-12-07,2024-01-20,Southeast
+OPP000532,ACC00441,,Lakeshore Partners - Scale (Expansion),Expansion,Scale,6557,Closed Won,true,true,2024-06-30,2024-10-03,Southeast
+OPP000533,ACC00442,,Stonebridge Group - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-10-17,2024-11-23,Southwest
+OPP000534,ACC00443,,Summit Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-06-05,2025-07-09,Northeast
+OPP000535,ACC00443,,Summit Properties - Launch (Expansion),Expansion,Launch,3372,Closed Lost,true,false,2026-01-15,2026-05-01,Northeast
+OPP000536,ACC00444,,Beacon Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-08-12,2023-10-28,Southwest
+OPP000537,ACC00445,,Ironwood Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-12-28,2024-03-09,West
+OPP000538,ACC00446,LEAD003031,Lakeshore Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-01-10,2024-03-21,Southwest
+OPP000539,ACC00447,LEAD002778,Beacon & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2026-02-21,2026-03-22,Northeast
+OPP000540,ACC00448,LEAD003349,Harbor Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-12-24,2025-01-17,Northeast
+OPP000541,ACC00449,LEAD002103,Beacon Real Estate - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-12-20,2026-03-13,Midwest
+OPP000542,ACC00450,LEAD000895,Cypress Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-08-26,2024-09-18,West
+OPP000543,ACC00450,,Cypress Group - Launch (Expansion),Expansion,Launch,3654,Closed Lost,true,false,2025-05-14,2025-08-27,West
+OPP000544,ACC00451,LEAD001370,Harbor Partners - All In (New Business),New Business,All In,33600,Closed Won,true,true,2025-03-20,2025-05-22,Southwest
+OPP000545,ACC00451,,Harbor Partners - Brand (Expansion),Expansion,Brand,3633,Closed Won,true,true,2025-11-10,2026-01-16,Southwest
+OPP000546,ACC00452,LEAD002256,Harbor & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-06-04,2023-07-11,Midwest
+OPP000547,ACC00453,LEAD002903,Summit Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-11-14,2024-01-12,Southwest
+OPP000548,ACC00453,,Summit Properties - Launch (Expansion),Expansion,Launch,3018,Closed Lost,true,false,2024-07-20,2024-08-11,Southwest
+OPP000549,ACC00454,LEAD002971,Beacon Properties - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-05-21,2024-07-24,Southeast
+OPP000550,ACC00454,,Beacon Properties - Brand (Expansion),Expansion,Brand,2826,Closed Won,true,true,2025-01-15,2025-02-10,Southeast
+OPP000551,ACC00455,LEAD002972,Ridgeline Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-03-19,2023-06-01,Southeast
+OPP000552,ACC00456,LEAD000492,Harbor & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-06-30,2024-08-16,Southwest
+OPP000553,ACC00457,LEAD003012,Foxglove Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-08-05,2023-11-05,West
+OPP000554,ACC00458,LEAD001404,Summit & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-09-16,2025-09-30,Northeast
+OPP000555,ACC00459,LEAD002406,Cornerstone Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-08-10,2024-10-28,Midwest
+OPP000556,ACC00460,LEAD001579,Foxglove Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-06-18,2024-10-06,Midwest
+OPP000557,ACC00461,,Lakeshore Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-09-21,2023-10-17,Southwest
+OPP000558,ACC00462,LEAD001081,Beacon & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-11-17,2024-02-16,Southeast
+OPP000559,ACC00463,LEAD001306,Blackwood Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-01-12,2025-04-20,Northeast
+OPP000560,ACC00464,LEAD002798,Foxglove Real Estate - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-07-08,2024-11-02,Southeast
+OPP000561,ACC00465,LEAD001777,Foxglove Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-05-20,2023-07-09,Northeast
+OPP000562,ACC00466,LEAD003422,Harbor Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-08-15,2023-08-30,Southeast
+OPP000563,ACC00467,LEAD002161,Ironwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-08-18,2023-10-27,West
+OPP000564,ACC00467,,Ironwood & Co. - Brand (Expansion),Expansion,Brand,5438,Closed Won,true,true,2024-04-18,2024-06-27,West
+OPP000565,ACC00468,LEAD002034,Harbor Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-02-23,2023-06-13,Northeast
+OPP000566,ACC00468,,Harbor Partners - Brand (Expansion),Expansion,Brand,6863,Closed Won,true,true,2023-11-07,2023-11-25,Northeast
+OPP000567,ACC00469,LEAD002522,Blackwood Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-07-05,2024-08-23,West
+OPP000568,ACC00470,LEAD002154,Ridgeline Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-01-04,2026-01-21,Southeast
+OPP000569,ACC00471,LEAD003498,Ridgeline Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-08-20,2025-09-05,Northeast
+OPP000570,ACC00472,LEAD002022,Lakeshore Real Estate - All In (New Business),New Business,All In,33600,Discovery,false,false,2026-05-17,2026-08-23,Southwest
+OPP000571,ACC00473,LEAD000181,Cypress & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2026-03-24,2026-04-24,Midwest
+OPP000572,ACC00474,LEAD003578,Blackwood Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-08-10,2024-11-30,West
+OPP000573,ACC00475,LEAD000227,Beacon Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-12-09,2026-03-02,Midwest
+OPP000574,ACC00476,LEAD003992,Meridian Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-10-07,2025-01-30,Southwest
+OPP000575,ACC00477,LEAD001238,Blackwood Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-04-18,2026-05-12,Southeast
+OPP000576,ACC00478,LEAD002599,Harbor Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-06-24,2025-08-02,Midwest
+OPP000577,ACC00479,LEAD001364,Ridgeline Group - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-05-02,2023-05-29,West
+OPP000578,ACC00480,LEAD002116,Blackwood Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-05-01,2026-06-30,Southeast
+OPP000579,ACC00481,LEAD003831,Ironwood Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-03-05,2026-05-19,Northeast
+OPP000580,ACC00482,LEAD003941,Stonebridge Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-04-15,2025-05-04,Northeast
+OPP000581,ACC00483,LEAD001293,Ironwood Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-04-26,2026-06-15,Midwest
+OPP000582,ACC00484,LEAD002453,Meridian Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-16,2025-01-03,Northeast
+OPP000583,ACC00484,,Meridian Partners - All In (Expansion),Expansion,All In,15387,Closed Won,true,true,2025-06-13,2025-08-16,Northeast
+OPP000584,ACC00485,LEAD000803,Summit Properties - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-12-21,2024-03-29,Southwest
+OPP000585,ACC00486,LEAD002357,Stonebridge Real Estate - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-09-05,2025-11-17,West
+OPP000586,ACC00487,,Foxglove Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-11-06,2023-12-09,Northeast
+OPP000587,ACC00487,,Foxglove Real Estate - Brand (Expansion),Expansion,Brand,7288,Closed Won,true,true,2024-07-24,2024-09-25,Northeast
+OPP000588,ACC00488,LEAD003350,Summit Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-07-14,2024-11-10,Southwest
+OPP000589,ACC00489,,Cypress & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-03-04,2025-04-19,West
+OPP000590,ACC00489,,Cypress & Co. - All In (Expansion),Expansion,All In,22404,Closed Won,true,true,2025-11-14,2025-12-03,West
+OPP000591,ACC00490,,Stonebridge Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-11-03,2025-12-17,West
+OPP000592,ACC00491,,Lakeshore Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-12-21,2024-04-15,Southeast
+OPP000593,ACC00491,,Lakeshore Group - Brand (Expansion),Expansion,Brand,4438,Closed Won,true,true,2024-07-30,2024-09-18,Southeast
+OPP000594,ACC00492,,Lakeshore Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-04-11,2023-04-26,Midwest
+OPP000595,ACC00493,LEAD000586,Ridgeline Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-04-26,2024-07-06,Northeast
+OPP000596,ACC00494,LEAD002118,Blackwood & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2026-04-13,2026-05-07,Southwest
+OPP000597,ACC00495,LEAD002104,Stonebridge Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-17,2024-11-01,Northeast
+OPP000598,ACC00496,LEAD003507,Stonebridge & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-06-10,2025-09-22,Midwest
+OPP000599,ACC00496,,Stonebridge & Co. - All In (Expansion),Expansion,All In,18905,Closed Won,true,true,2026-01-01,2025-12-12,Midwest
+OPP000600,ACC00497,LEAD002096,Cornerstone & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-07-10,2024-10-29,Southwest
+OPP000601,ACC00498,LEAD003103,Ironwood Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-08-30,2025-11-10,Northeast
+OPP000602,ACC00498,,Ironwood Partners - Launch (Expansion),Expansion,Launch,3099,Prospecting,false,false,2026-05-15,2026-08-01,Northeast
+OPP000603,ACC00499,LEAD001557,Cornerstone & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-02-12,2023-03-01,West
+OPP000604,ACC00499,,Cornerstone & Co. - Scale (Expansion),Expansion,Scale,5183,Closed Won,true,true,2023-10-28,2024-01-06,West
+OPP000605,ACC00500,LEAD003913,Ironwood Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-11-30,2025-02-23,Northeast
+OPP000606,ACC00501,LEAD000155,Beacon Partners - Brand (New Business),New Business,Brand,10800,Discovery,false,false,2026-03-17,2026-04-28,Northeast
+OPP000607,ACC00502,LEAD003815,Beacon Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-12-07,2026-01-30,West
+OPP000608,ACC00503,LEAD002779,Foxglove Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-04-28,2023-06-17,Midwest
+OPP000609,ACC00504,LEAD002934,Ridgeline Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-05-24,2025-07-15,Northeast
+OPP000610,ACC00505,LEAD000561,Stonebridge Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-12-26,2024-03-22,Midwest
+OPP000611,ACC00506,LEAD001918,Ridgeline Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-03-29,2025-05-06,Northeast
+OPP000612,ACC00507,LEAD003423,Ridgeline Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-10-28,2025-01-29,West
+OPP000613,ACC00507,,Ridgeline Realty - Brand (Expansion),Expansion,Brand,4429,Closed Lost,true,false,2025-06-15,2025-09-22,West
+OPP000614,ACC00508,LEAD002299,Beacon Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-11-23,2026-01-09,West
+OPP000615,ACC00509,LEAD003529,Blackwood Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-01-26,2023-03-24,West
+OPP000616,ACC00509,,Blackwood Real Estate - Brand (Expansion),Expansion,Brand,4019,Closed Won,true,true,2023-10-17,2024-02-01,West
+OPP000617,ACC00510,,Harbor Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-03-24,2023-06-30,Midwest
+OPP000618,ACC00511,LEAD002475,Stonebridge Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-05-07,2026-05-25,Midwest
+OPP000619,ACC00512,LEAD002916,Harbor Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-06-28,2023-08-12,Midwest
+OPP000620,ACC00513,LEAD000750,Harbor Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-03-13,2024-03-03,Northeast
+OPP000621,ACC00514,LEAD001151,Meridian Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-11-09,2024-12-03,Midwest
+OPP000622,ACC00515,LEAD001208,Summit Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-05-10,2024-08-18,Southeast
+OPP000623,ACC00516,LEAD000666,Cypress & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-05-06,2025-08-07,Northeast
+OPP000624,ACC00517,LEAD001722,Cypress Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-05-25,2023-06-10,Midwest
+OPP000625,ACC00517,,Cypress Group - Scale (Expansion),Expansion,Scale,10157,Closed Lost,true,false,2024-02-21,2024-06-03,Midwest
+OPP000626,ACC00518,LEAD001877,Lakeshore & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-03-30,2023-07-28,Southeast
+OPP000627,ACC00519,LEAD000795,Ironwood & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-08-16,2025-11-05,Southwest
+OPP000628,ACC00519,,Ironwood & Co. - All In (Expansion),Expansion,All In,17966,Demo,false,false,2026-04-10,2026-05-20,Southwest
+OPP000629,ACC00520,LEAD002911,Lakeshore Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-03-10,2024-05-22,Northeast
+OPP000630,ACC00521,LEAD001088,Harbor Group - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-01-18,2024-03-22,Southeast
+OPP000631,ACC00522,,Blackwood Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-02-13,2025-04-26,Southeast
+OPP000632,ACC00523,,Beacon Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-08-03,2023-09-06,West
+OPP000633,ACC00523,,Beacon Real Estate - Launch (Expansion),Expansion,Launch,2069,Closed Lost,true,false,2024-03-18,2024-05-01,West
+OPP000634,ACC00524,LEAD003926,Cypress & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-10-21,2023-12-26,Midwest
+OPP000635,ACC00525,,Summit & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-12-20,2026-04-14,Southeast
+OPP000636,ACC00526,,Blackwood & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-11-04,2024-12-09,West
+OPP000637,ACC00527,LEAD002677,Ridgeline Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-06-29,2025-07-15,Midwest
+OPP000638,ACC00527,,Ridgeline Group - Scale (Expansion),Expansion,Scale,9844,Closed Lost,true,false,2026-03-12,2026-04-01,Midwest
+OPP000639,ACC00528,LEAD002635,Stonebridge Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-12-20,2025-02-24,West
+OPP000640,ACC00529,,Foxglove Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-05-09,2023-08-16,Midwest
+OPP000641,ACC00530,LEAD003806,Blackwood Group - Brand (New Business),New Business,Brand,10800,Negotiation,false,false,2026-05-15,2026-07-29,Southeast
+OPP000642,ACC00531,LEAD003710,Foxglove & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-09-13,2025-11-03,Southwest
+OPP000643,ACC00532,LEAD000140,Foxglove Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-01-15,2025-02-24,Northeast
+OPP000644,ACC00533,LEAD003565,Blackwood Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-09-26,2025-10-27,Southeast
+OPP000645,ACC00534,,Ironwood Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-05-29,2023-07-27,West
+OPP000646,ACC00535,LEAD002333,Stonebridge Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-04-01,2025-07-12,Southwest
+OPP000647,ACC00535,,Stonebridge Real Estate - Launch (Expansion),Expansion,Launch,2358,Closed Won,true,true,2025-12-06,2026-02-21,Southwest
+OPP000648,ACC00536,LEAD001540,Meridian Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-07-16,2023-09-17,Southwest
+OPP000649,ACC00536,,Meridian Partners - All In (Expansion),Expansion,All In,22308,Closed Lost,true,false,2024-02-18,2024-04-15,Southwest
+OPP000650,ACC00537,LEAD002931,Meridian Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-06-11,2023-08-23,Midwest
+OPP000651,ACC00537,,Meridian Partners - All In (Expansion),Expansion,All In,13242,Closed Won,true,true,2024-03-03,2024-05-24,Midwest
+OPP000652,ACC00538,,Foxglove Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-11-03,2024-02-28,West
+OPP000653,ACC00539,LEAD000609,Foxglove Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-14,2025-01-17,Southeast
+OPP000654,ACC00540,LEAD002309,Summit Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-04-22,2025-08-10,Northeast
+OPP000655,ACC00540,,Summit Group - All In (Expansion),Expansion,All In,18520,Closed Lost,true,false,2025-12-09,2026-03-19,Northeast
+OPP000656,ACC00541,LEAD001234,Meridian Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-04-10,2023-07-23,West
+OPP000657,ACC00541,,Meridian Partners - Launch (Expansion),Expansion,Launch,2345,Closed Won,true,true,2023-12-09,2024-02-01,West
+OPP000658,ACC00542,,Cypress Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-01-13,2024-02-08,Northeast
+OPP000659,ACC00543,LEAD001660,Beacon & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-06-03,2023-08-07,Southwest
+OPP000660,ACC00544,,Beacon Real Estate - Brand (New Business),New Business,Brand,10800,Proposal,false,false,2026-06-14,2026-07-23,Southeast
+OPP000661,ACC00545,LEAD002158,Cornerstone & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-02-22,2023-03-09,Southwest
+OPP000662,ACC00546,LEAD003809,Harbor Real Estate - Launch (New Business),New Business,Launch,6000,Demo,false,false,2026-04-19,2026-06-11,West
+OPP000663,ACC00547,LEAD000811,Foxglove & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2026-01-16,2026-02-07,Southeast
+OPP000664,ACC00548,LEAD002305,Beacon Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-08-18,2025-10-02,Northeast
+OPP000665,ACC00549,LEAD003977,Meridian Group - Scale (New Business),New Business,Scale,19200,Demo,false,false,2026-05-16,2026-09-13,Southwest
+OPP000666,ACC00550,,Harbor Properties - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-08-20,2024-11-27,West
+OPP000667,ACC00551,LEAD003496,Meridian Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-07-24,2024-09-07,Midwest
+OPP000668,ACC00552,LEAD001006,Cypress Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-05-05,2024-06-18,Southwest
+OPP000669,ACC00553,LEAD001176,Beacon & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-06-03,2025-09-30,Southeast
+OPP000670,ACC00554,LEAD000713,Ironwood Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-09-08,2023-10-02,Midwest
+OPP000671,ACC00555,,Cypress Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-04-19,2025-06-22,Southeast
+OPP000672,ACC00555,,Cypress Partners - Scale (Expansion),Expansion,Scale,11383,Closed Won,true,true,2025-12-07,2026-03-24,Southeast
+OPP000673,ACC00556,LEAD003599,Foxglove Group - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-04-29,2023-06-08,Midwest
+OPP000674,ACC00557,LEAD002386,Foxglove & Co. - Launch (New Business),New Business,Launch,6000,Prospecting,false,false,2026-05-20,2026-07-08,West
+OPP000675,ACC00558,LEAD002721,Summit Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-01-22,2023-04-19,Southwest
+OPP000676,ACC00559,LEAD002040,Meridian Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-07-10,2024-07-26,Southwest
+OPP000677,ACC00559,,Meridian Realty - Launch (Expansion),Expansion,Launch,3889,Closed Lost,true,false,2025-02-20,2025-03-20,Southwest
+OPP000678,ACC00560,LEAD002153,Foxglove Real Estate - Launch (New Business),New Business,Launch,6000,Prospecting,false,false,2026-06-29,2026-08-22,West
+OPP000679,ACC00561,LEAD002422,Blackwood Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-06-19,2023-06-04,Midwest
+OPP000680,ACC00562,LEAD003291,Blackwood Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-12-10,2025-01-25,West
+OPP000681,ACC00563,,Ironwood Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-11-07,2025-12-13,Southeast
+OPP000682,ACC00563,,Ironwood Properties - Scale (Expansion),Expansion,Scale,5919,Proposal,false,false,2026-06-25,2026-10-29,Southeast
+OPP000683,ACC00564,LEAD003441,Summit Partners - Launch (New Business),New Business,Launch,6000,Demo,false,false,2026-04-06,2026-06-07,West
+OPP000684,ACC00565,LEAD001134,Cypress & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-11-13,2025-02-10,Midwest
+OPP000685,ACC00566,LEAD003201,Cypress Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-02-26,2025-05-22,Northeast
+OPP000686,ACC00566,,Cypress Group - Launch (Expansion),Expansion,Launch,3460,Closed Won,true,true,2025-11-11,2025-12-08,Northeast
+OPP000687,ACC00567,,Blackwood & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-12-19,2025-01-25,West
+OPP000688,ACC00568,LEAD002038,Lakeshore Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-03-25,2025-06-05,Southwest
+OPP000689,ACC00568,,Lakeshore Partners - Brand (Expansion),Expansion,Brand,5177,Closed Lost,true,false,2025-12-07,2026-03-14,Southwest
+OPP000690,ACC00569,LEAD001101,Harbor Real Estate - Scale (New Business),New Business,Scale,19200,Prospecting,false,false,2026-05-20,2026-07-12,West
+OPP000691,ACC00570,,Cornerstone & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-12-20,2024-12-12,West
+OPP000692,ACC00571,LEAD002692,Beacon Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-10-24,2024-01-07,West
+OPP000693,ACC00572,LEAD002766,Harbor Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-05-28,2023-07-23,West
+OPP000694,ACC00573,LEAD001956,Ironwood Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-05-06,2024-08-20,Southeast
+OPP000695,ACC00574,LEAD003882,Lakeshore Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-03-25,2024-05-13,Northeast
+OPP000696,ACC00575,LEAD000576,Summit Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-07-21,2025-08-30,Midwest
+OPP000697,ACC00575,,Summit Properties - Brand (Expansion),Expansion,Brand,2859,Closed Won,true,true,2026-02-25,2026-03-17,Midwest
+OPP000698,ACC00576,,Stonebridge & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-01-27,2023-04-04,Southeast
+OPP000699,ACC00576,,Stonebridge & Co. - Brand (Expansion),Expansion,Brand,6251,Closed Lost,true,false,2023-10-03,2023-11-24,Southeast
+OPP000700,ACC00577,,Ridgeline Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-07-28,2024-08-25,Southwest
+OPP000701,ACC00578,LEAD002292,Cypress Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-09-28,2024-11-12,West
+OPP000702,ACC00579,LEAD001201,Foxglove & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-01-30,2026-03-04,Midwest
+OPP000703,ACC00580,,Foxglove Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-09-04,2025-11-10,Southwest
+OPP000704,ACC00581,LEAD003273,Summit Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-07-19,2025-08-14,Midwest
+OPP000705,ACC00582,LEAD003501,Lakeshore Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-06-03,2024-08-14,Northeast
+OPP000706,ACC00582,,Lakeshore Partners - Brand (Expansion),Expansion,Brand,3043,Closed Lost,true,false,2025-02-02,2025-05-13,Northeast
+OPP000707,ACC00583,LEAD002338,Cornerstone Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-05-17,2025-08-02,Southwest
+OPP000708,ACC00584,LEAD000969,Ridgeline Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-08-19,2025-12-13,Southwest
+OPP000709,ACC00585,LEAD003208,Harbor Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2026-04-01,2026-05-29,Southwest
+OPP000710,ACC00586,LEAD001662,Cypress Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-01-20,2024-03-12,Midwest
+OPP000711,ACC00587,LEAD000455,Meridian Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-07-03,2024-08-05,West
+OPP000712,ACC00587,,Meridian Properties - Scale (Expansion),Expansion,Scale,7386,Closed Won,true,true,2025-02-22,2025-04-28,West
+OPP000713,ACC00588,LEAD003842,Ironwood Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-11-21,2026-01-29,Southeast
+OPP000714,ACC00589,LEAD002354,Blackwood Properties - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-04-26,2025-06-17,Northeast
+OPP000715,ACC00590,LEAD002525,Beacon Properties - Brand (New Business),New Business,Brand,10800,Negotiation,false,false,2026-04-07,2026-07-21,Southwest
+OPP000716,ACC00591,LEAD002639,Stonebridge Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-02-11,2023-04-02,Southeast
+OPP000717,ACC00592,LEAD001545,Lakeshore & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-03-21,2024-06-27,Northeast
+OPP000718,ACC00592,,Lakeshore & Co. - Scale (Expansion),Expansion,Scale,5493,Closed Lost,true,false,2024-10-31,2025-01-03,Northeast
+OPP000719,ACC00593,LEAD001213,Foxglove Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-04-10,2023-06-20,Midwest
+OPP000720,ACC00593,,Foxglove Real Estate - Launch (Expansion),Expansion,Launch,1508,Closed Lost,true,false,2023-12-18,2024-01-09,Midwest
+OPP000721,ACC00594,LEAD001160,Cornerstone Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-09-13,2025-10-15,Northeast
+OPP000722,ACC00594,,Cornerstone Group - Launch (Expansion),Expansion,Launch,3430,Prospecting,false,false,2026-06-15,2026-08-27,Northeast
+OPP000723,ACC00595,LEAD000269,Cypress Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-03-17,2025-07-13,Midwest
+OPP000724,ACC00596,LEAD003577,Stonebridge Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-08-20,2025-12-03,Northeast
+OPP000725,ACC00596,,Stonebridge Realty - Scale (Expansion),Expansion,Scale,12113,Proposal,false,false,2026-04-22,2026-06-01,Northeast
+OPP000726,ACC00597,LEAD001399,Harbor & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-07-05,2023-08-25,Southwest
+OPP000727,ACC00597,,Harbor & Co. - Scale (Expansion),Expansion,Scale,12162,Closed Won,true,true,2024-03-06,2024-06-30,Southwest
+OPP000728,ACC00598,LEAD003413,Ironwood Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-01-14,2026-02-03,West
+OPP000729,ACC00599,LEAD003159,Lakeshore & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-12-05,2026-01-02,Southwest
+OPP000730,ACC00600,,Ridgeline Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-07-02,2025-07-31,Northeast
+OPP000731,ACC00600,,Ridgeline Group - Launch (Expansion),Expansion,Launch,3267,Closed Lost,true,false,2026-03-19,2026-06-14,Northeast
+OPP000732,ACC00601,LEAD001175,Beacon Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-04-21,2023-06-16,Midwest
+OPP000733,ACC00601,,Beacon Properties - Brand (Expansion),Expansion,Brand,2956,Closed Lost,true,false,2023-12-30,2024-04-08,Midwest
+OPP000734,ACC00602,LEAD002192,Summit Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-12-19,2024-01-29,Southwest
+OPP000735,ACC00603,LEAD000229,Ridgeline Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-03-22,2023-06-11,Southwest
+OPP000736,ACC00604,LEAD003886,Lakeshore Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-11-22,2026-02-06,West
+OPP000737,ACC00605,LEAD002065,Stonebridge Partners - Launch (New Business),New Business,Launch,6000,Demo,false,false,2026-04-15,2026-05-24,Midwest
+OPP000738,ACC00606,LEAD001710,Meridian Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-09-12,2023-11-13,Southwest
+OPP000739,ACC00606,,Meridian Properties - Launch (Expansion),Expansion,Launch,2558,Closed Won,true,true,2024-05-25,2024-08-06,Southwest
+OPP000740,ACC00607,LEAD000432,Blackwood Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2026-04-22,2026-05-20,Northeast
+OPP000741,ACC00608,LEAD000743,Meridian Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-04-17,2025-06-11,West
+OPP000742,ACC00609,LEAD003779,Lakeshore Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-03-06,2025-06-21,Southeast
+OPP000743,ACC00610,LEAD003355,Meridian Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-05-21,2025-07-06,Southeast
+OPP000744,ACC00610,,Meridian Real Estate - Brand (Expansion),Expansion,Brand,7482,Closed Won,true,true,2026-01-30,2026-05-25,Southeast
+OPP000745,ACC00611,LEAD000344,Ironwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-05-23,2023-07-30,Northeast
+OPP000746,ACC00612,LEAD002954,Ironwood Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-11-05,2023-12-31,Northeast
+OPP000747,ACC00613,LEAD003676,Summit Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-08-20,2025-09-08,Midwest
+OPP000748,ACC00614,,Stonebridge & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-09-17,2024-11-18,West
+OPP000749,ACC00615,,Blackwood & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-02-04,2025-05-09,West
+OPP000750,ACC00616,LEAD003050,Beacon & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-12-08,2024-03-25,West
+OPP000751,ACC00617,LEAD001486,Cypress & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-12-30,2025-03-11,Midwest
+OPP000752,ACC00618,LEAD000699,Foxglove Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-01-12,2024-03-02,West
+OPP000753,ACC00619,LEAD003212,Lakeshore Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-02-22,2023-04-18,Midwest
+OPP000754,ACC00619,,Lakeshore Partners - Scale (Expansion),Expansion,Scale,6612,Closed Lost,true,false,2023-10-18,2023-11-25,Midwest
+OPP000755,ACC00620,LEAD003973,Harbor Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-02-29,2024-06-06,Southwest
+OPP000756,ACC00620,,Harbor Realty - All In (Expansion),Expansion,All In,23037,Closed Won,true,true,2024-09-20,2024-10-27,Southwest
+OPP000757,ACC00621,,Blackwood Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-07-30,2025-09-05,Midwest
+OPP000758,ACC00622,LEAD000132,Ironwood & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-04-19,2024-07-05,Southwest
+OPP000759,ACC00623,LEAD001211,Blackwood Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-03-30,2023-07-28,West
+OPP000760,ACC00623,,Blackwood Realty - Brand (Expansion),Expansion,Brand,6142,Closed Lost,true,false,2023-12-05,2024-02-01,West
+OPP000761,ACC00624,LEAD001695,Lakeshore Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-04-08,2024-07-10,West
+OPP000762,ACC00625,LEAD002320,Harbor Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-11-09,2026-01-22,Midwest
+OPP000763,ACC00626,LEAD003126,Harbor Properties - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-12-21,2024-03-04,Southwest
+OPP000764,ACC00627,LEAD000012,Ironwood Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-08-22,2023-11-12,Southeast
+OPP000765,ACC00628,LEAD003652,Lakeshore & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-12-19,2026-03-12,West
+OPP000766,ACC00629,LEAD002813,Beacon Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-08-28,2025-09-13,West
+OPP000767,ACC00629,,Beacon Properties - Scale (Expansion),Expansion,Scale,12730,Discovery,false,false,2026-04-02,2026-08-30,West
+OPP000768,ACC00630,,Foxglove Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-09-04,2025-12-13,West
+OPP000769,ACC00630,,Foxglove Partners - Launch (Expansion),Expansion,Launch,3307,Negotiation,false,false,2026-05-25,2026-07-08,West
+OPP000770,ACC00631,LEAD001046,Harbor & Co. - All In (New Business),New Business,All In,33600,Closed Won,true,true,2025-05-02,2025-08-01,West
+OPP000771,ACC00631,,Harbor & Co. - Launch (Expansion),Expansion,Launch,4013,Closed Lost,true,false,2025-12-21,2026-01-12,West
+OPP000772,ACC00632,LEAD003803,Ironwood & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-04-28,2025-07-17,Southwest
+OPP000773,ACC00633,LEAD002633,Meridian Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-04-01,2025-06-25,Midwest
+OPP000774,ACC00633,,Meridian Partners - Brand (Expansion),Expansion,Brand,3816,Closed Lost,true,false,2025-11-25,2026-03-12,Midwest
+OPP000775,ACC00634,LEAD000926,Ridgeline Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-11-15,2026-03-03,West
+OPP000776,ACC00635,LEAD000085,Meridian Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-03-13,2025-03-27,West
+OPP000777,ACC00636,LEAD002190,Cypress Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-11-01,2025-12-16,Southeast
+OPP000778,ACC00637,,Summit Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-11-06,2025-01-29,West
+OPP000779,ACC00638,LEAD002110,Meridian & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-03-15,2025-06-18,Southeast
+OPP000780,ACC00638,,Meridian & Co. - All In (Expansion),Expansion,All In,17429,Closed Won,true,true,2025-11-30,2025-12-25,Southeast
+OPP000781,ACC00639,LEAD002619,Ironwood Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-07-29,2024-09-03,Northeast
+OPP000782,ACC00640,LEAD002504,Meridian Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-03-03,2025-04-05,Northeast
+OPP000783,ACC00640,,Meridian Realty - Brand (Expansion),Expansion,Brand,4595,Closed Won,true,true,2025-10-07,2025-11-03,Northeast
+OPP000784,ACC00641,,Foxglove Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-05-14,2023-06-05,Midwest
+OPP000785,ACC00642,,Foxglove Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-03-25,2023-06-25,West
+OPP000786,ACC00643,,Harbor Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-03-12,2025-06-06,West
+OPP000787,ACC00644,LEAD003370,Cornerstone Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-12,2025-02-04,Midwest
+OPP000788,ACC00645,LEAD003791,Harbor & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-04-22,2025-08-06,Midwest
+OPP000789,ACC00645,,Harbor & Co. - Brand (Expansion),Expansion,Brand,3728,Closed Won,true,true,2026-01-05,2026-03-09,Midwest
+OPP000790,ACC00646,LEAD001555,Lakeshore Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2026-01-12,2026-03-07,West
+OPP000791,ACC00647,LEAD003795,Beacon & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-04-05,2025-06-11,Midwest
+OPP000792,ACC00647,,Beacon & Co. - Launch (Expansion),Expansion,Launch,3776,Closed Won,true,true,2026-01-04,2026-03-23,Midwest
+OPP000793,ACC00648,LEAD000402,Stonebridge Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-04-01,2026-04-16,Northeast
+OPP000794,ACC00649,,Stonebridge & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-08-18,2025-11-07,Northeast
+OPP000795,ACC00650,LEAD001091,Blackwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-07-08,2024-08-11,Southwest
+OPP000796,ACC00651,,Ironwood Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-10-11,2024-11-18,Southwest
+OPP000797,ACC00652,LEAD002280,Summit & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-07-26,2024-10-09,West
+OPP000798,ACC00653,LEAD002248,Foxglove & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-05-31,2023-07-09,Northeast
+OPP000799,ACC00654,LEAD003553,Meridian Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-11-09,2026-02-25,West
+OPP000800,ACC00654,,Meridian Real Estate - All In (Expansion),Expansion,All In,22594,Discovery,false,false,2026-06-21,2026-09-23,West
+OPP000801,ACC00655,LEAD000476,Stonebridge Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-10-19,2024-11-14,West
+OPP000802,ACC00656,LEAD000254,Meridian Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-08-04,2024-09-01,Southwest
+OPP000803,ACC00657,,Ridgeline Group - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-06-07,2024-09-14,Northeast
+OPP000804,ACC00657,,Ridgeline Group - Launch (Expansion),Expansion,Launch,2128,Closed Won,true,true,2025-02-23,2025-04-07,Northeast
+OPP000805,ACC00658,LEAD001033,Ironwood Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-06-03,2023-09-14,Northeast
+OPP000806,ACC00659,LEAD002933,Cornerstone Group - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-04-16,2025-05-30,Southeast
+OPP000807,ACC00660,LEAD002399,Beacon Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-08-07,2024-10-28,Southeast
+OPP000808,ACC00661,LEAD003293,Meridian & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-12-11,2026-03-07,Southwest
+OPP000809,ACC00662,,Foxglove Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-10-18,2023-11-09,Southwest
+OPP000810,ACC00663,LEAD000892,Lakeshore Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-10-27,2023-12-25,Northeast
+OPP000811,ACC00663,,Lakeshore Partners - Launch (Expansion),Expansion,Launch,1922,Closed Won,true,true,2024-07-02,2024-08-02,Northeast
+OPP000812,ACC00664,LEAD003531,Lakeshore Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-08-19,2024-12-15,Northeast
+OPP000813,ACC00665,LEAD000354,Beacon Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-03-12,2026-04-18,West
+OPP000814,ACC00666,LEAD003984,Ridgeline Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-11-14,2024-02-12,Southeast
+OPP000815,ACC00666,,Ridgeline Real Estate - Launch (Expansion),Expansion,Launch,2216,Closed Won,true,true,2024-07-01,2024-10-16,Southeast
+OPP000816,ACC00667,LEAD000116,Cornerstone Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-10-09,2025-12-18,Southeast
+OPP000817,ACC00668,LEAD000954,Blackwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-02-29,2024-06-24,Southwest
+OPP000818,ACC00668,,Blackwood & Co. - Scale (Expansion),Expansion,Scale,7469,Closed Lost,true,false,2024-11-22,2025-02-21,Southwest
+OPP000819,ACC00669,LEAD000513,Cornerstone Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-07-04,2024-08-17,West
+OPP000820,ACC00670,LEAD000157,Stonebridge Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-03-31,2025-05-25,Midwest
+OPP000821,ACC00671,LEAD002497,Meridian & Co. - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-05-06,2024-06-09,West
+OPP000822,ACC00672,LEAD003244,Cypress Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-03-21,2025-06-16,Southeast
+OPP000823,ACC00673,LEAD001519,Stonebridge Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-09-19,2025-10-07,Southeast
+OPP000824,ACC00674,LEAD002269,Ironwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-11-05,2026-02-12,West
+OPP000825,ACC00675,LEAD003661,Foxglove & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-11-17,2026-01-03,Southwest
+OPP000826,ACC00676,LEAD000793,Beacon Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-10-03,2026-01-31,Southwest
+OPP000827,ACC00677,LEAD003848,Ridgeline Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-11-12,2026-02-02,Northeast
+OPP000828,ACC00678,LEAD002032,Summit Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-08-26,2024-10-15,Southwest
+OPP000829,ACC00678,,Summit Real Estate - Brand (Expansion),Expansion,Brand,4722,Closed Lost,true,false,2025-04-09,2025-08-01,Southwest
+OPP000830,ACC00679,LEAD000008,Foxglove Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-03-04,2023-05-04,West
+OPP000831,ACC00680,,Blackwood Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-08-29,2025-10-14,Southwest
+OPP000832,ACC00681,LEAD002231,Summit & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-03-11,2026-04-26,Southeast
+OPP000833,ACC00682,,Ridgeline Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-03-24,2025-07-04,Northeast
+OPP000834,ACC00683,LEAD001915,Beacon Partners - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-09-06,2024-10-16,Southeast
+OPP000835,ACC00683,,Beacon Partners - Brand (Expansion),Expansion,Brand,3804,Closed Won,true,true,2025-04-12,2025-04-28,Southeast
+OPP000836,ACC00684,,Beacon Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-11-06,2025-12-04,Midwest
+OPP000837,ACC00685,LEAD002184,Lakeshore Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-06-18,2025-08-24,Northeast
+OPP000838,ACC00686,LEAD003670,Beacon Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-09-03,2025-09-24,Northeast
+OPP000839,ACC00687,LEAD000501,Summit Real Estate - All In (New Business),New Business,All In,33600,Closed Won,true,true,2026-04-09,2026-06-07,Northeast
+OPP000840,ACC00688,,Cypress Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-01-30,2025-04-25,Northeast
+OPP000841,ACC00689,LEAD000592,Beacon & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-09-06,2024-10-31,West
+OPP000842,ACC00690,LEAD001380,Harbor Partners - All In (New Business),New Business,All In,33600,Closed Won,true,true,2026-05-31,2026-06-29,Southwest
+OPP000843,ACC00691,LEAD002419,Stonebridge Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-08-19,2025-11-07,Southwest
+OPP000844,ACC00691,,Stonebridge Real Estate - All In (Expansion),Expansion,All In,20909,Discovery,false,false,2026-05-12,2026-09-29,Southwest
+OPP000845,ACC00692,LEAD003054,Cornerstone Realty - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-07-08,2023-09-21,Southeast
+OPP000846,ACC00693,LEAD003708,Cypress Properties - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-06-09,2024-07-30,Southeast
+OPP000847,ACC00694,LEAD001968,Stonebridge & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-09-07,2023-12-01,Southeast
+OPP000848,ACC00695,LEAD000565,Summit Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-08-27,2024-11-13,Northeast
+OPP000849,ACC00695,,Summit Realty - Scale (Expansion),Expansion,Scale,11247,Closed Won,true,true,2025-04-24,2025-08-16,Northeast
+OPP000850,ACC00696,LEAD002455,Beacon Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-09-17,2024-12-21,Northeast
+OPP000851,ACC00697,LEAD000159,Foxglove Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-24,2025-01-09,West
+OPP000852,ACC00698,LEAD001426,Stonebridge Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-06-16,2025-10-13,Midwest
+OPP000853,ACC00699,LEAD003878,Blackwood & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-11-29,2025-02-03,Southwest
+OPP000854,ACC00699,,Blackwood & Co. - Scale (Expansion),Expansion,Scale,6936,Closed Won,true,true,2025-08-04,2025-08-25,Southwest
+OPP000855,ACC00700,,Stonebridge Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-01-11,2024-03-02,Midwest
+OPP000856,ACC00701,LEAD000709,Cornerstone Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-06-11,2025-08-22,Northeast
+OPP000857,ACC00702,LEAD003250,Lakeshore Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-11-13,2025-12-15,Southwest
+OPP000858,ACC00703,LEAD003604,Cypress Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-12-24,2025-01-24,Southeast
+OPP000859,ACC00703,,Cypress Group - Launch (Expansion),Expansion,Launch,1500,Closed Lost,true,false,2025-08-10,2025-11-28,Southeast
+OPP000860,ACC00704,LEAD003608,Meridian Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-09-27,2023-11-27,Southeast
+OPP000861,ACC00704,,Meridian Realty - Launch (Expansion),Expansion,Launch,2502,Closed Won,true,true,2024-05-20,2024-08-04,Southeast
+OPP000862,ACC00705,LEAD003901,Stonebridge Partners - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-01-24,2025-05-17,West
+OPP000863,ACC00706,LEAD003086,Ironwood Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-09-15,2023-10-30,Midwest
+OPP000864,ACC00706,,Ironwood Realty - All In (Expansion),Expansion,All In,16420,Closed Won,true,true,2024-06-13,2024-10-08,Midwest
+OPP000865,ACC00707,LEAD000731,Foxglove Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-02-26,2025-04-11,Southwest
+OPP000866,ACC00708,,Cypress & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-05-19,2025-07-05,Southeast
+OPP000867,ACC00709,LEAD003816,Ridgeline Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-07-13,2023-08-08,Northeast
+OPP000868,ACC00710,LEAD003051,Foxglove & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-05-31,2023-05-24,Southwest
+OPP000869,ACC00710,,Foxglove & Co. - Brand (Expansion),Expansion,Brand,3995,Closed Lost,true,false,2024-02-06,2024-05-08,Southwest
+OPP000870,ACC00711,LEAD001623,Cornerstone Real Estate - All In (New Business),New Business,All In,33600,Closed Won,true,true,2023-12-05,2024-02-03,Northeast
+OPP000871,ACC00712,LEAD003884,Lakeshore Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-09-19,2025-01-05,Southeast
+OPP000872,ACC00713,LEAD000791,Cypress Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-12-24,2025-01-17,Northeast
+OPP000873,ACC00713,,Cypress Real Estate - All In (Expansion),Expansion,All In,19507,Closed Won,true,true,2025-08-05,2025-08-26,Northeast
+OPP000874,ACC00714,LEAD003279,Cypress Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-05-31,2023-09-23,Northeast
+OPP000875,ACC00715,LEAD001035,Cornerstone & Co. - All In (New Business),New Business,All In,33600,Closed Won,true,true,2023-02-08,2023-05-08,Southeast
+OPP000876,ACC00716,LEAD003174,Cypress Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-02-23,2025-04-13,Northeast
+OPP000877,ACC00717,LEAD001647,Ridgeline Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-07-11,2023-09-21,Southeast
+OPP000878,ACC00718,LEAD003314,Meridian Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-03-07,2026-05-12,Northeast
+OPP000879,ACC00719,,Ridgeline & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-10-17,2023-11-22,Southwest
+OPP000880,ACC00719,,Ridgeline & Co. - Brand (Expansion),Expansion,Brand,3070,Closed Won,true,true,2024-06-19,2024-09-05,Southwest
+OPP000881,ACC00720,LEAD001909,Ironwood Realty - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-02-09,2025-03-04,Southwest
+OPP000882,ACC00721,LEAD000047,Blackwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-02-23,2025-05-30,Northeast
+OPP000883,ACC00722,,Stonebridge Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-10-29,2024-11-18,Northeast
+OPP000884,ACC00722,,Stonebridge Partners - Brand (Expansion),Expansion,Brand,4152,Closed Lost,true,false,2025-06-22,2025-10-13,Northeast
+OPP000885,ACC00723,LEAD002940,Lakeshore Partners - Launch (New Business),New Business,Launch,6000,Proposal,false,false,2026-04-27,2026-08-31,West
+OPP000886,ACC00724,LEAD002529,Lakeshore Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-07-22,2025-09-25,Southeast
+OPP000887,ACC00724,,Lakeshore Realty - Scale (Expansion),Expansion,Scale,12268,Negotiation,false,false,2026-03-29,2026-08-26,Southeast
+OPP000888,ACC00725,LEAD003146,Ridgeline & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-07-04,2025-09-25,Midwest
+OPP000889,ACC00726,LEAD001817,Cypress Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2026-02-14,2026-04-23,Northeast
+OPP000890,ACC00727,LEAD001041,Stonebridge Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-08-16,2024-08-31,Southwest
+OPP000891,ACC00728,LEAD001315,Summit Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-04-03,2023-05-22,Midwest
+OPP000892,ACC00728,,Summit Group - Brand (Expansion),Expansion,Brand,3174,Closed Won,true,true,2023-12-31,2024-03-12,Midwest
+OPP000893,ACC00729,LEAD002772,Cypress Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-08-16,2023-08-31,Midwest
+OPP000894,ACC00729,,Cypress Properties - Brand (Expansion),Expansion,Brand,6229,Closed Lost,true,false,2024-04-08,2024-06-29,Midwest
+OPP000895,ACC00730,LEAD003549,Lakeshore Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-05-29,2025-08-05,Southwest
+OPP000896,ACC00731,LEAD002018,Harbor Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-11-29,2025-01-03,Midwest
+OPP000897,ACC00731,,Harbor Realty - Brand (Expansion),Expansion,Brand,7425,Closed Won,true,true,2025-07-16,2025-09-20,Midwest
+OPP000898,ACC00732,LEAD001080,Blackwood Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-11-24,2025-12-31,Southwest
+OPP000899,ACC00733,LEAD000075,Meridian & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-05-06,2024-07-26,Southeast
+OPP000900,ACC00733,,Meridian & Co. - Scale (Expansion),Expansion,Scale,7090,Closed Lost,true,false,2025-01-31,2025-05-04,Southeast
+OPP000901,ACC00734,LEAD003402,Foxglove Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-04-17,2025-08-07,Southwest
+OPP000902,ACC00735,LEAD002327,Beacon Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-06-04,2025-07-14,Southwest
+OPP000903,ACC00736,,Cornerstone Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-04-01,2025-06-12,Midwest
+OPP000904,ACC00737,LEAD001274,Ridgeline & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-07-06,2023-08-06,Northeast
+OPP000905,ACC00738,LEAD000939,Stonebridge Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-22,2024-12-27,Northeast
+OPP000906,ACC00739,LEAD002758,Stonebridge Properties - Brand (New Business),New Business,Brand,10800,Proposal,false,false,2026-06-13,2026-09-20,Southwest
+OPP000907,ACC00740,LEAD001819,Foxglove & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-11-12,2025-12-01,Southwest
+OPP000908,ACC00740,,Foxglove & Co. - Brand (Expansion),Expansion,Brand,4561,Discovery,false,false,2026-06-25,2026-08-14,Southwest
+OPP000909,ACC00741,LEAD001810,Stonebridge Realty - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-02-24,2025-05-04,West
+OPP000910,ACC00742,LEAD001536,Stonebridge Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-03-03,2023-04-04,West
+OPP000911,ACC00742,,Stonebridge Group - All In (Expansion),Expansion,All In,18297,Closed Won,true,true,2023-10-24,2023-12-28,West
+OPP000912,ACC00743,LEAD001950,Lakeshore Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-03-29,2024-05-15,Midwest
+OPP000913,ACC00744,,Meridian Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-03-27,2025-06-21,West
+OPP000914,ACC00744,,Meridian Real Estate - Scale (Expansion),Expansion,Scale,5642,Closed Won,true,true,2025-12-08,2026-03-31,West
+OPP000915,ACC00745,LEAD000712,Ridgeline & Co. - Scale (New Business),New Business,Scale,19200,Negotiation,false,false,2026-06-07,2026-09-28,Northeast
+OPP000916,ACC00746,LEAD000741,Summit & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-08-23,2024-10-23,Northeast
+OPP000917,ACC00746,,Summit & Co. - Scale (Expansion),Expansion,Scale,10948,Closed Won,true,true,2025-04-23,2025-05-19,Northeast
+OPP000918,ACC00747,,Ironwood Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-05-02,2023-07-20,West
+OPP000919,ACC00747,,Ironwood Group - Launch (Expansion),Expansion,Launch,1605,Closed Lost,true,false,2024-01-21,2024-04-28,West
+OPP000920,ACC00748,LEAD001936,Ironwood Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-05-09,2024-08-03,West
+OPP000921,ACC00749,LEAD003503,Cornerstone & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2026-04-05,2026-06-21,Midwest
+OPP000922,ACC00750,LEAD003288,Summit Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-08-26,2023-10-28,Midwest
+OPP000923,ACC00751,LEAD000230,Cornerstone Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-04-23,2023-05-19,Southwest
+OPP000924,ACC00752,LEAD001903,Stonebridge Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-05-07,2023-08-14,West
+OPP000925,ACC00753,LEAD001893,Summit Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-07-17,2025-09-12,Midwest
+OPP000926,ACC00754,LEAD001775,Foxglove Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-05-27,2025-06-16,West
+OPP000927,ACC00755,LEAD000903,Lakeshore Real Estate - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-12-27,2025-03-16,Northeast
+OPP000928,ACC00756,LEAD000139,Blackwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-02-13,2024-06-05,West
+OPP000929,ACC00756,,Blackwood Group - Scale (Expansion),Expansion,Scale,10292,Closed Lost,true,false,2024-11-06,2024-12-05,West
+OPP000930,ACC00757,LEAD001644,Meridian Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-04-10,2023-04-28,Southwest
+OPP000931,ACC00758,LEAD002928,Summit Real Estate - Brand (New Business),New Business,Brand,10800,Discovery,false,false,2026-06-12,2026-11-09,Southwest
+OPP000932,ACC00759,LEAD003365,Cornerstone Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-03-09,2024-04-21,West
+OPP000933,ACC00760,LEAD002396,Ironwood Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-12-07,2025-02-09,Southeast
+OPP000934,ACC00761,LEAD003127,Cornerstone Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-04-21,2024-07-24,Southwest
+OPP000935,ACC00761,,Cornerstone Properties - All In (Expansion),Expansion,All In,21471,Closed Won,true,true,2024-12-26,2025-01-31,Southwest
+OPP000936,ACC00762,LEAD003542,Lakeshore Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-01-23,2023-04-07,Southeast
+OPP000937,ACC00763,LEAD002804,Cornerstone Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-01-10,2025-04-15,Southwest
+OPP000938,ACC00764,LEAD001158,Summit Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2026-03-05,2026-04-22,Southwest
+OPP000939,ACC00765,,Blackwood Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-09-10,2023-11-25,Southeast
+OPP000940,ACC00765,,Blackwood Partners - Brand (Expansion),Expansion,Brand,6191,Closed Lost,true,false,2024-04-23,2024-05-07,Southeast
+OPP000941,ACC00766,LEAD001448,Ridgeline Properties - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-06-27,2025-09-19,Southwest
+OPP000942,ACC00767,,Meridian Properties - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-05-27,2024-06-29,Northeast
+OPP000943,ACC00768,LEAD002956,Meridian Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-08-12,2024-12-04,Southwest
+OPP000944,ACC00769,LEAD001457,Foxglove Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-11-08,2026-02-09,Northeast
+OPP000945,ACC00770,LEAD002899,Beacon Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-12-29,2026-01-29,Midwest
+OPP000946,ACC00771,,Ironwood Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-02-29,2024-04-25,West
+OPP000947,ACC00772,,Blackwood Partners - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-07-17,2023-08-05,Midwest
+OPP000948,ACC00772,,Blackwood Partners - All In (Expansion),Expansion,All In,19238,Closed Lost,true,false,2024-03-01,2024-05-22,Midwest
+OPP000949,ACC00773,LEAD003633,Ironwood Partners - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-12-14,2025-04-02,Southeast
+OPP000950,ACC00774,,Lakeshore Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-05-19,2024-07-16,West
+OPP000951,ACC00775,LEAD000888,Lakeshore Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-01-09,2025-04-09,West
+OPP000952,ACC00775,,Lakeshore Properties - Launch (Expansion),Expansion,Launch,3685,Closed Lost,true,false,2025-09-11,2025-11-24,West
+OPP000953,ACC00776,LEAD003411,Blackwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-10-23,2023-11-20,Southwest
+OPP000954,ACC00777,LEAD000860,Cornerstone Properties - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-12-28,2026-01-19,West
+OPP000955,ACC00778,LEAD003033,Lakeshore Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-08-22,2025-10-07,Northeast
+OPP000956,ACC00779,,Stonebridge Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-11-03,2024-01-20,Northeast
+OPP000957,ACC00780,LEAD003868,Summit Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-05-08,2025-08-10,Southeast
+OPP000958,ACC00781,LEAD003289,Cornerstone Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-04-05,2026-06-28,Northeast
+OPP000959,ACC00782,LEAD002053,Harbor & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-08-21,2025-11-12,Midwest
+OPP000960,ACC00783,LEAD003490,Cornerstone Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-05-25,2023-07-27,West
+OPP000961,ACC00783,,Cornerstone Group - Brand (Expansion),Expansion,Brand,2935,Closed Lost,true,false,2024-02-10,2024-05-20,West
+OPP000962,ACC00784,,Harbor Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-04-22,2025-05-06,West
+OPP000963,ACC00785,LEAD001202,Stonebridge & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-03-29,2024-05-24,Southwest
+OPP000964,ACC00785,,Stonebridge & Co. - Launch (Expansion),Expansion,Launch,2545,Closed Won,true,true,2024-11-05,2025-01-17,Southwest
+OPP000965,ACC00786,LEAD001476,Ridgeline Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-08-19,2025-10-11,Northeast
+OPP000966,ACC00787,LEAD003438,Summit & Co. - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-11-08,2026-03-02,Midwest
+OPP000967,ACC00788,LEAD003296,Meridian & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-01-16,2024-04-10,Midwest
+OPP000968,ACC00788,,Meridian & Co. - Launch (Expansion),Expansion,Launch,3546,Closed Won,true,true,2024-10-04,2024-12-11,Midwest
+OPP000969,ACC00789,LEAD000849,Ridgeline Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-04-07,2023-07-27,Northeast
+OPP000970,ACC00789,,Ridgeline Group - Brand (Expansion),Expansion,Brand,5199,Closed Won,true,true,2023-12-15,2024-02-11,Northeast
+OPP000971,ACC00790,LEAD003277,Harbor Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-04-23,2025-05-16,Southwest
+OPP000972,ACC00791,LEAD000853,Stonebridge & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-08-19,2025-11-03,Southwest
+OPP000973,ACC00792,,Ridgeline Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-07-06,2024-08-31,Southeast
+OPP000974,ACC00792,,Ridgeline Group - Launch (Expansion),Expansion,Launch,2013,Closed Won,true,true,2025-02-17,2025-05-05,Southeast
+OPP000975,ACC00793,LEAD003479,Blackwood Properties - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-07-28,2025-08-12,Northeast
+OPP000976,ACC00793,,Blackwood Properties - Brand (Expansion),Expansion,Brand,4364,Closed Lost,true,false,2026-02-14,2026-04-23,Northeast
+OPP000977,ACC00794,LEAD001753,Summit & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-04-21,2025-05-30,Midwest
+OPP000978,ACC00794,,Summit & Co. - Launch (Expansion),Expansion,Launch,3120,Closed Won,true,true,2025-11-08,2025-12-24,Midwest
+OPP000979,ACC00795,LEAD000564,Summit & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-01-22,2026-04-02,Southwest
+OPP000980,ACC00796,LEAD002545,Cornerstone Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-05-12,2023-06-20,West
+OPP000981,ACC00797,LEAD002147,Harbor Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-12-09,2025-01-04,West
+OPP000982,ACC00797,,Harbor Properties - All In (Expansion),Expansion,All In,18375,Closed Lost,true,false,2025-08-25,2025-09-08,West
+OPP000983,ACC00798,LEAD001086,Cornerstone Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-11-19,2025-02-06,Southeast
+OPP000984,ACC00798,,Cornerstone Real Estate - Launch (Expansion),Expansion,Launch,3383,Closed Lost,true,false,2025-08-12,2025-09-24,Southeast
+OPP000985,ACC00799,,Foxglove Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-11-07,2025-02-17,Southwest
+OPP000986,ACC00800,,Cornerstone Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-08-26,2024-10-09,West
+OPP000987,ACC00800,,Cornerstone Partners - Scale (Expansion),Expansion,Scale,8531,Closed Lost,true,false,2025-04-16,2025-07-19,West
+OPP000988,ACC00801,LEAD002449,Stonebridge Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-08-14,2023-09-16,Southwest
+OPP000989,ACC00802,LEAD002571,Meridian Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-10-29,2025-12-03,Midwest
+OPP000990,ACC00803,,Harbor Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-02-22,2023-04-28,Northeast
+OPP000991,ACC00804,LEAD000963,Ridgeline Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-03-15,2025-04-17,West
+OPP000992,ACC00805,LEAD000646,Ironwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-11-25,2025-01-23,Midwest
+OPP000993,ACC00806,LEAD002478,Stonebridge & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-05-18,2023-06-13,Southwest
+OPP000994,ACC00807,LEAD003857,Cornerstone Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-05-17,2023-07-13,Southeast
+OPP000995,ACC00808,,Ironwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-02-28,2024-04-16,Northeast
+OPP000996,ACC00809,LEAD002733,Beacon & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-06-02,2024-07-22,Southeast
+OPP000997,ACC00809,,Beacon & Co. - Brand (Expansion),Expansion,Brand,6932,Closed Won,true,true,2025-01-28,2025-02-18,Southeast
+OPP000998,ACC00810,,Cypress Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-01-07,2024-03-20,Midwest
+OPP000999,ACC00811,LEAD003029,Ridgeline Real Estate - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2023-07-12,2023-08-22,Southeast
+OPP001000,ACC00811,,Ridgeline Real Estate - Launch (Expansion),Expansion,Launch,2266,Closed Won,true,true,2024-03-19,2024-05-20,Southeast
+OPP001001,ACC00812,LEAD000188,Ridgeline & Co. - All In (New Business),New Business,All In,33600,Closed Won,true,true,2026-03-27,2026-05-03,Southeast
+OPP001002,ACC00813,LEAD003077,Ironwood Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-03-09,2025-06-19,West
+OPP001003,ACC00813,,Ironwood Partners - Brand (Expansion),Expansion,Brand,7167,Closed Won,true,true,2025-11-12,2026-03-06,West
+OPP001004,ACC00814,LEAD001790,Meridian Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-03-27,2023-07-25,Northeast
+OPP001005,ACC00815,,Ironwood & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-03-03,2025-04-22,Southeast
+OPP001006,ACC00816,LEAD000684,Foxglove Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-12-13,2024-02-17,West
+OPP001007,ACC00817,LEAD002742,Meridian Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-07-14,2023-09-03,Southwest
+OPP001008,ACC00818,LEAD003283,Stonebridge Partners - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-01-05,2026-03-26,Midwest
+OPP001009,ACC00819,LEAD002206,Summit Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-03-29,2024-05-17,Southwest
+OPP001010,ACC00819,,Summit Properties - Brand (Expansion),Expansion,Brand,5756,Closed Lost,true,false,2024-11-25,2025-03-15,Southwest
+OPP001011,ACC00820,LEAD001764,Lakeshore Properties - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-08-17,2024-09-03,Southeast
+OPP001012,ACC00821,,Stonebridge Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2024-04-10,2024-07-29,West
+OPP001013,ACC00822,LEAD000922,Ironwood Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-01-13,2024-02-13,Northeast
+OPP001014,ACC00823,LEAD002458,Summit & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-08-19,2023-09-05,Southwest
+OPP001015,ACC00823,,Summit & Co. - Launch (Expansion),Expansion,Launch,2775,Closed Won,true,true,2024-03-26,2024-06-23,Southwest
+OPP001016,ACC00824,,Lakeshore Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-07-16,2024-09-14,Southeast
+OPP001017,ACC00824,,Lakeshore Real Estate - Launch (Expansion),Expansion,Launch,2971,Closed Lost,true,false,2025-02-24,2025-05-21,Southeast
+OPP001018,ACC00825,LEAD003345,Summit Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-02-01,2025-05-30,Midwest
+OPP001019,ACC00826,LEAD003428,Cypress Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-11-01,2024-02-18,Southeast
+OPP001020,ACC00826,,Cypress Group - Scale (Expansion),Expansion,Scale,4909,Closed Won,true,true,2024-07-02,2024-09-25,Southeast
+OPP001021,ACC00827,LEAD001591,Lakeshore Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-02-02,2024-05-09,Southeast
+OPP001022,ACC00828,LEAD000035,Harbor Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-09-29,2025-11-29,Southeast
+OPP001023,ACC00829,,Harbor Group - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-11-14,2024-02-21,Midwest
+OPP001024,ACC00830,LEAD000340,Foxglove & Co. - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-06-21,2024-07-16,Southeast
+OPP001025,ACC00831,,Foxglove Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2024-08-24,2024-11-21,Midwest
+OPP001026,ACC00832,,Meridian Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-12-05,2025-03-15,West
+OPP001027,ACC00833,LEAD001331,Harbor Group - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2025-06-17,2025-09-10,Northeast
+OPP001028,ACC00834,LEAD001322,Lakeshore Partners - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-09-14,2023-10-23,Southwest
+OPP001029,ACC00835,LEAD003270,Foxglove Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-06-27,2025-09-08,Southwest
+OPP001030,ACC00835,,Foxglove Properties - Brand (Expansion),Expansion,Brand,7403,Closed Won,true,true,2026-02-06,2026-02-28,Southwest
+OPP001031,ACC00836,,Beacon Properties - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-09-03,2024-09-17,Southeast
+OPP001032,ACC00837,LEAD002609,Stonebridge Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-10-26,2025-01-02,West
+OPP001033,ACC00838,,Cornerstone & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-12-17,2025-03-20,Southeast
+OPP001034,ACC00838,,Cornerstone & Co. - Brand (Expansion),Expansion,Brand,2782,Closed Lost,true,false,2025-08-20,2025-10-10,Southeast
+OPP001035,ACC00839,LEAD003603,Lakeshore Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-01-07,2024-03-24,Southeast
+OPP001036,ACC00840,LEAD000304,Cornerstone & Co. - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-09-10,2024-12-07,West
+OPP001037,ACC00841,LEAD000183,Meridian Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-09-20,2024-11-20,West
+OPP001038,ACC00842,LEAD000138,Meridian Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-03-10,2024-07-04,Southwest
+OPP001039,ACC00843,,Harbor Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-10-11,2026-01-18,West
+OPP001040,ACC00844,LEAD003551,Blackwood & Co. - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2023-09-30,2023-11-28,Southeast
+OPP001041,ACC00845,LEAD000087,Beacon Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-03-22,2025-04-13,West
+OPP001042,ACC00846,LEAD003749,Meridian Real Estate - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-12-09,2026-02-28,Southeast
+OPP001043,ACC00847,LEAD001629,Harbor Group - All In (New Business),New Business,All In,33600,Closed Won,true,true,2025-06-15,2025-09-17,Southwest
+OPP001044,ACC00848,LEAD003769,Meridian Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2026-01-03,2026-01-28,Northeast
+OPP001045,ACC00849,,Harbor Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-02-11,2023-06-03,Northeast
+OPP001046,ACC00850,LEAD002166,Cypress Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-04-06,2023-06-11,Northeast
+OPP001047,ACC00851,LEAD001193,Beacon Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-12-04,2026-02-17,Southwest
+OPP001048,ACC00852,LEAD000263,Cornerstone Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-08-31,2023-12-04,Northeast
+OPP001049,ACC00853,LEAD001077,Ironwood Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-08-22,2024-10-02,Southwest
+OPP001050,ACC00853,,Ironwood Realty - Launch (Expansion),Expansion,Launch,1818,Closed Won,true,true,2025-04-14,2025-07-12,Southwest
+OPP001051,ACC00854,,Ridgeline Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-07-13,2024-09-18,Southeast
+OPP001052,ACC00854,,Ridgeline Real Estate - Scale (Expansion),Expansion,Scale,11995,Closed Won,true,true,2025-03-03,2025-04-16,Southeast
+OPP001053,ACC00855,LEAD003099,Ridgeline Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-03-31,2026-06-25,Southwest
+OPP001054,ACC00856,,Ironwood Realty - All In (New Business),New Business,All In,33600,Closed Won,true,true,2026-01-25,2026-05-15,West
+OPP001055,ACC00857,LEAD002553,Ironwood Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-05-16,2024-07-23,Southwest
+OPP001056,ACC00858,LEAD001435,Lakeshore & Co. - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-10-29,2025-02-11,Northeast
+OPP001057,ACC00859,LEAD003137,Ironwood Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-01-19,2024-04-28,West
+OPP001058,ACC00860,LEAD002589,Ridgeline Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-11-22,2026-01-23,Midwest
+OPP001059,ACC00861,LEAD003544,Lakeshore Partners - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-05-06,2025-08-16,Southwest
+OPP001060,ACC00862,LEAD003598,Lakeshore Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-07-10,2023-08-26,Southwest
+OPP001061,ACC00863,LEAD002907,Beacon Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-07-27,2023-09-21,Southwest
+OPP001062,ACC00864,,Stonebridge Realty - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-04-13,2025-06-15,Northeast
+OPP001063,ACC00865,LEAD001778,Cypress Properties - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2025-08-17,2025-11-21,Northeast
+OPP001064,ACC00866,LEAD001126,Lakeshore Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-06-26,2025-08-05,Midwest
+OPP001065,ACC00866,,Lakeshore Realty - All In (Expansion),Expansion,All In,22462,Closed Lost,true,false,2026-02-03,2026-04-17,Midwest
+OPP001066,ACC00867,,Stonebridge & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-09-20,2024-12-03,Midwest
+OPP001067,ACC00867,,Stonebridge & Co. - All In (Expansion),Expansion,All In,16837,Closed Won,true,true,2025-06-05,2025-09-29,Midwest
+OPP001068,ACC00868,,Beacon Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2023-04-13,2023-05-27,Northeast
+OPP001069,ACC00869,LEAD001945,Ridgeline Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-02-05,2023-02-01,Midwest
+OPP001070,ACC00869,,Ridgeline Partners - Brand (Expansion),Expansion,Brand,6667,Closed Lost,true,false,2023-10-04,2023-10-31,Midwest
+OPP001071,ACC00870,LEAD003039,Beacon Realty - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-11-28,2025-12-16,Southwest
+OPP001072,ACC00871,LEAD003429,Blackwood Realty - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2025-05-28,2025-07-27,Midwest
+OPP001073,ACC00871,,Blackwood Realty - Brand (Expansion),Expansion,Brand,3964,Closed Won,true,true,2026-02-06,2026-05-01,Midwest
+OPP001074,ACC00872,LEAD003010,Summit Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2024-03-07,2024-06-15,Southeast
+OPP001075,ACC00873,LEAD003471,Beacon Real Estate - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-09-08,2025-11-20,Southwest
+OPP001076,ACC00874,LEAD002254,Lakeshore Real Estate - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-08-27,2023-12-04,Southeast
+OPP001077,ACC00875,LEAD002801,Blackwood Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-01-22,2023-04-22,Southeast
+OPP001078,ACC00876,LEAD002060,Stonebridge Properties - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2024-09-04,2024-12-06,Northeast
+OPP001079,ACC00877,LEAD003841,Ridgeline Partners - Scale (New Business),New Business,Scale,19200,Closed Won,true,true,2024-02-21,2024-03-16,Northeast
+OPP001080,ACC00878,LEAD003591,Cypress Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-08-07,2023-10-31,West
+OPP001081,ACC00879,LEAD003978,Lakeshore Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-05-30,2023-06-22,West
+OPP001082,ACC00879,,Lakeshore Group - Launch (Expansion),Expansion,Launch,3334,Closed Won,true,true,2024-01-15,2024-04-15,West
+OPP001083,ACC00880,LEAD001124,Beacon Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-05-17,2023-08-15,Southwest
+OPP001084,ACC00881,LEAD001787,Foxglove Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-08-19,2023-11-12,Midwest
+OPP001085,ACC00881,,Foxglove Real Estate - Launch (Expansion),Expansion,Launch,1711,Closed Won,true,true,2024-05-13,2024-08-05,Midwest
+OPP001086,ACC00882,,Ironwood Realty - Launch (New Business),New Business,Launch,6000,Closed Won,true,true,2024-05-13,2024-06-09,Northeast
+OPP001087,ACC00883,LEAD003389,Harbor Realty - All In (New Business),New Business,All In,33600,Closed Won,true,true,2024-02-10,2024-04-30,West
+OPP001088,ACC00883,,Harbor Realty - Brand (Expansion),Expansion,Brand,6977,Closed Lost,true,false,2024-10-28,2025-01-27,West
+OPP001089,ACC00884,LEAD003414,Cypress & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-05-14,2023-06-29,Northeast
+OPP001090,ACC00885,LEAD000744,Cypress Realty - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-05-24,2023-08-19,West
+OPP001091,ACC00886,,Ironwood Partners - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-06-05,2023-09-16,West
+OPP001092,ACC00887,LEAD001797,Summit Properties - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2025-05-05,2025-08-29,Northeast
+OPP001093,ACC00888,LEAD003057,Cornerstone Group - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-12-15,2026-03-29,Southeast
+OPP001094,ACC00889,,Blackwood Properties - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-03-26,2023-04-16,Northeast
+OPP001095,ACC00890,,Stonebridge Real Estate - All In (New Business),New Business,All In,33600,Closed Lost,true,false,2025-01-09,2025-01-23,Northeast
+OPP001096,ACC00891,,Blackwood Properties - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2023-02-24,2023-05-05,Midwest
+OPP001097,ACC00891,,Blackwood Properties - Scale (Expansion),Expansion,Scale,10769,Closed Won,true,true,2023-09-22,2023-11-20,Midwest
+OPP001098,ACC00892,LEAD000441,Foxglove Real Estate - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2025-03-16,2025-05-09,West
+OPP001099,ACC00893,,Stonebridge & Co. - Scale (New Business),New Business,Scale,19200,Closed Lost,true,false,2025-04-30,2025-06-03,Southwest
+OPP001100,ACC00894,LEAD001745,Beacon & Co. - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2024-02-22,2024-06-18,Southeast
+OPP001101,ACC00895,LEAD002776,Harbor Partners - Launch (New Business),New Business,Launch,6000,Discovery,false,false,2026-06-26,2026-09-25,Southwest
+OPP001102,ACC00896,LEAD001320,Summit Realty - Brand (New Business),New Business,Brand,10800,Closed Lost,true,false,2023-01-29,2023-02-23,Northeast
+OPP001103,ACC00897,LEAD001870,Summit Realty - Launch (New Business),New Business,Launch,6000,Discovery,false,false,2026-05-22,2026-08-13,Midwest
+OPP001104,ACC00898,LEAD002554,Blackwood Group - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2026-03-11,2026-04-20,Southwest
+OPP001105,ACC00899,LEAD001930,Harbor Real Estate - Launch (New Business),New Business,Launch,6000,Closed Lost,true,false,2023-10-25,2023-11-23,Midwest
+OPP001106,ACC00899,,Harbor Real Estate - Scale (Expansion),Expansion,Scale,11556,Closed Lost,true,false,2024-05-23,2024-09-16,Midwest
+OPP001107,ACC00900,LEAD003006,Ridgeline Group - Brand (New Business),New Business,Brand,10800,Closed Won,true,true,2023-03-24,2023-05-06,West
