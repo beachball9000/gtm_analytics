@@ -1,4 +1,16 @@
-select count(*) as total,
-       count(distinct contact_id) as distinct_ids,
-       count(distinct lower(trim(email))) as distinct_emails
-from raw_contacts;
+select 
+'dim_accounts' as model, 
+count(*) from dim_accounts
+
+union all 
+select 
+'fct_funnel_conversion', 
+count(*) 
+from fct_funnel_conversion
+
+
+union all 
+select 
+'fct_revenue_retention', 
+count(*) 
+from fct_revenue_retention

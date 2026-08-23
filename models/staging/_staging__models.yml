@@ -1,0 +1,123 @@
+version: 2
+
+models:
+  - name: stg_leads
+    description: >
+      One row per lead. Lead source is lowercased and trimmed to collapse
+      casing variants introduced by the source system.
+    columns:
+      - name: lead_id
+        description: Primary key.
+        tests: [unique, not_null]
+      - name: lead_source
+        description: >
+          Marketing channel that produced the lead. Missing on a subset of
+          records; bucketed as 'unknown' downstream rather than dropped.
+        tests:
+          - not_null:
+              config:
+                severity: warn
+      - name: is_mql
+        description: Whether marketing qualified this lead for sales follow-up.
+      - name: converted_account_id
+        description: Account created from this lead, null if never converted.
+
+  - name: stg_accounts
+    description: One row per account (agent, team, or brokerage).
+    columns:
+      - name: account_id
+        description: Primary key.
+        tests: [unique, not_null]
+      - name: segment
+        description: Customer size band.
+        tests:
+          - accepted_values:
+              values: ['Solo Agent', 'Small Team', 'Large Team', 'Brokerage']
+      - name: industry
+        description: Lowercased and trimmed to collapse source casing variants.
+        tests:
+          - accepted_values:
+              values:
+                - residential real estate
+                - luxury residential
+                - commercial real estate
+                - property management
+
+  - name: stg_contacts
+    description: One row per contact. Email lowercased and trimmed.
+    columns:
+      - name: contact_id
+        description: Primary key.
+        tests: [unique, not_null]
+      - name: email
+        description: >
+          Expected unique per person, but the source contains duplicates.
+          Not deduplicated here - resolving which record is authoritative
+          is a business decision, not a formatting one.
+        tests:
+          - unique:
+              config:
+                severity: warn
+      - name: account_id
+        description: Parent account. A small number of contacts are orphaned.
+        tests:
+          - relationships:
+              to: ref('stg_accounts')
+              field: account_id
+              config:
+                severity: warn
+
+  - name: stg_opportunities
+    description: One row per opportunity (deal).
+    columns:
+      - name: opportunity_id
+        description: Primary key.
+        tests: [unique, not_null]
+      - name: account_id
+        tests:
+          - relationships:
+              to: ref('stg_accounts')
+              field: account_id
+      - name: stage_name
+        tests:
+          - accepted_values:
+              values:
+                - Prospecting
+                - Discovery
+                - Demo
+                - Proposal
+                - Negotiation
+                - Closed Won
+                - Closed Lost
+      - name: opportunity_type
+        tests:
+          - accepted_values:
+              values: ['New Business', 'Expansion']
+
+  - name: stg_opportunity_stage_history
+    description: >
+      One row per stage transition. Some opportunities skip stages, so this
+      is an event log rather than a complete sequential path.
+    columns:
+      - name: stage_history_id
+        tests: [unique, not_null]
+      - name: opportunity_id
+        tests:
+          - relationships:
+              to: ref('stg_opportunities')
+              field: opportunity_id
+
+  - name: stg_subscriptions
+    description: One row per account per subscription term.
+    columns:
+      - name: subscription_id
+        tests: [unique, not_null]
+      - name: account_id
+        tests:
+          - relationships:
+              to: ref('stg_accounts')
+              field: account_id
+      - name: end_status
+        tests:
+          - accepted_values:
+              values: ['Renewed', 'Churned', 'Upgraded', 'Downgraded', 'Active']
