@@ -6,3 +6,6 @@ logs/
 .venv/
 dev.duckdb
 *.duckdb
+analyses/scratch_short
+analyses/scratch_long.sql
+

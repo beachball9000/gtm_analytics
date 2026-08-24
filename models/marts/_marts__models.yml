@@ -1,0 +1,74 @@
+version: 2
+
+models:
+  - name: dim_accounts
+    description: >
+      Grain: one row per account. Account attributes enriched with
+      subscription lifecycle facts. Includes non-customers - accounts that
+      never started a subscription have null subscription fields.
+    columns:
+      - name: account_id
+        description: Primary key.
+        tests: [unique, not_null]
+      - name: segment
+        description: Customer size band.
+        tests:
+          - accepted_values:
+              values: ['Solo Agent', 'Small Team', 'Large Team', 'Brokerage']
+      - name: is_customer
+        description: True when the account has at least one subscription term.
+      - name: has_churned
+        description: True when any subscription term ended in churn.
+      - name: terms_completed
+        description: Highest term number reached, a proxy for tenure.
+
+  - name: fct_funnel_conversion
+    description: >
+      Grain: one row per lead cohort month per lead source. Tracks volume
+      from lead through MQL, conversion, opportunity, and closed-won.
+      Leads with no source are bucketed as 'unknown' rather than dropped,
+      so totals reconcile to the full lead count.
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns: [cohort_month, lead_source]
+    columns:
+      - name: cohort_month
+        description: Month the lead was created, truncated to month start.
+        tests: [not_null]
+      - name: lead_source
+        description: Marketing channel, lowercased. 'unknown' where missing.
+        tests: [not_null]
+      - name: leads
+        description: Leads created in this month from this source.
+      - name: mqls
+        description: Subset marketing qualified for sales follow-up.
+      - name: lead_to_won_pct
+        description: Closed-won opportunities as a percentage of leads.
+
+  - name: fct_revenue_retention
+    description: >
+      Grain: one row per signup cohort month per subscription term number.
+      Cohort is defined by the account's first subscription start date.
+      GRR caps the numerator at starting MRR so expansion cannot mask churn;
+      NRR does not, so it can exceed 100%.
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns: [cohort_month, term_number]
+    columns:
+      - name: cohort_month
+        description: Month of the account's first subscription term.
+        tests: [not_null]
+      - name: term_number
+        description: Sequential subscription term, 1 through 4.
+        tests: [not_null]
+      - name: starting_mrr
+        description: Total MRR for the cohort at term 1, the retention baseline.
+      - name: gross_revenue_retention_pct
+        description: MRR retained, capped at 100%. Excludes expansion.
+      - name: net_revenue_retention_pct
+        description: MRR retained including expansion. Can exceed 100%.
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0
+              inclusive: true
+            

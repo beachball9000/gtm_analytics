@@ -31,8 +31,9 @@ clean-targets:         # directories to be removed by `dbt clean`
 # files using the `{{ config(...) }}` macro.
 models:
   gtm_analytics:
-    +materlialized: view
-  intermediate:
-    +materialized: view
-  marts:
-    +materialized: table
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: view
+    marts:
+      +materialized: table

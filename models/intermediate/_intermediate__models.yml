@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: int_opportunity_stage_transitions
+    description: >
+      Grain: one row per opportunity. Collapses the stage history event log
+      into first-touch timestamps per stage. Stage columns are null where an
+      opportunity never entered that stage - roughly 10% skip stages, so this
+      is not a strictly sequential funnel.
+    columns: 
+      - name: opportunity_id
+        description: Primaru_key.
+        tests: [unique, not_null]
+      - name: stage_touch_count
+        description: Number of stage transitions events recorded.
