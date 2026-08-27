@@ -9,7 +9,55 @@ models:
       is not a strictly sequential funnel.
     columns: 
       - name: opportunity_id
-        description: Primaru_key.
+        description: Primary key.
         tests: [unique, not_null]
       - name: stage_touch_count
         description: Number of stage transitions events recorded.
+  - name: int_subscription_terms
+    description: >
+      Grain: one row per account per subscription term. Joins each term to its
+      account's term-1 values (cohort_start, account_starting_mrr) so that
+      downstream retention math can be done at account grain rather than
+      cohort-aggregate grain. Terms are strictly sequential and never skip.
+      Accounts still active at the end of the data window stop producing rows,
+      so absence of a later term does not by itself mean churn - see
+      end_status.
+    columns:
+      - name: subscription_id
+        description: Primary key. One row per subscription term.
+        tests: [unique, not_null]
+      - name: account_id
+        description: Foreign key to dim_accounts.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_accounts')
+              field: account_id
+      - name: term_number
+        description: >
+          Sequential term index starting at 1. Each term is 365 days. Capped at
+          4 by the source generator.
+        tests: [not_null]
+      - name: cohort_month
+        description: >
+          Month of the account's first term start, truncated to month. Cohort
+          assignment is fixed at term 1 and does not change as the account
+          renews.
+      - name: mrr
+        description: >
+          Monthly recurring revenue for this term, snapshotted at term start.
+          Monthly, not annualized. Changes between terms on upgrade/downgrade.
+      - name: account_starting_mrr
+        description: >
+          This account's term-1 MRR, repeated on every term row. The per-account
+          denominator for retention math.
+      - name: capped_mrr
+        description: >
+          least(mrr, account_starting_mrr). Expansion removed at account grain.
+          Summing this gives the gross revenue retention numerator; summing mrr
+          gives the net numerator.
+      - name: end_status
+        description: >
+          Outcome of this term - Renewed, Upgraded, Downgraded, Churned, or
+          Active. Active means the term extends past the data window, not that
+          the account renewed.

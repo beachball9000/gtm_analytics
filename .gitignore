@@ -8,4 +8,7 @@ dev.duckdb
 *.duckdb
 analyses/scratch_short
 analyses/scratch_long.sql
+scratch/
+notebooks/
+mart_views/*.sql
 

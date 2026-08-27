@@ -1,3 +1,4 @@
 {
-    "dbt.perspectiveTheme": "Vintage"
+    "dbt.perspectiveTheme": "Pro Light",
+    "dbt.queryLimit": 50000
 }
