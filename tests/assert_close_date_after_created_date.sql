@@ -8,7 +8,7 @@ opportunity_id,
 account_id
 created_date, 
 close_date,
-date_diff('day', created_date, close_date) as days_diff
+{{ dbt.datediff('created_date', 'close_date', 'day') }} as days_diff
 from {{ ref('stg_opportunities') }}
 
 where close_date < created_date
