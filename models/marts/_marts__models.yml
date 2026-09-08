@@ -71,4 +71,107 @@ models:
           - dbt_utils.accepted_range:
               min_value: 0
               inclusive: true
+              
+  - name: fct_revenue_retention_by_segment
+    description: >
+      Grain: one row per cohort_month per segment per term_number. Same
+      account-grain retention logic as fct_revenue_retention (see that model's
+      description for the GRR/NRR mechanics), but starting_accounts and
+      starting_mrr are computed within each segment rather than across the
+      whole cohort - each segment is retained against its own baseline, not
+      the cohort's combined baseline. Built to check whether NRR/GRR trends
+      hold within segment or are an artifact of cohort mix-shift toward
+      larger accounts over time.
+    columns:
+      - name: cohort_month
+        description: Month of the account's first term start, truncated to month.
+        tests: [not_null]
+
+      - name: segment
+        description: >
+          Account segment (Solo Agent, Small Team, Large Team, Brokerage) as
+          of term 1 - sourced from stg_accounts, joined in int_subscription_terms.
+          If an account's segment changes after term 1, this reflects the
+          original value, not the current one.
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Solo Agent', 'Small Team', 'Large Team', 'Brokerage']
+
+      - name: term_number
+        description: Sequential term index starting at 1. Each term is 365 days.
+        tests: [not_null]
+
+      - name: starting_accounts
+        description: >
+          Distinct accounts in this segment at term 1 of this cohort. The
+          denominator for account_retention_pct.
+
+      - name: starting_mrr
+        description: >
+          Sum of this segment's term-1 MRR within this cohort. The denominator
+          for both NRR and GRR. Segment-scoped, not cohort-scoped - this is
+          the key difference from fct_revenue_retention.
+
+      - name: accounts
+        description: Distinct accounts in this segment still present at this term.
+
+      - name: mrr
+        description: >
+          Sum of current-term MRR for this segment/cohort/term. Monthly, not
+          annualized. Includes expansion - this is the NRR numerator.
+
+      - name: retained_mrr
+        description: >
+          Sum of capped_mrr (each account's MRR ceilinged at its own term-1
+          value) for this segment/cohort/term. The GRR numerator - expansion
+          removed at account grain before summing.
+
+      - name: cohort_capped_mrr
+        description: >
+          Legacy calculation, retained for comparison only:
+          least(sum(mrr), starting_mrr) - caps at the segment-cohort aggregate
+          rather than per account, so expansion inside the segment can mask
+          churn elsewhere in it. See gross_revenue_retention_cohort_capped_pct.
+          Do not use for new reporting.
+
+      - name: account_retention_pct
+        description: 100 * accounts / starting_accounts, rounded to 1 decimal.
+
+      - name: net_revenue_retention_pct
+        description: >
+          100 * mrr / starting_mrr, rounded to 1 decimal. Can exceed 100 -
+          expansion from surviving accounts can outpace churn/downgrades.
+
+      - name: gross_revenue_retention_pct
+        description: >
+          100 * retained_mrr / starting_mrr, rounded to 1 decimal. The
+          corrected, account-grain GRR. Should never exceed
+          net_revenue_retention_pct.
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: "<= net_revenue_retention_pct"
+
+      - name: gross_revenue_retention_cohort_capped_pct
+        description: >
+          Legacy GRR calculation - do not use for new reporting. Retained so
+          the pre-fix numbers remain reproducible. See cohort_capped_mrr.
+
+      - name: is_term_complete
+        description: >
+          True only if every account-term row in this cohort/segment/term
+          cell has an end_date on or before the as_of_date var (currently
+          2026-06-30, matching the seed generator's END constant). Computed
+          with bool_and(), the ANSI-standard aggregate for "true iff all rows
+          are true" - portable across DuckDB and Databricks/Spark. Filter to
+          is_term_complete = true before trending NRR/GRR over time; recent
+          cohort/segment/term cells will otherwise look artificially healthy
+          because they haven't had time to churn.
+
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - cohort_month
+            - segment
+            - term_number
             

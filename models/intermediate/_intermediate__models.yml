@@ -21,7 +21,8 @@ models:
       cohort-aggregate grain. Terms are strictly sequential and never skip.
       Accounts still active at the end of the data window stop producing rows,
       so absence of a later term does not by itself mean churn - see
-      end_status.
+      end_status. stg_accounts join inside first_term cte means if segment or industry changes after term 1, this will only reflect 
+      the term 1 segment and industry.
     columns:
       - name: subscription_id
         description: Primary key. One row per subscription term.

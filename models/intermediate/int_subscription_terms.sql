@@ -4,13 +4,16 @@ with subs as (
 ,
 
 first_term as (
-
-    select
-    account_id,
-    start_Date as cohort_start,
-    mrr as account_starting_mrr
+select
+    subs.account_id,
+    subs.start_Date as cohort_start,
+    subs.mrr as account_starting_mrr,
+    sa.segment,
+    sa.industry
     from subs
-    where term_number = 1
+    join {{ ref('stg_accounts') }} sa
+    on subs.account_id = sa.account_id
+    where subs.term_number = 1
 )
 
 select 
@@ -25,6 +28,8 @@ s.end_status,
 s.plan_tier,
 s.mrr,
 f.account_starting_mrr,
+f.segment,
+f.industry,
 least(s.mrr, f.account_starting_mrr) as capped_mrr
 from subs s
 join first_term f
